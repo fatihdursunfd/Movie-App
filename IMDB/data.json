@@ -1,0 +1,4356 @@
+[
+{
+    "Name": "The Shawshank Redemption",
+    "Date": "1994",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "9.2",
+    "Description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "Director": "Frank Darabont",
+    "Writers": [
+        "Stephen King",
+        "Frank Darabont"
+    ],
+    "Stars": [
+        "Tim Robbins",
+        "Morgan Freeman",
+        "Bob Gunton"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+},
+{
+    "Name": "The Godfather",
+    "Date": "1972",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "Rating": "9.2",
+    "Description": "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.",
+    "Director": "Francis Ford Coppola",
+    "Writers": [
+        "Mario Puzo",
+        "Francis Ford Coppola"
+    ],
+    "Stars": [
+        "Marlon Brando",
+        "Al Pacino",
+        "James Caan"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNjFiZjQ4ZTktMDllYS00M2UxLWJkY2MtOTk3NGZjZTg2MTlhXkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg"
+},
+{
+    "Name": "The Dark Knight",
+    "Date": "2008",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "9.0",
+    "Description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "Director": "Christopher Nolan",
+    "Writers": [
+        "Jonathan Nolan",
+        "Christopher Nolan",
+        "David S. Goyer"
+    ],
+    "Stars": [
+        "Christian Bale",
+        "Heath Ledger",
+        "Aaron Eckhart"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg"
+},
+{
+    "Name": "The Godfather: Part II",
+    "Date": "1974",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "Rating": "9.0",
+    "Description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+    "Director": "Francis Ford Coppola",
+    "Writers": [
+        "Francis Ford Coppola",
+        "Mario Puzo"
+    ],
+    "Stars": [
+        "Al Pacino",
+        "Robert De Niro",
+        "Robert Duvall"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+},
+{
+    "Name": "12 Angry Men",
+    "Date": "1957",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.9",
+    "Description": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
+    "Director": "Sidney Lumet",
+    "Writers": [
+        "Reginald Rose"
+    ],
+    "Stars": [
+        "Henry Fonda",
+        "Lee J. Cobb",
+        "Martin Balsam"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg"
+},
+{
+    "Name": "Schindler's List",
+    "Date": "1993",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.9",
+    "Description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+    "Director": "Steven Spielberg",
+    "Writers": [
+        "Thomas Keneally",
+        "Steven Zaillian"
+    ],
+    "Stars": [
+        "Liam Neeson",
+        "Ralph Fiennes",
+        "Ben Kingsley"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+},
+{
+    "Name": "The Lord of the Rings: The Return of the King",
+    "Date": "2003",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.9",
+    "Description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+    "Director": "Peter Jackson",
+    "Writers": [
+        "J.R.R. Tolkien",
+        "Fran Walsh",
+        "Philippa Boyens"
+    ],
+    "Stars": [
+        "Elijah Wood",
+        "Viggo Mortensen",
+        "Ian McKellen"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+},
+{
+    "Name": "Pulp Fiction",
+    "Date": "1994",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.9",
+    "Description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "Director": "Quentin Tarantino",
+    "Writers": [
+        "Quentin Tarantino",
+        "Roger Avary"
+    ],
+    "Stars": [
+        "John Travolta",
+        "Uma Thurman",
+        "Samuel L. Jackson"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+},
+{
+    "Name": "The Lord of the Rings: The Fellowship of the Ring",
+    "Date": "2001",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.8",
+    "Description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+    "Director": "Peter Jackson",
+    "Writers": [
+        "J.R.R. Tolkien",
+        "Fran Walsh",
+        "Philippa Boyens"
+    ],
+    "Stars": [
+        "Elijah Wood",
+        "Ian McKellen",
+        "Orlando Bloom"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BZDcyNzRkNWEtYzUwMS00Mzc4LWFkNjMtNDQ0ZDQzMmFiY2E0XkEyXkFqcGdeQXVyMzI3MDY1MTg@._V1_.jpg"
+},
+{
+    "Name": "Il buono, il brutto, il cattivo",
+    "Date": "1966",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNjJlYmNkZGItM2NhYy00MjlmLTk5NmQtNjg1NmM2ODU4OTMwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.8",
+    "Description": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+    "Director": "Sergio Leone",
+    "Writers": [
+        "Luciano Vincenzoni",
+        "Sergio Leone",
+        "Agenore Incrocci"
+    ],
+    "Stars": [
+        "Clint Eastwood",
+        "Eli Wallach",
+        "Lee Van Cleef"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNjJlYmNkZGItM2NhYy00MjlmLTk5NmQtNjg1NmM2ODU4OTMwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
+},
+{
+    "Name": "Forrest Gump",
+    "Date": "1994",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.8",
+    "Description": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+    "Director": "Robert Zemeckis",
+    "Writers": [
+        "Winston Groom",
+        "Eric Roth"
+    ],
+    "Stars": [
+        "Tom Hanks",
+        "Robin Wright",
+        "Gary Sinise"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+},
+{
+    "Name": "Fight Club",
+    "Date": "1999",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.8",
+    "Description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+    "Director": "David Fincher",
+    "Writers": [
+        "Chuck Palahniuk",
+        "Jim Uhls"
+    ],
+    "Stars": [
+        "Brad Pitt",
+        "Edward Norton",
+        "Meat Loaf"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
+},
+{
+    "Name": "Inception",
+    "Date": "2010",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.7",
+    "Description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+    "Director": "Christopher Nolan",
+    "Writers": [
+        "Christopher Nolan"
+    ],
+    "Stars": [
+        "Leonardo DiCaprio",
+        "Joseph Gordon-Levitt",
+        "Elliot Page"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMjBhZDFmNDMtODUwZC00OWYwLTk5NmItZDA1YmNmMTdlOTc3XkEyXkFqcGdeQXVyOTgxMDMxNTc@._V1_.jpg"
+},
+{
+    "Name": "The Lord of the Rings: The Two Towers",
+    "Date": "2002",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.7",
+    "Description": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+    "Director": "Peter Jackson",
+    "Writers": [
+        "J.R.R. Tolkien",
+        "Fran Walsh",
+        "Philippa Boyens"
+    ],
+    "Stars": [
+        "Elijah Wood",
+        "Ian McKellen",
+        "Viggo Mortensen"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+},
+{
+    "Name": "The Empire Strikes Back",
+    "Date": "1980",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.7",
+    "Description": "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett.",
+    "Director": "Irvin Kershner",
+    "Writers": [
+        "Leigh Brackett",
+        "Lawrence Kasdan",
+        "George Lucas"
+    ],
+    "Stars": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMTU3OTEyYTYtYjNlMi00ZWIyLWJhYzUtOTQ4OWZkYTA5N2I5XkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg"
+},
+{
+    "Name": "The Matrix",
+    "Date": "1999",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.7",
+    "Description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+    "Director": "Lilly Wachowski",
+    "Writers": [
+        "Lilly Wachowski",
+        "Lana Wachowski"
+    ],
+    "Stars": [
+        "Keanu Reeves",
+        "Laurence Fishburne",
+        "Carrie-Anne Moss"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+},
+{
+    "Name": "Goodfellas",
+    "Date": "1990",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.7",
+    "Description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
+    "Director": "Martin Scorsese",
+    "Writers": [
+        "Nicholas Pileggi",
+        "Martin Scorsese"
+    ],
+    "Stars": [
+        "Robert De Niro",
+        "Ray Liotta",
+        "Joe Pesci"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+},
+{
+    "Name": "One Flew Over the Cuckoo's Nest",
+    "Date": "1975",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.6",
+    "Description": "A criminal pleads insanity and is admitted to a mental institution, where he rebels against the oppressive nurse and rallies up the scared patients.",
+    "Director": "Milos Forman",
+    "Writers": [
+        "Lawrence Hauben",
+        "Bo Goldman",
+        "Ken Kesey"
+    ],
+    "Stars": [
+        "Jack Nicholson",
+        "Louise Fletcher",
+        "Michael Berryman"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+},
+{
+    "Name": "Se7en",
+    "Date": "1995",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.6",
+    "Description": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+    "Director": "David Fincher",
+    "Writers": [
+        "Andrew Kevin Walker"
+    ],
+    "Stars": [
+        "Morgan Freeman",
+        "Brad Pitt",
+        "Kevin Spacey"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+},
+{
+    "Name": "Shichinin no samurai",
+    "Date": "1954",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNWQ3OTM4ZGItMWEwZi00MjI5LWI3YzgtNTYwNWRkNmIzMGI5XkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "Rating": "8.6",
+    "Description": "A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves.",
+    "Director": "Akira Kurosawa",
+    "Writers": [
+        "Akira Kurosawa",
+        "Shinobu Hashimoto",
+        "Hideo Oguni"
+    ],
+    "Stars": [
+        "Toshir\u00f4 Mifune",
+        "Takashi Shimura",
+        "Keiko Tsushima"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNWQ3OTM4ZGItMWEwZi00MjI5LWI3YzgtNTYwNWRkNmIzMGI5XkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_.jpg"
+},
+{
+    "Name": "It's a Wonderful Life",
+    "Date": "1946",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.6",
+    "Description": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",
+    "Director": "Frank Capra",
+    "Writers": [
+        "Frances Goodrich",
+        "Albert Hackett",
+        "Frank Capra"
+    ],
+    "Stars": [
+        "James Stewart",
+        "Donna Reed",
+        "Lionel Barrymore"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_.jpg"
+},
+{
+    "Name": "The Silence of the Lambs",
+    "Date": "1991",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.6",
+    "Description": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+    "Director": "Jonathan Demme",
+    "Writers": [
+        "Thomas Harris",
+        "Ted Tally"
+    ],
+    "Stars": [
+        "Jodie Foster",
+        "Anthony Hopkins",
+        "Lawrence A. Bonney"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+},
+{
+    "Name": "Cidade de Deus",
+    "Date": "2002",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BOTMwYjc5ZmItYTFjZC00ZGQ3LTlkNTMtMjZiNTZlMWQzNzI5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.6",
+    "Description": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
+    "Director": "K\u00e1tia Lund",
+    "Writers": [
+        "Paulo Lins",
+        "Br\u00e1ulio Mantovani"
+    ],
+    "Stars": [
+        "Alexandre Rodrigues",
+        "Leandro Firmino",
+        "Matheus Nachtergaele"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BOTMwYjc5ZmItYTFjZC00ZGQ3LTlkNTMtMjZiNTZlMWQzNzI5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+},
+{
+    "Name": "Saving Private Ryan",
+    "Date": "1998",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.6",
+    "Description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+    "Director": "Steven Spielberg",
+    "Writers": [
+        "Robert Rodat"
+    ],
+    "Stars": [
+        "Tom Hanks",
+        "Matt Damon",
+        "Tom Sizemore"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg"
+},
+{
+    "Name": "La vita \u00e8 bella",
+    "Date": "1997",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.6",
+    "Description": "When an open-minded Jewish waiter and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp.",
+    "Director": "Roberto Benigni",
+    "Writers": [
+        "Vincenzo Cerami",
+        "Roberto Benigni"
+    ],
+    "Stars": [
+        "Roberto Benigni",
+        "Nicoletta Braschi",
+        "Giorgio Cantarini"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+},
+{
+    "Name": "The Green Mile",
+    "Date": "1999",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.6",
+    "Description": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+    "Director": "Frank Darabont",
+    "Writers": [
+        "Stephen King",
+        "Frank Darabont"
+    ],
+    "Stars": [
+        "Tom Hanks",
+        "Michael Clarke Duncan",
+        "David Morse"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_.jpg"
+},
+{
+    "Name": "Star Wars",
+    "Date": "1977",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNzg4MjQxNTQtZmI5My00YjMwLWJlMjUtMmJlY2U2ZWFlNzY1XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.6",
+    "Description": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
+    "Director": "George Lucas",
+    "Writers": [
+        "George Lucas"
+    ],
+    "Stars": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNzg4MjQxNTQtZmI5My00YjMwLWJlMjUtMmJlY2U2ZWFlNzY1XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg"
+},
+{
+    "Name": "Interstellar",
+    "Date": "2014",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.6",
+    "Description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "Director": "Christopher Nolan",
+    "Writers": [
+        "Jonathan Nolan",
+        "Christopher Nolan"
+    ],
+    "Stars": [
+        "Matthew McConaughey",
+        "Anne Hathaway",
+        "Jessica Chastain"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMjJmM2RkZjUtYzk2OC00NzczLWI0ZWMtZjU1MDg2MmNiZjc4XkEyXkFqcGdeQXVyOTgxMDMxNTc@._V1_.jpg"
+},
+{
+    "Name": "Terminator 2: Judgment Day",
+    "Date": "1991",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.5",
+    "Description": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten-year-old son John from a more advanced and powerful cyborg.",
+    "Director": "James Cameron",
+    "Writers": [
+        "James Cameron",
+        "William Wisher"
+    ],
+    "Stars": [
+        "Arnold Schwarzenegger",
+        "Linda Hamilton",
+        "Edward Furlong"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+},
+{
+    "Name": "Back to the Future",
+    "Date": "1985",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.5",
+    "Description": "Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the eccentric scientist Doc Brown.",
+    "Director": "Robert Zemeckis",
+    "Writers": [
+        "Robert Zemeckis",
+        "Bob Gale"
+    ],
+    "Stars": [
+        "Michael J. Fox",
+        "Christopher Lloyd",
+        "Lea Thompson"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+},
+{
+    "Name": "Sen to Chihiro no kamikakushi",
+    "Date": "2001",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.5",
+    "Description": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+    "Director": "Hayao Miyazaki",
+    "Writers": [
+        "Hayao Miyazaki"
+    ],
+    "Stars": [
+        "Daveigh Chase",
+        "Suzanne Pleshette",
+        "Miyu Irino"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+},
+{
+    "Name": "Psycho",
+    "Date": "1960",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.5",
+    "Description": "A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.",
+    "Director": "Alfred Hitchcock",
+    "Writers": [
+        "Joseph Stefano",
+        "Robert Bloch"
+    ],
+    "Stars": [
+        "Anthony Perkins",
+        "Janet Leigh",
+        "Vera Miles"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+},
+{
+    "Name": "The Pianist",
+    "Date": "2002",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR2,0,45,67_AL_.jpg",
+    "Rating": "8.5",
+    "Description": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
+    "Director": "Roman Polanski",
+    "Writers": [
+        "Ronald Harwood",
+        "Wladyslaw Szpilman"
+    ],
+    "Stars": [
+        "Adrien Brody",
+        "Thomas Kretschmann",
+        "Frank Finlay"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+},
+{
+    "Name": "Leon: The Professional",
+    "Date": "1994",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BODllNWE0MmEtYjUwZi00ZjY3LThmNmQtZjZlMjI2YTZjYmQ0XkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.5",
+    "Description": "12-year-old Mathilda is reluctantly taken in by Leon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his prot\u00e9g\u00e9e and learns the assassin's trade.",
+    "Director": "Luc Besson",
+    "Writers": [
+        "Luc Besson"
+    ],
+    "Stars": [
+        "Jean Reno",
+        "Gary Oldman",
+        "Natalie Portman"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BODllNWE0MmEtYjUwZi00ZjY3LThmNmQtZjZlMjI2YTZjYmQ0XkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_.jpg"
+},
+{
+    "Name": "Parasite",
+    "Date": "2019",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.5",
+    "Description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+    "Director": "Bong Joon Ho",
+    "Writers": [
+        "Bong Joon Ho",
+        "Han Jin-won"
+    ],
+    "Stars": [
+        "Kang-ho Song",
+        "Sun-kyun Lee",
+        "Yeo-jeong Cho"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg"
+},
+{
+    "Name": "The Lion King",
+    "Date": "1994",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.5",
+    "Description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+    "Director": "Rob Minkoff",
+    "Writers": [
+        "Irene Mecchi",
+        "Jonathan Roberts",
+        "Linda Woolverton"
+    ],
+    "Stars": [
+        "Matthew Broderick",
+        "Jeremy Irons",
+        "James Earl Jones"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_.jpg"
+},
+{
+    "Name": "Gladiator",
+    "Date": "2000",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.5",
+    "Description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+    "Director": "Ridley Scott",
+    "Writers": [
+        "David Franzoni",
+        "John Logan",
+        "William Nicholson"
+    ],
+    "Stars": [
+        "Russell Crowe",
+        "Joaquin Phoenix",
+        "Connie Nielsen"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+},
+{
+    "Name": "American History X",
+    "Date": "1998",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BZTJhN2FkYWEtMGI0My00YWM4LWI2MjAtM2UwNjY4MTI2ZTQyXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.5",
+    "Description": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.",
+    "Director": "Tony Kaye",
+    "Writers": [
+        "David McKenna"
+    ],
+    "Stars": [
+        "Edward Norton",
+        "Edward Furlong",
+        "Beverly D'Angelo"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BZTJhN2FkYWEtMGI0My00YWM4LWI2MjAtM2UwNjY4MTI2ZTQyXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_.jpg"
+},
+{
+    "Name": "The Usual Suspects",
+    "Date": "1995",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.5",
+    "Description": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.",
+    "Director": "Bryan Singer",
+    "Writers": [
+        "Christopher McQuarrie"
+    ],
+    "Stars": [
+        "Kevin Spacey",
+        "Gabriel Byrne",
+        "Chazz Palminteri"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNDg1OWQyNzAtZjRkNS00OGZmLWIyNWYtZTMxZDIyNGRkOWY2XkEyXkFqcGdeQXVyMTgxOTIzNzk@._V1_.jpg"
+},
+{
+    "Name": "The Departed",
+    "Date": "2006",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.5",
+    "Description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+    "Director": "Martin Scorsese",
+    "Writers": [
+        "William Monahan",
+        "Alan Mak",
+        "Felix Chong"
+    ],
+    "Stars": [
+        "Leonardo DiCaprio",
+        "Matt Damon",
+        "Jack Nicholson"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_.jpg"
+},
+{
+    "Name": "The Prestige",
+    "Date": "2006",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.5",
+    "Description": "After a tragic accident, two stage magicians in 1890s London engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
+    "Director": "Christopher Nolan",
+    "Writers": [
+        "Jonathan Nolan",
+        "Christopher Nolan",
+        "Christopher Priest"
+    ],
+    "Stars": [
+        "Christian Bale",
+        "Hugh Jackman",
+        "Scarlett Johansson"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMzZhOTVmOTEtZGIxZS00MmExLTk1OWItOTFhMzNjNzNiN2M4XkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg"
+},
+{
+    "Name": "Casablanca",
+    "Date": "1942",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.5",
+    "Description": "A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco.",
+    "Director": "Michael Curtiz",
+    "Writers": [
+        "Julius J. Epstein",
+        "Philip G. Epstein",
+        "Howard Koch"
+    ],
+    "Stars": [
+        "Humphrey Bogart",
+        "Ingrid Bergman",
+        "Paul Henreid"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg"
+},
+{
+    "Name": "Whiplash",
+    "Date": "2014",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.5",
+    "Description": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+    "Director": "Damien Chazelle",
+    "Writers": [
+        "Damien Chazelle"
+    ],
+    "Stars": [
+        "Miles Teller",
+        "J.K. Simmons",
+        "Melissa Benoist"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+},
+{
+    "Name": "The Intouchables",
+    "Date": "2011",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.5",
+    "Description": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.",
+    "Director": "\u00c9ric Toledano",
+    "Writers": [
+        "Olivier Nakache",
+        "Philippe Pozzo di Borgo",
+        "\u00c9ric Toledano"
+    ],
+    "Stars": [
+        "Fran\u00e7ois Cluzet",
+        "Omar Sy",
+        "Anne Le Ny"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_.jpg"
+},
+{
+    "Name": "Modern Times",
+    "Date": "1936",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BYjJiZjMzYzktNjU0NS00OTkxLWEwYzItYzdhYWJjN2QzMTRlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.5",
+    "Description": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+    "Director": "Charles Chaplin",
+    "Writers": [
+        "Charles Chaplin"
+    ],
+    "Stars": [
+        "Charles Chaplin",
+        "Paulette Goddard",
+        "Henry Bergman"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BYjJiZjMzYzktNjU0NS00OTkxLWEwYzItYzdhYWJjN2QzMTRlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+},
+{
+    "Name": "Once Upon a Time in the West",
+    "Date": "1968",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BODQ3NDExOGYtMzI3Mi00NWRlLTkwNjAtNjc4MDgzZGJiZTA1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.4",
+    "Description": "A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.",
+    "Director": "Sergio Leone",
+    "Writers": [
+        "Sergio Donati",
+        "Sergio Leone",
+        "Dario Argento"
+    ],
+    "Stars": [
+        "Henry Fonda",
+        "Charles Bronson",
+        "Claudia Cardinale"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BODQ3NDExOGYtMzI3Mi00NWRlLTkwNjAtNjc4MDgzZGJiZTA1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
+},
+{
+    "Name": "Hotaru no haka",
+    "Date": "1988",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.4",
+    "Description": "A young boy and his little sister struggle to survive in Japan during World War II.",
+    "Director": "Isao Takahata",
+    "Writers": [
+        "Akiyuki Nosaka",
+        "Isao Takahata"
+    ],
+    "Stars": [
+        "Tsutomu Tatsumi",
+        "Ayano Shiraishi",
+        "Akemi Yamaguchi"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg"
+},
+{
+    "Name": "Rear Window",
+    "Date": "1954",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.4",
+    "Description": "A wheelchair-bound photographer spies on his neighbors from his Greenwich Village courtyard apartment window, and becomes convinced one of them has committed murder, despite the skepticism of his fashion-model girlfriend.",
+    "Director": "Alfred Hitchcock",
+    "Writers": [
+        "John Michael Hayes",
+        "Cornell Woolrich"
+    ],
+    "Stars": [
+        "James Stewart",
+        "Grace Kelly",
+        "Wendell Corey"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+},
+{
+    "Name": "Alien",
+    "Date": "1979",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BOGQzZTBjMjQtOTVmMS00NGE5LWEyYmMtOGQ1ZGZjNmRkYjFhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.4",
+    "Description": "The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown transmission.",
+    "Director": "Ridley Scott",
+    "Writers": [
+        "Dan O'Bannon",
+        "Ronald Shusett"
+    ],
+    "Stars": [
+        "Sigourney Weaver",
+        "Tom Skerritt",
+        "John Hurt"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BYzI0ZmQ1OWMtYWZiMy00YzIxLTg4MjItOTYwMWYyYzZkZWQ3XkEyXkFqcGdeQXVyMTI1ODIyMzU3._V1_.jpg"
+},
+{
+    "Name": "Nuovo Cinema Paradiso",
+    "Date": "1988",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.4",
+    "Description": "A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the cinema's projectionist.",
+    "Director": "Giuseppe Tornatore",
+    "Writers": [
+        "Giuseppe Tornatore",
+        "Vanna Paoli"
+    ],
+    "Stars": [
+        "Philippe Noiret",
+        "Enzo Cannavale",
+        "Antonella Attili"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_.jpg"
+},
+{
+    "Name": "Memento",
+    "Date": "2000",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.4",
+    "Description": "A man with short-term memory loss attempts to track down his wife's murderer.",
+    "Director": "Christopher Nolan",
+    "Writers": [
+        "Christopher Nolan",
+        "Jonathan Nolan"
+    ],
+    "Stars": [
+        "Guy Pearce",
+        "Carrie-Anne Moss",
+        "Joe Pantoliano"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+},
+{
+    "Name": "Apocalypse Now",
+    "Date": "1979",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMDdhODg0MjYtYzBiOS00ZmI5LWEwZGYtZDEyNDU4MmQyNzFkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.4",
+    "Description": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.",
+    "Director": "Francis Ford Coppola",
+    "Writers": [
+        "John Milius",
+        "Francis Ford Coppola",
+        "Michael Herr"
+    ],
+    "Stars": [
+        "Martin Sheen",
+        "Marlon Brando",
+        "Robert Duvall"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BYTE3OTAzYjMtYmE4OC00NGRjLTkyMGUtNTZlYzA1YzA3YWI3XkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg"
+},
+{
+    "Name": "Raiders of the Lost Ark",
+    "Date": "1981",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.4",
+    "Description": "In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before Adolf Hitler's Nazis can obtain its awesome powers.",
+    "Director": "Steven Spielberg",
+    "Writers": [
+        "Lawrence Kasdan",
+        "George Lucas",
+        "Philip Kaufman"
+    ],
+    "Stars": [
+        "Harrison Ford",
+        "Karen Allen",
+        "Paul Freeman"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BODMzYzU3NmMtMDQ4ZC00MDRiLTgwN2QtMTY1NzA3YmRhMzJmXkEyXkFqcGdeQXVyNjMzMDgxMzk@._V1_.jpg"
+},
+{
+    "Name": "Django Unchained",
+    "Date": "2012",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.4",
+    "Description": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation-owner in Mississippi.",
+    "Director": "Quentin Tarantino",
+    "Writers": [
+        "Quentin Tarantino"
+    ],
+    "Stars": [
+        "Jamie Foxx",
+        "Christoph Waltz",
+        "Leonardo DiCaprio"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BYWZmMmFiYWUtMzkxMC00ZWI2LTg5MGItODBjNmRhOGM4YmNmXkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg"
+},
+{
+    "Name": "WALL\u00b7E",
+    "Date": "2008",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.4",
+    "Description": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
+    "Director": "Andrew Stanton",
+    "Writers": [
+        "Andrew Stanton",
+        "Pete Docter",
+        "Jim Reardon"
+    ],
+    "Stars": [
+        "Ben Burtt",
+        "Elissa Knight",
+        "Jeff Garlin"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BYTcxZTczMTQtOTIwNS00M2QzLThjNzktYzVlMzAwZjMwMTg0XkEyXkFqcGdeQXVyOTgxMDMxNTc@._V1_.jpg"
+},
+{
+    "Name": "Sunset Blvd.",
+    "Date": "1950",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.4",
+    "Description": "A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.",
+    "Director": "Billy Wilder",
+    "Writers": [
+        "Charles Brackett",
+        "Billy Wilder",
+        "D.M. Marshman Jr."
+    ],
+    "Stars": [
+        "William Holden",
+        "Gloria Swanson",
+        "Erich von Stroheim"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_.jpg"
+},
+{
+    "Name": "Paths of Glory",
+    "Date": "1957",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BOTI5Nzc0OTMtYzBkMS00NjkxLThmM2UtNjM2ODgxN2M5NjNkXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.4",
+    "Description": "After refusing to attack an enemy position, a general accuses the soldiers of cowardice and their commanding officer must defend them.",
+    "Director": "Stanley Kubrick",
+    "Writers": [
+        "Stanley Kubrick",
+        "Calder Willingham",
+        "Jim Thompson"
+    ],
+    "Stars": [
+        "Kirk Douglas",
+        "Ralph Meeker",
+        "Adolphe Menjou"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BOTI5Nzc0OTMtYzBkMS00NjkxLThmM2UtNjM2ODgxN2M5NjNkXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg"
+},
+{
+    "Name": "The Shining",
+    "Date": "1980",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.4",
+    "Description": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+    "Director": "Stanley Kubrick",
+    "Writers": [
+        "Stephen King",
+        "Stanley Kubrick",
+        "Diane Johnson"
+    ],
+    "Stars": [
+        "Jack Nicholson",
+        "Shelley Duvall",
+        "Danny Lloyd"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+},
+{
+    "Name": "The Great Dictator",
+    "Date": "1940",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.4",
+    "Description": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+    "Director": "Charles Chaplin",
+    "Writers": [
+        "Charles Chaplin"
+    ],
+    "Stars": [
+        "Charles Chaplin",
+        "Paulette Goddard",
+        "Jack Oakie"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+},
+{
+    "Name": "Witness for the Prosecution",
+    "Date": "1957",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNDQwODU5OWYtNDcyNi00MDQ1LThiOGMtZDkwNWJiM2Y3MDg0XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.4",
+    "Description": "A veteran British barrister must defend his client in a murder trial that has surprise after surprise.",
+    "Director": "Billy Wilder",
+    "Writers": [
+        "Agatha Christie",
+        "Billy Wilder",
+        "Harry Kurnitz"
+    ],
+    "Stars": [
+        "Tyrone Power",
+        "Marlene Dietrich",
+        "Charles Laughton"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNDQwODU5OWYtNDcyNi00MDQ1LThiOGMtZDkwNWJiM2Y3MDg0XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg"
+},
+{
+    "Name": "Avengers: Infinity War",
+    "Date": "2018",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.4",
+    "Description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+    "Director": "Joe Russo",
+    "Writers": [
+        "Christopher Markus",
+        "Stephen McFeely",
+        "Stan Lee"
+    ],
+    "Stars": [
+        "Robert Downey Jr.",
+        "Chris Hemsworth",
+        "Mark Ruffalo"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg"
+},
+{
+    "Name": "Aliens",
+    "Date": "1986",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BZGU2OGY5ZTYtMWNhYy00NjZiLWI0NjUtZmNhY2JhNDRmODU3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.3",
+    "Description": "Fifty-seven years after surviving an apocalyptic attack aboard her space vessel by merciless space creatures, Officer Ripley awakens from hyper-sleep and tries to warn anyone who will listen about the predators.",
+    "Director": "James Cameron",
+    "Writers": [
+        "James Cameron",
+        "David Giler",
+        "Walter Hill"
+    ],
+    "Stars": [
+        "Sigourney Weaver",
+        "Michael Biehn",
+        "Carrie Henn"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMjNjOTgxMzItMzhmNS00OTQ1LThjYWYtYjI5MDQwZGQ3M2I3XkEyXkFqcGdeQXVyNjc1NTYwMjc@._V1_.jpg"
+},
+{
+    "Name": "American Beauty",
+    "Date": "1999",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.3",
+    "Description": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",
+    "Director": "Sam Mendes",
+    "Writers": [
+        "Alan Ball"
+    ],
+    "Stars": [
+        "Kevin Spacey",
+        "Annette Bening",
+        "Thora Birch"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+},
+{
+    "Name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "Date": "1964",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.3",
+    "Description": "An insane American general orders a bombing attack on the Soviet Union, triggering a path to nuclear holocaust that a war room full of politicians and generals frantically tries to stop.",
+    "Director": "Stanley Kubrick",
+    "Writers": [
+        "Stanley Kubrick",
+        "Terry Southern",
+        "Peter George"
+    ],
+    "Stars": [
+        "Peter Sellers",
+        "George C. Scott",
+        "Sterling Hayden"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+},
+{
+    "Name": "The Dark Knight Rises",
+    "Date": "2012",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.3",
+    "Description": "Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City from the brutal guerrilla terrorist Bane.",
+    "Director": "Christopher Nolan",
+    "Writers": [
+        "Jonathan Nolan",
+        "Christopher Nolan",
+        "David S. Goyer"
+    ],
+    "Stars": [
+        "Christian Bale",
+        "Tom Hardy",
+        "Anne Hathaway"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_.jpg"
+},
+{
+    "Name": "Everything Everywhere All at Once",
+    "Date": "2022",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.3",
+    "Description": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save the world by exploring other universes connecting with the lives she could have led.",
+    "Director": "Daniel Scheinert",
+    "Writers": [
+        "Dan Kwan",
+        "Daniel Scheinert"
+    ],
+    "Stars": [
+        "Michelle Yeoh",
+        "Stephanie Hsu",
+        "Ke Huy Quan"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNjBhNjk0MzMtOWRhMy00N2FkLTllZjgtMTBiYTI1YmZhNTFjXkEyXkFqcGdeQXVyMTM1MDExOTE2._V1_.jpg"
+},
+{
+    "Name": "Spider-Man: Into the Spider-Verse",
+    "Date": "2018",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.3",
+    "Description": "Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",
+    "Director": "Rodney Rothman",
+    "Writers": [
+        "Phil Lord",
+        "Rodney Rothman"
+    ],
+    "Stars": [
+        "Shameik Moore",
+        "Jake Johnson",
+        "Hailee Steinfeld"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMjc4YTA2ZDktNzY4Yi00OGRkLWE3MmQtN2M0ZDU0ZjA0NjBhXkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg"
+},
+{
+    "Name": "Joker",
+    "Date": "2019",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.3",
+    "Description": "A mentally troubled stand-up comedian embarks on a downward spiral that leads to the creation of an iconic villain.",
+    "Director": "Todd Phillips",
+    "Writers": [
+        "Todd Phillips",
+        "Scott Silver",
+        "Bob Kane"
+    ],
+    "Stars": [
+        "Joaquin Phoenix",
+        "Robert De Niro",
+        "Zazie Beetz"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNmQ1MjRmNDktNjg1Zi00OTE0LWE3ZTktZjZmNGQ1ZWEyN2ZhXkEyXkFqcGdeQXVyMTQwNDg3MDg@._V1_.jpg"
+},
+{
+    "Name": "Oldeuboi",
+    "Date": "2003",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.3",
+    "Description": "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.",
+    "Director": "Park Chan-wook",
+    "Writers": [
+        "Garon Tsuchiya",
+        "Nobuaki Minegishi",
+        "Park Chan-wook"
+    ],
+    "Stars": [
+        "Choi Min-sik",
+        "Yoo Ji-Tae",
+        "Kang Hye-jeong"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_.jpg"
+},
+{
+    "Name": "Braveheart",
+    "Date": "1995",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.3",
+    "Description": "Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.",
+    "Director": "Mel Gibson",
+    "Writers": [
+        "Randall Wallace"
+    ],
+    "Stars": [
+        "Mel Gibson",
+        "Sophie Marceau",
+        "Patrick McGoohan"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BYjJiMjlhZWUtZGJmZC00MDdhLTkyZDUtMTU2M2ZmNzI5NjQ2XkEyXkFqcGdeQXVyNDQ0MTYzMDA@._V1_.jpg"
+},
+{
+    "Name": "Amadeus",
+    "Date": "1984",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.3",
+    "Description": "The life, success and troubles of Wolfgang Amadeus Mozart, as told by Antonio Salieri, the contemporaneous composer who was insanely jealous of Mozart's talent and claimed to have murdered him.",
+    "Director": "Milos Forman",
+    "Writers": [
+        "Peter Shaffer",
+        "Zdenek Mahler"
+    ],
+    "Stars": [
+        "F. Murray Abraham",
+        "Tom Hulce",
+        "Elizabeth Berridge"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg"
+},
+{
+    "Name": "Toy Story",
+    "Date": "1995",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.3",
+    "Description": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.",
+    "Director": "John Lasseter",
+    "Writers": [
+        "John Lasseter",
+        "Pete Docter",
+        "Andrew Stanton"
+    ],
+    "Stars": [
+        "Tom Hanks",
+        "Tim Allen",
+        "Don Rickles"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_.jpg"
+},
+{
+    "Name": "Coco",
+    "Date": "2017",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "Rating": "8.3",
+    "Description": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+    "Director": "Adrian Molina",
+    "Writers": [
+        "Lee Unkrich",
+        "Jason Katz",
+        "Matthew Aldrich"
+    ],
+    "Stars": [
+        "Anthony Gonzalez",
+        "Gael Garc\u00eda Bernal",
+        "Benjamin Bratt"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_.jpg"
+},
+{
+    "Name": "Das Boot",
+    "Date": "1981",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BOGZhZDIzNWMtNjkxMS00MDQ1LThkMTYtZWQzYWU3MWMxMGU5XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.3",
+    "Description": "The claustrophobic world of a WWII German U-boat; boredom, filth and sheer terror.",
+    "Director": "Wolfgang Petersen",
+    "Writers": [
+        "Wolfgang Petersen",
+        "Lothar G. Buchheim"
+    ],
+    "Stars": [
+        "J\u00fcrgen Prochnow",
+        "Herbert Gr\u00f6nemeyer",
+        "Klaus Wennemann"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BOGZhZDIzNWMtNjkxMS00MDQ1LThkMTYtZWQzYWU3MWMxMGU5XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg"
+},
+{
+    "Name": "Inglourious Basterds",
+    "Date": "2009",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.3",
+    "Description": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+    "Director": "Quentin Tarantino",
+    "Writers": [
+        "Quentin Tarantino"
+    ],
+    "Stars": [
+        "Brad Pitt",
+        "Diane Kruger",
+        "Eli Roth"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BZTlkNTNhNGUtNzg5Mi00YzMwLTlmNTMtMTk1Zjk2ZDZmZGViXkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg"
+},
+{
+    "Name": "Mononoke-hime",
+    "Date": "1997",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNGIzY2IzODQtNThmMi00ZDE4LWI5YzAtNzNlZTM1ZjYyYjUyXkEyXkFqcGdeQXVyODEzNjM5OTQ@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.3",
+    "Description": "On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.",
+    "Director": "Hayao Miyazaki",
+    "Writers": [
+        "Hayao Miyazaki",
+        "Neil Gaiman"
+    ],
+    "Stars": [
+        "Y\u00f4ji Matsuda",
+        "Yuriko Ishida",
+        "Y\u00fbko Tanaka"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNGIzY2IzODQtNThmMi00ZDE4LWI5YzAtNzNlZTM1ZjYyYjUyXkEyXkFqcGdeQXVyODEzNjM5OTQ@._V1_.jpg"
+},
+{
+    "Name": "Once Upon a Time in America",
+    "Date": "1984",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMGFkNWI4MTMtNGQ0OC00MWVmLTk3MTktOGYxN2Y2YWVkZWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.3",
+    "Description": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan 35 years later, where he must once again confront the ghosts and regrets of his old life.",
+    "Director": "Sergio Leone",
+    "Writers": [
+        "Harry Grey",
+        "Leonardo Benvenuti",
+        "Piero De Bernardi"
+    ],
+    "Stars": [
+        "Robert De Niro",
+        "James Woods",
+        "Elizabeth McGovern"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BYTBmNzM1YTMtYTRmMC00NTE1LThiNGUtMzVkZWFlZjQ5YzBmXkEyXkFqcGdeQXVyMjI0NTA4NzA@._V1_.jpg"
+},
+{
+    "Name": "Avengers: Endgame",
+    "Date": "2019",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.3",
+    "Description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+    "Director": "Joe Russo",
+    "Writers": [
+        "Christopher Markus",
+        "Stephen McFeely",
+        "Stan Lee"
+    ],
+    "Stars": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Mark Ruffalo"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg"
+},
+{
+    "Name": "Good Will Hunting",
+    "Date": "1997",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.3",
+    "Description": "Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.",
+    "Director": "Gus Van Sant",
+    "Writers": [
+        "Matt Damon",
+        "Ben Affleck"
+    ],
+    "Stars": [
+        "Robin Williams",
+        "Matt Damon",
+        "Ben Affleck"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+},
+{
+    "Name": "Requiem for a Dream",
+    "Date": "2000",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.3",
+    "Description": "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.",
+    "Director": "Darren Aronofsky",
+    "Writers": [
+        "Hubert Selby Jr.",
+        "Darren Aronofsky"
+    ],
+    "Stars": [
+        "Ellen Burstyn",
+        "Jared Leto",
+        "Jennifer Connelly"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+},
+{
+    "Name": "Toy Story 3",
+    "Date": "2010",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "Rating": "8.3",
+    "Description": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.",
+    "Director": "Lee Unkrich",
+    "Writers": [
+        "John Lasseter",
+        "Andrew Stanton",
+        "Lee Unkrich"
+    ],
+    "Stars": [
+        "Tom Hanks",
+        "Tim Allen",
+        "Joan Cusack"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNDZiYTJlMjUtNDgxZS00ZmRjLWFmNWYtZmQ1ODllNGZlNmU5XkEyXkFqcGdeQXVyOTgxMDMxNTc@._V1_.jpg"
+},
+{
+    "Name": "Singin' in the Rain",
+    "Date": "1952",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BZDRjNGViMjQtOThlMi00MTA3LThkYzQtNzJkYjBkMGE0YzE1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.3",
+    "Description": "A silent film star falls for a chorus girl just as he and his delusionally jealous screen partner are trying to make the difficult transition to talking pictures in 1920s Hollywood.",
+    "Director": "Gene Kelly",
+    "Writers": [
+        "Betty Comden",
+        "Adolph Green"
+    ],
+    "Stars": [
+        "Gene Kelly",
+        "Donald O'Connor",
+        "Debbie Reynolds"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BZDRjNGViMjQtOThlMi00MTA3LThkYzQtNzJkYjBkMGE0YzE1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg"
+},
+{
+    "Name": "Kimi no na wa.",
+    "Date": "2016",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.3",
+    "Description": "Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?",
+    "Director": "Makoto Shinkai",
+    "Writers": [
+        "Makoto Shinkai",
+        "Clark Cheng"
+    ],
+    "Stars": [
+        "Ry\u00fbnosuke Kamiki",
+        "Mone Kamishiraishi",
+        "Ry\u00f4 Narita"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BYjAxOGE2YmEtZjc4MS00ZjcxLWI5NTMtNDA2ZGU5ODQ4NTBmXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_.jpg"
+},
+{
+    "Name": "3 Idiots",
+    "Date": "2009",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "Rating": "8.3",
+    "Description": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them \"idiots\".",
+    "Director": "Rajkumar Hirani",
+    "Writers": [
+        "Rajkumar Hirani",
+        "Abhijat Joshi",
+        "Vidhu Vinod Chopra"
+    ],
+    "Stars": [
+        "Aamir Khan",
+        "Madhavan",
+        "Mona Singh"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMWYxZWRiNzQtYTRmMC00MmQ2LTkwMmYtMWYzOTViYTgyMTE1XkEyXkFqcGdeQXVyNzMzMjU5NDY@._V1_.jpg"
+},
+{
+    "Name": "Star Wars: Episode VI - Return of the Jedi",
+    "Date": "1983",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.3",
+    "Description": "After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side without falling into the Emperor's trap.",
+    "Director": "Richard Marquand",
+    "Writers": [
+        "Lawrence Kasdan",
+        "George Lucas"
+    ],
+    "Stars": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMWFlNmMyYjctZjA4NC00ZDRkLWE2N2MtZjhiMDgyMDI0MjU3XkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg"
+},
+{
+    "Name": "2001: A Space Odyssey",
+    "Date": "1968",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.3",
+    "Description": "The Monoliths push humanity to reach for the stars; after their discovery in Africa generations ago, the mysterious objects lead mankind on an awesome journey to Jupiter, with the help of H.A.L. 9000: the world's greatest supercomputer.",
+    "Director": "Stanley Kubrick",
+    "Writers": [
+        "Stanley Kubrick",
+        "Arthur C. Clarke"
+    ],
+    "Stars": [
+        "Keir Dullea",
+        "Gary Lockwood",
+        "William Sylvester"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNGRjZDA1MWEtOGFiOS00ZDcxLTgwNTAtM2M2YjZkMTM2NmRlXkEyXkFqcGdeQXVyMjI0NTA4NzA@._V1_.jpg"
+},
+{
+    "Name": "Reservoir Dogs",
+    "Date": "1992",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.3",
+    "Description": "When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+    "Director": "Quentin Tarantino",
+    "Writers": [
+        "Quentin Tarantino",
+        "Roger Avary"
+    ],
+    "Stars": [
+        "Harvey Keitel",
+        "Tim Roth",
+        "Michael Madsen"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+},
+{
+    "Name": "Eternal Sunshine of the Spotless Mind",
+    "Date": "2004",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.3",
+    "Description": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.",
+    "Director": "Michel Gondry",
+    "Writers": [
+        "Charlie Kaufman",
+        "Michel Gondry",
+        "Pierre Bismuth"
+    ],
+    "Stars": [
+        "Jim Carrey",
+        "Kate Winslet",
+        "Tom Wilkinson"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNjIxMTEzOTUtYWJhYS00MDQwLThmNmItYzkyN2MzZGVkZmM1XkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg"
+},
+{
+    "Name": "Tengoku to jigoku",
+    "Date": "1963",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BOTI4NTNhZDMtMWNkZi00MTRmLWJmZDQtMmJkMGVmZTEzODlhXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.3",
+    "Description": "An executive of a Yokohama shoe company becomes a victim of extortion when his chauffeur's son is kidnapped by mistake and held for ransom.",
+    "Director": "Akira Kurosawa",
+    "Writers": [
+        "Hideo Oguni",
+        "Ry\u00fbz\u00f4 Kikushima",
+        "Eijir\u00f4 Hisaita"
+    ],
+    "Stars": [
+        "Toshir\u00f4 Mifune",
+        "Yutaka Sada",
+        "Tatsuya Nakadai"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BOTI4NTNhZDMtMWNkZi00MTRmLWJmZDQtMmJkMGVmZTEzODlhXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg"
+},
+{
+    "Name": "Capharna\u00fcm",
+    "Date": "2018",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BY2Y3OWNkMTctYzNjYS00NWVkLTg4OWEtY2YxN2I3NDhlYzE0XkEyXkFqcGdeQXVyMTI3ODAyMzE2._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "Rating": "8.3",
+    "Description": "While serving a five-year sentence for a violent crime, a 12-year-old boy sues his parents for neglect.",
+    "Director": "Nadine Labaki",
+    "Writers": [
+        "Nadine Labaki",
+        "Jihad Hojeily",
+        "Michelle Keserwany"
+    ],
+    "Stars": [
+        "Zain Al Rafeea",
+        "Yordanos Shiferaw",
+        "Boluwatife Treasure Bankole"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BY2Y3OWNkMTctYzNjYS00NWVkLTg4OWEtY2YxN2I3NDhlYzE0XkEyXkFqcGdeQXVyMTI3ODAyMzE2._V1_.jpg"
+},
+{
+    "Name": "Citizen Kane",
+    "Date": "1941",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.3",
+    "Description": "Following the death of publishing tycoon Charles Foster Kane, reporters scramble to uncover the meaning of his final utterance: 'Rosebud.'",
+    "Director": "Orson Welles",
+    "Writers": [
+        "Herman J. Mankiewicz",
+        "Orson Welles",
+        "John Houseman"
+    ],
+    "Stars": [
+        "Orson Welles",
+        "Joseph Cotten",
+        "Dorothy Comingore"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+},
+{
+    "Name": "Lawrence of Arabia",
+    "Date": "1962",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.3",
+    "Description": "The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.",
+    "Director": "David Lean",
+    "Writers": [
+        "Robert Bolt",
+        "Michael Wilson"
+    ],
+    "Stars": [
+        "Peter O'Toole",
+        "Alec Guinness",
+        "Anthony Quinn"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg"
+},
+{
+    "Name": "Jagten",
+    "Date": "2012",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMTg2NDg3ODg4NF5BMl5BanBnXkFtZTcwNzk3NTc3Nw@@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "Rating": "8.3",
+    "Description": "A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie.",
+    "Director": "Thomas Vinterberg",
+    "Writers": [
+        "Tobias Lindholm",
+        "Thomas Vinterberg"
+    ],
+    "Stars": [
+        "Mads Mikkelsen",
+        "Thomas Bo Larsen",
+        "Annika Wedderkopp"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMTg2NDg3ODg4NF5BMl5BanBnXkFtZTcwNzk3NTc3Nw@@._V1_.jpg"
+},
+{
+    "Name": "M - Eine Stadt sucht einen M\u00f6rder",
+    "Date": "1931",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.3",
+    "Description": "When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.",
+    "Director": "Fritz Lang",
+    "Writers": [
+        "Thea von Harbou",
+        "Fritz Lang",
+        "Egon Jacobsohn"
+    ],
+    "Stars": [
+        "Peter Lorre",
+        "Ellen Widmann",
+        "Inge Landgut"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_.jpg"
+},
+{
+    "Name": "North by Northwest",
+    "Date": "1959",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.3",
+    "Description": "A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies, and falls for a woman whose loyalties he begins to doubt.",
+    "Director": "Alfred Hitchcock",
+    "Writers": [
+        "Ernest Lehman"
+    ],
+    "Stars": [
+        "Cary Grant",
+        "Eva Marie Saint",
+        "James Mason"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg"
+},
+{
+    "Name": "Vertigo",
+    "Date": "1958",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "A former San Francisco police detective juggles wrestling with his personal demons and becoming obsessed with the hauntingly beautiful woman he has been hired to trail, who may be deeply disturbed.",
+    "Director": "Alfred Hitchcock",
+    "Writers": [
+        "Alec Coppel",
+        "Samuel A. Taylor",
+        "Pierre Boileau"
+    ],
+    "Stars": [
+        "James Stewart",
+        "Kim Novak",
+        "Barbara Bel Geddes"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg"
+},
+{
+    "Name": "Le fabuleux destin d'Am\u00e9lie Poulain",
+    "Date": "2001",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "Am\u00e9lie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love.",
+    "Director": "Jean-Pierre Jeunet",
+    "Writers": [
+        "Guillaume Laurant",
+        "Jean-Pierre Jeunet"
+    ],
+    "Stars": [
+        "Audrey Tautou",
+        "Mathieu Kassovitz",
+        "Rufus"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg"
+},
+{
+    "Name": "A Clockwork Orange",
+    "Date": "1971",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.",
+    "Director": "Stanley Kubrick",
+    "Writers": [
+        "Stanley Kubrick",
+        "Anthony Burgess"
+    ],
+    "Stars": [
+        "Malcolm McDowell",
+        "Patrick Magee",
+        "Michael Bates"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_.jpg"
+},
+{
+    "Name": "Idi i smotri",
+    "Date": "1985",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BODM4Njg0NTAtYjI5Ny00ZjAxLTkwNmItZTMxMWU5M2U3M2RjXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "After finding an old rifle, a young boy joins the Soviet resistance movement against ruthless German forces and experiences the horrors of World War II.",
+    "Director": "Elem Klimov",
+    "Writers": [
+        "Ales Adamovich",
+        "Elem Klimov"
+    ],
+    "Stars": [
+        "Aleksey Kravchenko",
+        "Olga Mironova",
+        "Liubomiras Laucevicius"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BODM4Njg0NTAtYjI5Ny00ZjAxLTkwNmItZTMxMWU5M2U3M2RjXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+},
+{
+    "Name": "Full Metal Jacket",
+    "Date": "1987",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNzkxODk0NjEtYjc4Mi00ZDI0LTgyYjEtYzc1NDkxY2YzYTgyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+    "Director": "Stanley Kubrick",
+    "Writers": [
+        "Stanley Kubrick",
+        "Michael Herr",
+        "Gustav Hasford"
+    ],
+    "Stars": [
+        "Matthew Modine",
+        "R. Lee Ermey",
+        "Vincent D'Onofrio"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNzkxODk0NjEtYjc4Mi00ZDI0LTgyYjEtYzc1NDkxY2YzYTgyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+},
+{
+    "Name": "Double Indemnity",
+    "Date": "1944",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BOTdlNjgyZGUtOTczYi00MDdhLTljZmMtYTEwZmRiOWFkYjRhXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "A Los Angeles insurance representative lets an alluring housewife seduce him into a scheme of insurance fraud and murder that arouses the suspicion of his colleague, an insurance investigator.",
+    "Director": "Billy Wilder",
+    "Writers": [
+        "Billy Wilder",
+        "Raymond Chandler",
+        "James M. Cain"
+    ],
+    "Stars": [
+        "Fred MacMurray",
+        "Barbara Stanwyck",
+        "Edward G. Robinson"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BOTdlNjgyZGUtOTczYi00MDdhLTljZmMtYTEwZmRiOWFkYjRhXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_.jpg"
+},
+{
+    "Name": "The Apartment",
+    "Date": "1960",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNzkwODFjNzItMmMwNi00MTU5LWE2MzktM2M4ZDczZGM1MmViXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "A Manhattan insurance clerk tries to rise in his company by letting its executives use his apartment for trysts, but complications and a romance of his own ensue.",
+    "Director": "Billy Wilder",
+    "Writers": [
+        "Billy Wilder",
+        "I.A.L. Diamond"
+    ],
+    "Stars": [
+        "Jack Lemmon",
+        "Shirley MacLaine",
+        "Fred MacMurray"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNzkwODFjNzItMmMwNi00MTU5LWE2MzktM2M4ZDczZGM1MmViXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_.jpg"
+},
+{
+    "Name": "To Kill a Mockingbird",
+    "Date": "1962",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "Atticus Finch, a widowed lawyer in Depression-era Alabama, defends a black man against an undeserved rape charge, and his children against prejudice.",
+    "Director": "Robert Mulligan",
+    "Writers": [
+        "Harper Lee",
+        "Horton Foote"
+    ],
+    "Stars": [
+        "Gregory Peck",
+        "John Megna",
+        "Frank Overton"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+},
+{
+    "Name": "Ikiru",
+    "Date": "1952",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BZTdkN2E5OTYtN2FiMi00YWUwLWEzMGMtZTMzNjY0NjgzYzFiXkEyXkFqcGdeQXVyMTI3ODAyMzE2._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "A bureaucrat tries to find meaning in his life after he discovers he has terminal cancer.",
+    "Director": "Akira Kurosawa",
+    "Writers": [
+        "Akira Kurosawa",
+        "Shinobu Hashimoto",
+        "Hideo Oguni"
+    ],
+    "Stars": [
+        "Takashi Shimura",
+        "Nobuo Kaneko",
+        "Shin'ichi Himori"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BZTdkN2E5OTYtN2FiMi00YWUwLWEzMGMtZTMzNjY0NjgzYzFiXkEyXkFqcGdeQXVyMTI3ODAyMzE2._V1_.jpg"
+},
+{
+    "Name": "The Sting",
+    "Date": "1973",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNGU3NjQ4YTMtZGJjOS00YTQ3LThmNmItMTI5MDE2ODI3NzY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "Two grifters team up to pull off the ultimate con.",
+    "Director": "George Roy Hill",
+    "Writers": [
+        "David S. Ward"
+    ],
+    "Stars": [
+        "Paul Newman",
+        "Robert Redford",
+        "Robert Shaw"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNGU3NjQ4YTMtZGJjOS00YTQ3LThmNmItMTI5MDE2ODI3NzY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
+},
+{
+    "Name": "Taxi Driver",
+    "Date": "1976",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action.",
+    "Director": "Martin Scorsese",
+    "Writers": [
+        "Paul Schrader"
+    ],
+    "Stars": [
+        "Robert De Niro",
+        "Jodie Foster",
+        "Cybill Shepherd"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNTU3ZGQ1OTItYzNmNC00OWIzLWI2MDEtZGRjNmYwOGNmZWE1XkEyXkFqcGdeQXVyNjMzMDgxMzk@._V1_.jpg"
+},
+{
+    "Name": "Spider-Man: No Way Home",
+    "Date": "2021",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+    "Director": "Jon Watts",
+    "Writers": [
+        "Chris McKenna",
+        "Erik Sommers",
+        "Stan Lee"
+    ],
+    "Stars": [
+        "Tom Holland",
+        "Zendaya",
+        "Benedict Cumberbatch"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMmUwOWVhNmEtZTAxMS00NjhmLTkzM2ItOTI5ODk3NjgyYjk4XkEyXkFqcGdeQXVyNDQ0MTYzMDA@._V1_.jpg"
+},
+{
+    "Name": "L.A. Confidential",
+    "Date": "1997",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMDQ2YzEyZGItYWRhOS00MjBmLTkzMDUtMTdjYzkyMmQxZTJlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "As corruption grows in 1950s Los Angeles, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.",
+    "Director": "Curtis Hanson",
+    "Writers": [
+        "James Ellroy",
+        "Brian Helgeland",
+        "Curtis Hanson"
+    ],
+    "Stars": [
+        "Kevin Spacey",
+        "Russell Crowe",
+        "Guy Pearce"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMDQ2YzEyZGItYWRhOS00MjBmLTkzMDUtMTdjYzkyMmQxZTJlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+},
+{
+    "Name": "Hamilton",
+    "Date": "2020",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNjViNWRjYWEtZTI0NC00N2E3LTk0NGQtMjY4NTM3OGNkZjY0XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "The real life of one of America's foremost founding fathers and first Secretary of the Treasury, Alexander Hamilton. Captured live on Broadway from the Richard Rodgers Theater with the original Broadway cast.",
+    "Director": "Thomas Kail",
+    "Writers": [
+        "Lin-Manuel Miranda",
+        "Ron Chernow"
+    ],
+    "Stars": [
+        "Lin-Manuel Miranda",
+        "Phillipa Soo",
+        "Leslie Odom Jr."
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNjViNWRjYWEtZTI0NC00N2E3LTk0NGQtMjY4NTM3OGNkZjY0XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_.jpg"
+},
+{
+    "Name": "Up",
+    "Date": "2009",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMTk3NDE2NzI4NF5BMl5BanBnXkFtZTgwNzE1MzEyMTE@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.",
+    "Director": "Bob Peterson",
+    "Writers": [
+        "Pete Docter",
+        "Bob Peterson",
+        "Tom McCarthy"
+    ],
+    "Stars": [
+        "Edward Asner",
+        "Jordan Nagai",
+        "John Ratzenberger"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BY2JiNDliN2ItODY3OS00ZGJmLWI1NjEtMGVhNmRjZGI1MWZjXkEyXkFqcGdeQXVyOTgxMDMxNTc@._V1_.jpg"
+},
+{
+    "Name": "Heat",
+    "Date": "1995",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BYjZjNTJlZGUtZTE1Ny00ZDc4LTgwYjUtMzk0NDgwYzZjYTk1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "A group of high-end professional thieves start to feel the heat from the LAPD when they unknowingly leave a clue at their latest heist.",
+    "Director": "Michael Mann",
+    "Writers": [
+        "Michael Mann"
+    ],
+    "Stars": [
+        "Al Pacino",
+        "Robert De Niro",
+        "Val Kilmer"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BYjZjNTJlZGUtZTE1Ny00ZDc4LTgwYjUtMzk0NDgwYzZjYTk1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+},
+{
+    "Name": "Metropolis",
+    "Date": "1927",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working-class prophet who predicts the coming of a savior to mediate their differences.",
+    "Director": "Fritz Lang",
+    "Writers": [
+        "Thea von Harbou",
+        "Fritz Lang"
+    ],
+    "Stars": [
+        "Brigitte Helm",
+        "Alfred Abel",
+        "Gustav Fr\u00f6hlich"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+},
+{
+    "Name": "Snatch",
+    "Date": "2000",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.",
+    "Director": "Guy Ritchie",
+    "Writers": [
+        "Guy Ritchie"
+    ],
+    "Stars": [
+        "Jason Statham",
+        "Brad Pitt",
+        "Stephen Graham"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg"
+},
+{
+    "Name": "Jodaeiye Nader az Simin",
+    "Date": "2011",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BN2JmMjViMjMtZTM5Mi00ZGZkLTk5YzctZDg5MjFjZDE4NjNkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "A married couple are faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer's disease.",
+    "Director": "Asghar Farhadi",
+    "Writers": [
+        "Asghar Farhadi"
+    ],
+    "Stars": [
+        "Payman Maadi",
+        "Leila Hatami",
+        "Sareh Bayat"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BN2JmMjViMjMtZTM5Mi00ZGZkLTk5YzctZDg5MjFjZDE4NjNkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+},
+{
+    "Name": "Die Hard",
+    "Date": "1988",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "An NYPD officer tries to save his wife and several others taken hostage by German terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.",
+    "Director": "John McTiernan",
+    "Writers": [
+        "Roderick Thorp",
+        "Jeb Stuart",
+        "Steven E. de Souza"
+    ],
+    "Stars": [
+        "Bruce Willis",
+        "Alan Rickman",
+        "Bonnie Bedelia"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+},
+{
+    "Name": "Incendies",
+    "Date": "2010",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMWE3MGYzZjktY2Q5Mi00Y2NiLWIyYWUtMmIyNzA3YmZlMGFhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "Twins journey to the Middle East to discover their family history and fulfill their mother's last wishes.",
+    "Director": "Denis Villeneuve",
+    "Writers": [
+        "Denis Villeneuve",
+        "Wajdi Mouawad",
+        "Val\u00e9rie Beaugrand-Champagne"
+    ],
+    "Stars": [
+        "Lubna Azabal",
+        "M\u00e9lissa D\u00e9sormeaux-Poulin",
+        "Maxim Gaudette"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMWE3MGYzZjktY2Q5Mi00Y2NiLWIyYWUtMmIyNzA3YmZlMGFhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+},
+{
+    "Name": "Indiana Jones and the Last Crusade",
+    "Date": "1989",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMjNkMzc2N2QtNjVlNS00ZTk5LTg0MTgtODY2MDAwNTMwZjBjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "In 1938, after his father Professor Henry Jones, Sr. goes missing while pursuing the Holy Grail, Professor Henry \"Indiana\" Jones, Jr. finds himself up against Adolf Hitler's Nazis again to stop them from obtaining its powers.",
+    "Director": "Steven Spielberg",
+    "Writers": [
+        "Jeffrey Boam",
+        "George Lucas",
+        "Menno Meyjes"
+    ],
+    "Stars": [
+        "Harrison Ford",
+        "Sean Connery",
+        "Alison Doody"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMjNkMzc2N2QtNjVlNS00ZTk5LTg0MTgtODY2MDAwNTMwZjBjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg"
+},
+{
+    "Name": "Ladri di biciclette",
+    "Date": "1948",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNmI1ODdjODctMDlmMC00ZWViLWI5MzYtYzRhNDdjYmM3MzFjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "In post-war Italy, a working-class man's bicycle is stolen, endangering his efforts to find work. He and his son set out to find it.",
+    "Director": "Vittorio De Sica",
+    "Writers": [
+        "Cesare Zavattini",
+        "Luigi Bartolini",
+        "Oreste Biancoli"
+    ],
+    "Stars": [
+        "Lamberto Maggiorani",
+        "Enzo Staiola",
+        "Lianella Carell"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNmI1ODdjODctMDlmMC00ZWViLWI5MzYtYzRhNDdjYmM3MzFjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+},
+{
+    "Name": "1917",
+    "Date": "2019",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "April 6th, 1917. As an infantry battalion assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.",
+    "Director": "Sam Mendes",
+    "Writers": [
+        "Sam Mendes",
+        "Krysty Wilson-Cairns"
+    ],
+    "Stars": [
+        "Dean-Charles Chapman",
+        "George MacKay",
+        "Daniel Mays"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_.jpg"
+},
+{
+    "Name": "Taare Zameen Par",
+    "Date": "2007",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMDhjZWViN2MtNzgxOS00NmI4LThiZDQtZDI3MzM4MDE4NTc0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "An eight-year-old boy is thought to be a lazy trouble-maker, until the new art teacher has the patience and compassion to discover the real problem behind his struggles in school.",
+    "Director": "Amole Gupte",
+    "Writers": [
+        "Amole Gupte"
+    ],
+    "Stars": [
+        "Darsheel Safary",
+        "Aamir Khan",
+        "Tisca Chopra"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMDhjZWViN2MtNzgxOS00NmI4LThiZDQtZDI3MzM4MDE4NTc0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+},
+{
+    "Name": "Batman Begins",
+    "Date": "2005",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption.",
+    "Director": "Christopher Nolan",
+    "Writers": [
+        "Bob Kane",
+        "David S. Goyer",
+        "Christopher Nolan"
+    ],
+    "Stars": [
+        "Christian Bale",
+        "Michael Caine",
+        "Ken Watanabe"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+},
+{
+    "Name": "Dangal",
+    "Date": "2016",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression.",
+    "Director": "Nitesh Tiwari",
+    "Writers": [
+        "Piyush Gupta",
+        "Shreyas Jain",
+        "Nikhil Mehrotra"
+    ],
+    "Stars": [
+        "Aamir Khan",
+        "Sakshi Tanwar",
+        "Fatima Sana Shaikh"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_.jpg"
+},
+{
+    "Name": "Some Like It Hot",
+    "Date": "1959",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "After two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.",
+    "Director": "Billy Wilder",
+    "Writers": [
+        "Billy Wilder",
+        "I.A.L. Diamond",
+        "Robert Thoeren"
+    ],
+    "Stars": [
+        "Marilyn Monroe",
+        "Tony Curtis",
+        "Jack Lemmon"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+},
+{
+    "Name": "The Father",
+    "Date": "2020",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BZGJhNWRiOWQtMjI4OS00ZjcxLTgwMTAtMzQ2ODkxY2JkOTVlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "A man refuses all assistance from his daughter as he ages. As he tries to make sense of his changing circumstances, he begins to doubt his loved ones, his own mind and even the fabric of his reality.",
+    "Director": "Florian Zeller",
+    "Writers": [
+        "Christopher Hampton",
+        "Florian Zeller"
+    ],
+    "Stars": [
+        "Anthony Hopkins",
+        "Olivia Colman",
+        "Mark Gatiss"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BZGJhNWRiOWQtMjI4OS00ZjcxLTgwMTAtMzQ2ODkxY2JkOTVlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+},
+{
+    "Name": "All About Eve",
+    "Date": "1950",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "A seemingly timid but secretly ruthless ing\u00e9nue insinuates herself into the lives of an aging Broadway star and her circle of theater friends.",
+    "Director": "Joseph L. Mankiewicz",
+    "Writers": [
+        "Joseph L. Mankiewicz",
+        "Mary Orr"
+    ],
+    "Stars": [
+        "Bette Davis",
+        "Anne Baxter",
+        "George Sanders"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_.jpg"
+},
+{
+    "Name": "Green Book",
+    "Date": "2018",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "A working-class Italian-American bouncer becomes the driver of an African-American classical pianist on a tour of venues through the 1960s American South.",
+    "Director": "Peter Farrelly",
+    "Writers": [
+        "Nick Vallelonga",
+        "Brian Hayes Currie",
+        "Peter Farrelly"
+    ],
+    "Stars": [
+        "Viggo Mortensen",
+        "Mahershala Ali",
+        "Linda Cardellini"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_.jpg"
+},
+{
+    "Name": "The Wolf of Wall Street",
+    "Date": "2013",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+    "Director": "Martin Scorsese",
+    "Writers": [
+        "Terence Winter",
+        "Jordan Belfort"
+    ],
+    "Stars": [
+        "Leonardo DiCaprio",
+        "Jonah Hill",
+        "Margot Robbie"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BODdiNjU5OGItYWM2NS00N2M5LWFlMDYtNGI3YWI2NjNiMzViXkEyXkFqcGdeQXVyOTgxMDMxNTc@._V1_.jpg"
+},
+{
+    "Name": "Judgment at Nuremberg",
+    "Date": "1961",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNDc2ODQ5NTE2MV5BMl5BanBnXkFtZTcwODExMjUyNA@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "In 1948, an American court in occupied Germany tries four Nazis judged for war crimes.",
+    "Director": "Stanley Kramer",
+    "Writers": [
+        "Abby Mann",
+        "Montgomery Clift"
+    ],
+    "Stars": [
+        "Spencer Tracy",
+        "Burt Lancaster",
+        "Richard Widmark"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNDc2ODQ5NTE2MV5BMl5BanBnXkFtZTcwODExMjUyNA@@._V1_.jpg"
+},
+{
+    "Name": "Unforgiven",
+    "Date": "1992",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BODM3YWY4NmQtN2Y3Ni00OTg0LWFhZGQtZWE3ZWY4MTJlOWU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "Retired Old West gunslinger William Munny reluctantly takes on one last job, with the help of his old partner Ned Logan and a young man, The \"Schofield Kid.\"",
+    "Director": "Clint Eastwood",
+    "Writers": [
+        "David Webb Peoples"
+    ],
+    "Stars": [
+        "Clint Eastwood",
+        "Gene Hackman",
+        "Morgan Freeman"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BODM3YWY4NmQtN2Y3Ni00OTg0LWFhZGQtZWE3ZWY4MTJlOWU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+},
+{
+    "Name": "Pan's Labyrinth",
+    "Date": "2006",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BYzFjMThiMGItOWRlMC00MDI4LThmOGUtYTNlZGZiYWI1YjMyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "In the Falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.",
+    "Director": "Guillermo del Toro",
+    "Writers": [
+        "Guillermo del Toro"
+    ],
+    "Stars": [
+        "Ivana Baquero",
+        "Ariadna Gil",
+        "Sergi L\u00f3pez"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BYzFjMThiMGItOWRlMC00MDI4LThmOGUtYTNlZGZiYWI1YjMyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
+},
+{
+    "Name": "Casino",
+    "Date": "1995",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "A tale of greed, deception, money, power, and murder occur between two best friends: a mafia enforcer and a casino executive compete against each other over a gambling empire, and over a fast-living and fast-loving socialite.",
+    "Director": "Martin Scorsese",
+    "Writers": [
+        "Nicholas Pileggi",
+        "Martin Scorsese"
+    ],
+    "Stars": [
+        "Robert De Niro",
+        "Sharon Stone",
+        "Joe Pesci"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg"
+},
+{
+    "Name": "Ran",
+    "Date": "1985",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMmU1NGYwZWYtOWExNi00ZTEyLTgwMmUtM2ZlMDVjNWM4YjVlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "In Medieval Japan, an elderly warlord retires, handing over his empire to his three sons. However, he vastly underestimates how the new-found power will corrupt them and cause them to turn on each other...and him.",
+    "Director": "Akira Kurosawa",
+    "Writers": [
+        "Akira Kurosawa",
+        "Hideo Oguni",
+        "Masato Ide"
+    ],
+    "Stars": [
+        "Tatsuya Nakadai",
+        "Akira Terao",
+        "Jinpachi Nezu"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMmU1NGYwZWYtOWExNi00ZTEyLTgwMmUtM2ZlMDVjNWM4YjVlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
+},
+{
+    "Name": "There Will Be Blood",
+    "Date": "2007",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.",
+    "Director": "Paul Thomas Anderson",
+    "Writers": [
+        "Paul Thomas Anderson",
+        "Upton Sinclair"
+    ],
+    "Stars": [
+        "Daniel Day-Lewis",
+        "Paul Dano",
+        "Ciar\u00e1n Hinds"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_.jpg"
+},
+{
+    "Name": "The Sixth Sense",
+    "Date": "1999",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "A frightened, withdrawn Philadelphia boy who communicates with spirits seeks the help of a disheartened child psychologist.",
+    "Director": "M. Night Shyamalan",
+    "Writers": [
+        "M. Night Shyamalan"
+    ],
+    "Stars": [
+        "Bruce Willis",
+        "Haley Joel Osment",
+        "Toni Collette"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_.jpg"
+},
+{
+    "Name": "A Beautiful Mind",
+    "Date": "2001",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.",
+    "Director": "Ron Howard",
+    "Writers": [
+        "Akiva Goldsman",
+        "Sylvia Nasar"
+    ],
+    "Stars": [
+        "Russell Crowe",
+        "Ed Harris",
+        "Jennifer Connelly"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+},
+{
+    "Name": "Monty Python and the Holy Grail",
+    "Date": "1975",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BN2IyNTE4YzUtZWU0Mi00MGIwLTgyMmQtMzQ4YzQxYWNlYWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles.",
+    "Director": "Terry Jones",
+    "Writers": [
+        "Graham Chapman",
+        "John Cleese",
+        "Eric Idle"
+    ],
+    "Stars": [
+        "Graham Chapman",
+        "John Cleese",
+        "Eric Idle"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BN2IyNTE4YzUtZWU0Mi00MGIwLTgyMmQtMzQ4YzQxYWNlYWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+},
+{
+    "Name": "The Truman Show",
+    "Date": "1998",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.2",
+    "Description": "An insurance salesman discovers his whole life is actually a reality TV show.",
+    "Director": "Peter Weir",
+    "Writers": [
+        "Andrew Niccol"
+    ],
+    "Stars": [
+        "Jim Carrey",
+        "Ed Harris",
+        "Laura Linney"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg"
+},
+{
+    "Name": "Y\u00f4jinb\u00f4",
+    "Date": "1961",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BZThiZjAzZjgtNDU3MC00YThhLThjYWUtZGRkYjc2ZWZlOTVjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each other to free the town.",
+    "Director": "Akira Kurosawa",
+    "Writers": [
+        "Akira Kurosawa",
+        "Ry\u00fbz\u00f4 Kikushima"
+    ],
+    "Stars": [
+        "Toshir\u00f4 Mifune",
+        "Eijir\u00f4 T\u00f4no",
+        "Tatsuya Nakadai"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BZThiZjAzZjgtNDU3MC00YThhLThjYWUtZGRkYjc2ZWZlOTVjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg"
+},
+{
+    "Name": "The Treasure of the Sierra Madre",
+    "Date": "1948",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "Two down-on-their-luck Americans searching for work in 1920s Mexico convince an old prospector to help them mine for gold in the Sierra Madre Mountains.",
+    "Director": "John Huston",
+    "Writers": [
+        "John Huston",
+        "B. Traven"
+    ],
+    "Stars": [
+        "Humphrey Bogart",
+        "Walter Huston",
+        "Tim Holt"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg"
+},
+{
+    "Name": "Rash\u00f4mon",
+    "Date": "1950",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMjEzMzA4NDE2OF5BMl5BanBnXkFtZTcwNTc5MDI2NQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "The rape of a bride and the murder of her samurai husband are recalled from the perspectives of a bandit, the bride, the samurai's ghost and a woodcutter.",
+    "Director": "Akira Kurosawa",
+    "Writers": [
+        "Ry\u00fbnosuke Akutagawa",
+        "Akira Kurosawa",
+        "Shinobu Hashimoto"
+    ],
+    "Stars": [
+        "Toshir\u00f4 Mifune",
+        "Machiko Ky\u00f4",
+        "Masayuki Mori"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMjExNTk0NTAxNF5BMl5BanBnXkFtZTgwMTM2OTE4MzE@._V1_.jpg"
+},
+{
+    "Name": "The Great Escape",
+    "Date": "1963",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNzA2NmYxMWUtNzBlMC00MWM2LTkwNmQtYTFlZjQwODNhOWE0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "Allied prisoners of war plan for several hundred of their number to escape from a German camp during World War II.",
+    "Director": "John Sturges",
+    "Writers": [
+        "Paul Brickhill",
+        "James Clavell",
+        "W.R. Burnett"
+    ],
+    "Stars": [
+        "Steve McQueen",
+        "James Garner",
+        "Richard Attenborough"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNzA2NmYxMWUtNzBlMC00MWM2LTkwNmQtYTFlZjQwODNhOWE0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg"
+},
+{
+    "Name": "Shutter Island",
+    "Date": "2010",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "In 1954, a U.S. Marshal investigates the disappearance of a murderer who escaped from a hospital for the criminally insane.",
+    "Director": "Martin Scorsese",
+    "Writers": [
+        "Laeta Kalogridis",
+        "Dennis Lehane"
+    ],
+    "Stars": [
+        "Leonardo DiCaprio",
+        "Emily Mortimer",
+        "Mark Ruffalo"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BYjhmMDE4ZjktNDAxZC00MDgwLWI2YjQtNzIzNWY1MjU4OWJkXkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg"
+},
+{
+    "Name": "Kill Bill: Vol. 1",
+    "Date": "2003",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.",
+    "Director": "Quentin Tarantino",
+    "Writers": [
+        "Quentin Tarantino",
+        "Uma Thurman"
+    ],
+    "Stars": [
+        "Uma Thurman",
+        "David Carradine",
+        "Daryl Hannah"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+},
+{
+    "Name": "Jurassic Park",
+    "Date": "1993",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "A pragmatic paleontologist touring an almost complete theme park on an island in Central America is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+    "Director": "Steven Spielberg",
+    "Writers": [
+        "Michael Crichton",
+        "David Koepp"
+    ],
+    "Stars": [
+        "Sam Neill",
+        "Laura Dern",
+        "Jeff Goldblum"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_.jpg"
+},
+{
+    "Name": "No Country for Old Men",
+    "Date": "2007",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.",
+    "Director": "Joel Coen",
+    "Writers": [
+        "Joel Coen",
+        "Ethan Coen",
+        "Cormac McCarthy"
+    ],
+    "Stars": [
+        "Tommy Lee Jones",
+        "Javier Bardem",
+        "Josh Brolin"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_.jpg"
+},
+{
+    "Name": "The Elephant Man",
+    "Date": "1980",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "A Victorian surgeon rescues a heavily disfigured man who is mistreated while scraping a living as a side-show freak. Behind his monstrous fa\u00e7ade, there is revealed a person of kindness, intelligence and sophistication.",
+    "Director": "David Lynch",
+    "Writers": [
+        "Christopher De Vore",
+        "Eric Bergren",
+        "David Lynch"
+    ],
+    "Stars": [
+        "Anthony Hopkins",
+        "John Hurt",
+        "Anne Bancroft"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+},
+{
+    "Name": "Finding Nemo",
+    "Date": "2003",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BZTAzNWZlNmUtZDEzYi00ZjA5LWIwYjEtZGM1NWE1MjE4YWRhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+    "Director": "Lee Unkrich",
+    "Writers": [
+        "Andrew Stanton",
+        "Bob Peterson",
+        "David Reynolds"
+    ],
+    "Stars": [
+        "Albert Brooks",
+        "Ellen DeGeneres",
+        "Alexander Gould"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNjY3MjcxZjctZGIzMS00MjJmLWI2YTQtNGE2NWYyZDc4NDIzXkEyXkFqcGdeQXVyOTgxMDMxNTc@._V1_.jpg"
+},
+{
+    "Name": "Raging Bull",
+    "Date": "1980",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+    "Director": "Martin Scorsese",
+    "Writers": [
+        "Jake LaMotta",
+        "Joseph Carter",
+        "Peter Savage"
+    ],
+    "Stars": [
+        "Robert De Niro",
+        "Cathy Moriarty",
+        "Joe Pesci"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_.jpg"
+},
+{
+    "Name": "Chinatown",
+    "Date": "1974",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMjJkMDZhYzItZTFhMi00ZGI4LThlNTAtZDNlYmEwNjFkNDYzXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "A private detective hired to expose an adulterer in 1930s Los Angeles finds himself caught up in a web of deceit, corruption, and murder.",
+    "Director": "Roman Polanski",
+    "Writers": [
+        "Robert Towne",
+        "Roman Polanski"
+    ],
+    "Stars": [
+        "Jack Nicholson",
+        "Faye Dunaway",
+        "John Huston"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMjJkMDZhYzItZTFhMi00ZGI4LThlNTAtZDNlYmEwNjFkNDYzXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
+},
+{
+    "Name": "Gone with the Wind",
+    "Date": "1939",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "The manipulative daughter of a Georgia plantation owner conducts a turbulent romance with a roguish profiteer during the American Civil War and Reconstruction periods.",
+    "Director": "Sam Wood",
+    "Writers": [
+        "Margaret Mitchell",
+        "Sidney Howard",
+        "Oliver H.P. Garrett"
+    ],
+    "Stars": [
+        "Clark Gable",
+        "Vivien Leigh",
+        "Thomas Mitchell"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+},
+{
+    "Name": "V for Vendetta",
+    "Date": "2005",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "In a future British dystopian society, a shadowy freedom fighter, known only by the alias of \"V\", plots to overthrow the tyrannical government - with the help of a young woman.",
+    "Director": "James McTeigue",
+    "Writers": [
+        "Lilly Wachowski",
+        "Lana Wachowski",
+        "David Lloyd"
+    ],
+    "Stars": [
+        "Hugo Weaving",
+        "Natalie Portman",
+        "Rupert Graves"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_.jpg"
+},
+{
+    "Name": "Inside Out",
+    "Date": "2015",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.",
+    "Director": "Ronnie Del Carmen",
+    "Writers": [
+        "Pete Docter",
+        "Ronnie Del Carmen",
+        "Meg LeFauve"
+    ],
+    "Stars": [
+        "Amy Poehler",
+        "Bill Hader",
+        "Lewis Black"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BZDRmZTc0YmEtMmI0My00M2EyLTg4M2ItMGIxNDM1NzM3MmVhXkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg"
+},
+{
+    "Name": "Lock, Stock and Two Smoking Barrels",
+    "Date": "1998",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "Eddy persuades his three pals to pool money for a vital poker game against a powerful local mobster, Hatchet Harry. Eddy loses, after which Harry gives him a week to pay back 500,000 pounds.",
+    "Director": "Guy Ritchie",
+    "Writers": [
+        "Guy Ritchie"
+    ],
+    "Stars": [
+        "Jason Flemyng",
+        "Dexter Fletcher",
+        "Nick Moran"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg"
+},
+{
+    "Name": "The Thing",
+    "Date": "1982",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNGViZWZmM2EtNGYzZi00ZDAyLTk3ODMtNzIyZTBjN2Y1NmM1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+    "Director": "John Carpenter",
+    "Writers": [
+        "Bill Lancaster",
+        "John W. Campbell Jr."
+    ],
+    "Stars": [
+        "Kurt Russell",
+        "Wilford Brimley",
+        "Keith David"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNGViZWZmM2EtNGYzZi00ZDAyLTk3ODMtNzIyZTBjN2Y1NmM1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg"
+},
+{
+    "Name": "Dial M for Murder",
+    "Date": "1954",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BOWIwODIxYWItZDI4MS00YzhhLWE3MmYtMzlhZDIwOTMzZmE5L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "A former tennis star arranges the murder of his adulterous wife.",
+    "Director": "Alfred Hitchcock",
+    "Writers": [
+        "Frederick Knott"
+    ],
+    "Stars": [
+        "Ray Milland",
+        "Grace Kelly",
+        "Robert Cummings"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BOWIwODIxYWItZDI4MS00YzhhLWE3MmYtMzlhZDIwOTMzZmE5L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg"
+},
+{
+    "Name": "El secreto de sus ojos",
+    "Date": "2009",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BY2FhZGI5M2QtZWFiZS00NjkwLWE4NWQtMzg3ZDZjNjdkYTJiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "A retired legal counselor writes a novel hoping to find closure for one of his past unresolved homicide cases and for his unreciprocated love with his superior - both of which still haunt him decades later.",
+    "Director": "Juan Jos\u00e9 Campanella",
+    "Writers": [
+        "Eduardo Sacheri",
+        "Juan Jos\u00e9 Campanella"
+    ],
+    "Stars": [
+        "Ricardo Dar\u00edn",
+        "Soledad Villamil",
+        "Pablo Rago"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BY2FhZGI5M2QtZWFiZS00NjkwLWE4NWQtMzg3ZDZjNjdkYTJiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+},
+{
+    "Name": "The Bridge on the River Kwai",
+    "Date": "1957",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BOGY5NmNlMmQtYzRlYy00NGQ5LWFkYjYtNzExZmQyMTg0ZDA0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "British POWs are forced to build a railway bridge across the river Kwai for their Japanese captors in occupied Burma, not knowing that the allied forces are planning a daring commando raid through the jungle to destroy it.",
+    "Director": "David Lean",
+    "Writers": [
+        "Pierre Boulle",
+        "Carl Foreman",
+        "Michael Wilson"
+    ],
+    "Stars": [
+        "William Holden",
+        "Alec Guinness",
+        "Jack Hawkins"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BOGY5NmNlMmQtYzRlYy00NGQ5LWFkYjYtNzExZmQyMTg0ZDA0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg"
+},
+{
+    "Name": "Hauru no ugoku shiro",
+    "Date": "2004",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNmM4YTFmMmItMGE3Yy00MmRkLTlmZGEtMzZlOTQzYjk3MzA2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.",
+    "Director": "Hayao Miyazaki",
+    "Writers": [
+        "Hayao Miyazaki",
+        "Diana Wynne Jones"
+    ],
+    "Stars": [
+        "Chieko Baish\u00f4",
+        "Takuya Kimura",
+        "Tatsuya Gash\u00fbin"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNmM4YTFmMmItMGE3Yy00MmRkLTlmZGEtMzZlOTQzYjk3MzA2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+},
+{
+    "Name": "Three Billboards Outside Ebbing, Missouri",
+    "Date": "2017",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.",
+    "Director": "Martin McDonagh",
+    "Writers": [
+        "Martin McDonagh"
+    ],
+    "Stars": [
+        "Frances McDormand",
+        "Woody Harrelson",
+        "Sam Rockwell"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BY2RiNTMzMmMtMDlkYi00YWVlLTllNTEtZDY5YTFhZmU3MTgzXkEyXkFqcGdeQXVyMzg2MzE2OTE@._V1_.jpg"
+},
+{
+    "Name": "Trainspotting",
+    "Date": "1996",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends.",
+    "Director": "Danny Boyle",
+    "Writers": [
+        "Irvine Welsh",
+        "John Hodge"
+    ],
+    "Stars": [
+        "Ewan McGregor",
+        "Ewen Bremner",
+        "Jonny Lee Miller"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+},
+{
+    "Name": "Gran Torino",
+    "Date": "2008",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, Thao Lor, a Hmong teenager who tried to steal Kowalski's prized possession: a 1972 Gran Torino.",
+    "Director": "Clint Eastwood",
+    "Writers": [
+        "Nick Schenk",
+        "Dave Johannson"
+    ],
+    "Stars": [
+        "Clint Eastwood",
+        "Bee Vang",
+        "Christopher Carley"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_.jpg"
+},
+{
+    "Name": "Warrior",
+    "Date": "2011",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDMyNTg0Ng@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "The youngest son of an alcoholic former boxer returns home, where he's trained by his father for competition in a mixed martial arts tournament - a path that puts the fighter on a collision course with his estranged, older brother.",
+    "Director": "Gavin O'Connor",
+    "Writers": [
+        "Gavin O'Connor",
+        "Anthony Tambakis",
+        "Cliff Dorfman"
+    ],
+    "Stars": [
+        "Tom Hardy",
+        "Nick Nolte",
+        "Joel Edgerton"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDMyNTg0Ng@@._V1_.jpg"
+},
+{
+    "Name": "Fargo",
+    "Date": "1996",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNDJiZDgyZjctYmRjMS00ZjdkLTkwMTEtNGU1NDg3NDQ0Yzk1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "Minnesota car salesman Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.",
+    "Director": "Ethan Coen",
+    "Writers": [
+        "Ethan Coen",
+        "Joel Coen"
+    ],
+    "Stars": [
+        "William H. Macy",
+        "Frances McDormand",
+        "Steve Buscemi"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNDJiZDgyZjctYmRjMS00ZjdkLTkwMTEtNGU1NDg3NDQ0Yzk1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+},
+{
+    "Name": "Tonari no Totoro",
+    "Date": "1988",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BYzJjMTYyMjQtZDI0My00ZjE2LTkyNGYtOTllNGQxNDMyZjE0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.",
+    "Director": "Hayao Miyazaki",
+    "Writers": [
+        "Hayao Miyazaki"
+    ],
+    "Stars": [
+        "Hitoshi Takagi",
+        "Noriko Hidaka",
+        "Chika Sakamoto"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BYzJjMTYyMjQtZDI0My00ZjE2LTkyNGYtOTllNGQxNDMyZjE0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+},
+{
+    "Name": "Prisoners",
+    "Date": "2013",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts.",
+    "Director": "Denis Villeneuve",
+    "Writers": [
+        "Aaron Guzikowski"
+    ],
+    "Stars": [
+        "Hugh Jackman",
+        "Jake Gyllenhaal",
+        "Viola Davis"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_.jpg"
+},
+{
+    "Name": "Million Dollar Baby",
+    "Date": "2004",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "A determined woman works with a hardened boxing trainer to become a professional.",
+    "Director": "Clint Eastwood",
+    "Writers": [
+        "Paul Haggis",
+        "F.X. Toole"
+    ],
+    "Stars": [
+        "Hilary Swank",
+        "Clint Eastwood",
+        "Morgan Freeman"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_.jpg"
+},
+{
+    "Name": "The Gold Rush",
+    "Date": "1925",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BZjEyOTE4MzMtNmMzMy00Mzc3LWJlOTQtOGJiNDE0ZmJiOTU4L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY67_CR2,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "A prospector goes to the Klondike during the 1890s gold rush in hopes of making his fortune, and is smitten with a girl he sees in a dance hall.",
+    "Director": "Charles Chaplin",
+    "Writers": [
+        "Charles Chaplin"
+    ],
+    "Stars": [
+        "Charles Chaplin",
+        "Mack Swain",
+        "Tom Murray"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BZjEyOTE4MzMtNmMzMy00Mzc3LWJlOTQtOGJiNDE0ZmJiOTU4L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg"
+},
+{
+    "Name": "Blade Runner",
+    "Date": "1982",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "A blade runner must pursue and terminate four replicants who stole a ship in space, and have returned to Earth to find their creator.",
+    "Director": "Ridley Scott",
+    "Writers": [
+        "Hampton Fancher",
+        "David Webb Peoples",
+        "Philip K. Dick"
+    ],
+    "Stars": [
+        "Harrison Ford",
+        "Rutger Hauer",
+        "Sean Young"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+},
+{
+    "Name": "Catch Me If You Can",
+    "Date": "2002",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "Barely 21 yet, Frank is a skilled forger who has passed as a doctor, lawyer and pilot. FBI agent Carl becomes obsessed with tracking down the con man, who only revels in the pursuit.",
+    "Director": "Steven Spielberg",
+    "Writers": [
+        "Jeff Nathanson",
+        "Frank Abagnale Jr.",
+        "Stan Redding"
+    ],
+    "Stars": [
+        "Leonardo DiCaprio",
+        "Tom Hanks",
+        "Christopher Walken"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_.jpg"
+},
+{
+    "Name": "On the Waterfront",
+    "Date": "1954",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BY2I0MWFiZDMtNWQyYy00Njk5LTk3MDktZjZjNTNmZmVkYjkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "An ex-prize fighter turned New Jersey longshoreman struggles to stand up to his corrupt union bosses, including his older brother, as he starts to connect with the grieving sister of one of the syndicate's victims.",
+    "Director": "Elia Kazan",
+    "Writers": [
+        "Budd Schulberg",
+        "Malcolm Johnson",
+        "Robert Siodmak"
+    ],
+    "Stars": [
+        "Marlon Brando",
+        "Karl Malden",
+        "Lee J. Cobb"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BY2I0MWFiZDMtNWQyYy00Njk5LTk3MDktZjZjNTNmZmVkYjkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg"
+},
+{
+    "Name": "The Third Man",
+    "Date": "1949",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BYjE2OTdhMWUtOGJlMy00ZDViLWIzZjgtYjZkZGZmMDZjYmEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.",
+    "Director": "Carol Reed",
+    "Writers": [
+        "Graham Greene",
+        "Orson Welles",
+        "Alexander Korda"
+    ],
+    "Stars": [
+        "Orson Welles",
+        "Joseph Cotten",
+        "Alida Valli"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BYjE2OTdhMWUtOGJlMy00ZDViLWIzZjgtYjZkZGZmMDZjYmEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+},
+{
+    "Name": "Bacheha-Ye aseman",
+    "Date": "1997",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BZTYwZWQ4ZTQtZWU0MS00N2YwLWEzMDItZWFkZWY0MWVjODVhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "After a boy loses his sister's pair of shoes, he goes on a series of adventures in order to find them. When he can't, he tries a new way to \"win\" a new pair.",
+    "Director": "Majid Majidi",
+    "Writers": [
+        "Majid Majidi"
+    ],
+    "Stars": [
+        "Mohammad Amir Naji",
+        "Amir Farrokh Hashemian",
+        "Bahare Seddiqi"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BY2Q0MmVkYzYtZGZiOC00YTg5LTk3ZmItMWVhYjc2NTU4OTVjXkEyXkFqcGdeQXVyMTQ5ODkzMDk@._V1_.jpg"
+},
+{
+    "Name": "Ben-Hur",
+    "Date": "1959",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNjgxY2JiZDYtZmMwOC00ZmJjLWJmODUtMTNmNWNmYWI5ODkwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "After a Jewish prince is betrayed and sent into slavery by a Roman friend in 1st-century Jerusalem, he regains his freedom and comes back for revenge.",
+    "Director": "William Wyler",
+    "Writers": [
+        "Lew Wallace",
+        "Karl Tunberg",
+        "Gore Vidal"
+    ],
+    "Stars": [
+        "Charlton Heston",
+        "Jack Hawkins",
+        "Stephen Boyd"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNjgxY2JiZDYtZmMwOC00ZmJjLWJmODUtMTNmNWNmYWI5ODkwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg"
+},
+{
+    "Name": "The General",
+    "Date": "1926",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BYmRiMDFlYjYtOTMwYy00OGY2LWE0Y2QtYzQxOGNhZmUwNTIxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "After being rejected by the Confederate military, not realizing it was due to his crucial civilian role, an engineer must single-handedly recapture his beloved locomotive after it is seized by Union spies and return it through enemy lines.",
+    "Director": "Buster Keaton",
+    "Writers": [
+        "Buster Keaton",
+        "Clyde Bruckman",
+        "Al Boasberg"
+    ],
+    "Stars": [
+        "Buster Keaton",
+        "Marion Mack",
+        "Glen Cavender"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BYmRiMDFlYjYtOTMwYy00OGY2LWE0Y2QtYzQxOGNhZmUwNTIxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+},
+{
+    "Name": "12 Years a Slave",
+    "Date": "2013",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.",
+    "Director": "Steve McQueen",
+    "Writers": [
+        "John Ridley",
+        "Solomon Northup"
+    ],
+    "Stars": [
+        "Chiwetel Ejiofor",
+        "Michael Kenneth Williams",
+        "Michael Fassbender"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_.jpg"
+},
+{
+    "Name": "Gone Girl",
+    "Date": "2014",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+    "Director": "David Fincher",
+    "Writers": [
+        "Gillian Flynn"
+    ],
+    "Stars": [
+        "Ben Affleck",
+        "Rosamund Pike",
+        "Neil Patrick Harris"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_.jpg"
+},
+{
+    "Name": "The Deer Hunter",
+    "Date": "1978",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNDhmNTA0ZDMtYjhkNS00NzEzLWIzYTItOGNkMTVmYjE2YmI3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "An in-depth examination of the ways in which the Vietnam War impacts and disrupts the lives of several friends in a small steel mill town in Pennsylvania.",
+    "Director": "Michael Cimino",
+    "Writers": [
+        "Michael Cimino",
+        "Deric Washburn",
+        "Louis Garfinkle"
+    ],
+    "Stars": [
+        "Robert De Niro",
+        "Christopher Walken",
+        "John Cazale"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNDhmNTA0ZDMtYjhkNS00NzEzLWIzYTItOGNkMTVmYjE2YmI3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+},
+{
+    "Name": "Before Sunrise",
+    "Date": "1995",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BZDdiZTAwYzAtMDI3Ni00OTRjLTkzN2UtMGE3MDMyZmU4NTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.",
+    "Director": "Richard Linklater",
+    "Writers": [
+        "Richard Linklater",
+        "Kim Krizan"
+    ],
+    "Stars": [
+        "Ethan Hawke",
+        "Julie Delpy",
+        "Andrea Eckert"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BZDdiZTAwYzAtMDI3Ni00OTRjLTkzN2UtMGE3MDMyZmU4NTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+},
+{
+    "Name": "Harry Potter and the Deathly Hallows: Part 2",
+    "Date": "2011",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMGVmMWNiMDktYjQ0Mi00MWIxLTk0N2UtN2ZlYTdkN2IzNDNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.",
+    "Director": "David Yates",
+    "Writers": [
+        "Steve Kloves",
+        "J.K. Rowling"
+    ],
+    "Stars": [
+        "Daniel Radcliffe",
+        "Emma Watson",
+        "Rupert Grint"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNDUxZDhmNjUtMjY5ZC00YTdmLTk1Y2YtNjBiZmJlMjNiNWM5XkEyXkFqcGdeQXVyOTgxMDMxNTc@._V1_.jpg"
+},
+{
+    "Name": "The Grand Budapest Hotel",
+    "Date": "2014",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge.",
+    "Director": "Wes Anderson",
+    "Writers": [
+        "Stefan Zweig",
+        "Wes Anderson",
+        "Hugo Guinness"
+    ],
+    "Stars": [
+        "Ralph Fiennes",
+        "F. Murray Abraham",
+        "Mathieu Amalric"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_.jpg"
+},
+{
+    "Name": "Mr. Smith Goes to Washington",
+    "Date": "1939",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BZTYwYjYxYzgtMDE1Ni00NzU4LWJlMTEtODQ5YmJmMGJhZjI5L2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "A naive youth leader is appointed to fill a vacancy in the U.S. Senate. His idealistic plans promptly collide with corruption at home and subterfuge from his hero in Washington, but he tries to forge ahead despite attacks on his character.",
+    "Director": "Frank Capra",
+    "Writers": [
+        "Sidney Buchman",
+        "Lewis R. Foster",
+        "Myles Connolly"
+    ],
+    "Stars": [
+        "James Stewart",
+        "Jean Arthur",
+        "Claude Rains"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BZTYwYjYxYzgtMDE1Ni00NzU4LWJlMTEtODQ5YmJmMGJhZjI5L2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg"
+},
+{
+    "Name": "Le salaire de la peur",
+    "Date": "1953",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BZDdkNzMwZmUtY2Q5MS00ZmM2LWJhYjItYTBjMWY0MGM4MDRjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "In a decrepit South American village, four men are hired to transport an urgent nitroglycerine shipment without the equipment that would make it safe.",
+    "Director": "Henri-Georges Clouzot",
+    "Writers": [
+        "Georges Arnaud",
+        "Henri-Georges Clouzot",
+        "J\u00e9r\u00f4me G\u00e9ronimi"
+    ],
+    "Stars": [
+        "Yves Montand",
+        "Charles Vanel",
+        "Peter van Eyck"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BZDdkNzMwZmUtY2Q5MS00ZmM2LWJhYjItYTBjMWY0MGM4MDRjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg"
+},
+{
+    "Name": "Sherlock Jr.",
+    "Date": "1924",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BZWFhOGU5NDctY2Q3YS00Y2VlLWI1NzEtZmIwY2ZiZjY4OTA2XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "A film projectionist longs to be a detective, and puts his meagre skills to work when he is framed by a rival for stealing his girlfriend's father's pocketwatch.",
+    "Director": "Buster Keaton",
+    "Writers": [
+        "Jean C. Havez",
+        "Joseph A. Mitchell",
+        "Clyde Bruckman"
+    ],
+    "Stars": [
+        "Buster Keaton",
+        "Kathryn McGuire",
+        "Joe Keaton"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BZWFhOGU5NDctY2Q3YS00Y2VlLWI1NzEtZmIwY2ZiZjY4OTA2XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg"
+},
+{
+    "Name": "Barry Lyndon",
+    "Date": "1975",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNmY0MWY2NDctZDdmMi00MjA1LTk0ZTQtZDMyZTQ1NTNlYzVjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "An Irish rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position in 18th-century England.",
+    "Director": "Stanley Kubrick",
+    "Writers": [
+        "Stanley Kubrick",
+        "William Makepeace Thackeray"
+    ],
+    "Stars": [
+        "Ryan O'Neal",
+        "Marisa Berenson",
+        "Patrick Magee"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNmY0MWY2NDctZDdmMi00MjA1LTk0ZTQtZDMyZTQ1NTNlYzVjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
+},
+{
+    "Name": "Room",
+    "Date": "2015",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "Held captive for 7 years in an enclosed space, a woman and her young son finally gain their freedom, allowing the boy to experience the outside world for the first time.",
+    "Director": "Lenny Abrahamson",
+    "Writers": [
+        "Emma Donoghue"
+    ],
+    "Stars": [
+        "Brie Larson",
+        "Jacob Tremblay",
+        "Sean Bridgers"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMmVkZDBkNWQtZGE0Mi00N2JlLWFmYTgtZTJhNDNkZjA2YWQ1XkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg"
+},
+{
+    "Name": "Salinui chueok",
+    "Date": "2003",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BOGViNTg4YTktYTQ2Ni00MTU0LTk2NWUtMTI4OTc1YTM0NzQ2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "In a small Korean province in 1986, two detectives struggle with the case of multiple young women being found raped and murdered by an unknown culprit.",
+    "Director": "Bong Joon Ho",
+    "Writers": [
+        "Bong Joon Ho",
+        "Kwang-rim Kim",
+        "Sung-bo Shim"
+    ],
+    "Stars": [
+        "Kang-ho Song",
+        "Kim Sang-kyung",
+        "Roe-ha Kim"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BOGViNTg4YTktYTQ2Ni00MTU0LTk2NWUtMTI4OTc1YTM0NzQ2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg"
+},
+{
+    "Name": "Hacksaw Ridge",
+    "Date": "2016",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "World War II American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first man in American history to receive the Medal of Honor without firing a shot.",
+    "Director": "Mel Gibson",
+    "Writers": [
+        "Robert Schenkkan",
+        "Andrew Knight"
+    ],
+    "Stars": [
+        "Andrew Garfield",
+        "Sam Worthington",
+        "Luke Bracey"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_.jpg"
+},
+{
+    "Name": "Klaus",
+    "Date": "2019",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMWYwOThjM2ItZGYxNy00NTQwLWFlZWEtM2MzM2Q5MmY3NDU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "A simple act of kindness always sparks another, even in a frozen, faraway place. When Smeerensburg's new postman, Jesper, befriends toymaker Klaus, their gifts melt an age-old feud and deliver a sleigh full of holiday traditions.",
+    "Director": "Carlos Mart\u00ednez L\u00f3pez",
+    "Writers": [
+        "Sergio Pablos",
+        "Jim Mahoney",
+        "Zach Lewis"
+    ],
+    "Stars": [
+        "Jason Schwartzman",
+        "J.K. Simmons",
+        "Rashida Jones"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BM2Q2Njg3ZmQtMDlmZi00NzE5LWJlOWYtY2I5NzhiZDdmNTk3XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg"
+},
+{
+    "Name": "Relatos salvajes",
+    "Date": "2014",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNGQzY2Y0MTgtMDA4OC00NjM3LWI0ZGQtNTJlM2UxZDQxZjI0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "Six short stories that explore the extremities of human behavior involving people in distress.",
+    "Director": "Dami\u00e1n Szifron",
+    "Writers": [
+        "Germ\u00e1n Servidio",
+        "Dami\u00e1n Szifron"
+    ],
+    "Stars": [
+        "Dar\u00edo Grandinetti",
+        "Mar\u00eda Marull",
+        "M\u00f3nica Villa"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMGQwMDM3ZTktNjkyNC00OTI5LTg1NDItYjZkZTY0OGFhODdhXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg"
+},
+{
+    "Name": "The Big Lebowski",
+    "Date": "1998",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMTQ0NjUzMDMyOF5BMl5BanBnXkFtZTgwODA1OTU0MDE@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "Ultimate L.A. slacker Jeff \"The Dude\" Lebowski, mistaken for a millionaire of the same name, seeks restitution for a rug ruined by debt collectors, enlisting his bowling buddies for help while trying to find the millionaire's missing wife.",
+    "Director": "Ethan Coen",
+    "Writers": [
+        "Ethan Coen",
+        "Joel Coen"
+    ],
+    "Stars": [
+        "Jeff Bridges",
+        "John Goodman",
+        "Julianne Moore"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BOWQ0YTBmNzItNzVmOC00NGNiLThiMzItYTI3NWZkZmQ3MjNkXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg"
+},
+{
+    "Name": "How to Train Your Dragon",
+    "Date": "2010",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.",
+    "Director": "Chris Sanders",
+    "Writers": [
+        "William Davies",
+        "Dean DeBlois",
+        "Chris Sanders"
+    ],
+    "Stars": [
+        "Jay Baruchel",
+        "Gerard Butler",
+        "Christopher Mintz-Plasse"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_.jpg"
+},
+{
+    "Name": "Mad Max: Fury Road",
+    "Date": "2015",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshiper, and a drifter named Max.",
+    "Director": "George Miller",
+    "Writers": [
+        "George Miller",
+        "Brendan McCarthy",
+        "Nick Lathouris"
+    ],
+    "Stars": [
+        "Tom Hardy",
+        "Charlize Theron",
+        "Nicholas Hoult"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+},
+{
+    "Name": "Mary and Max.",
+    "Date": "2009",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMDgzYjQwMDMtNGUzYi00MTRmLWIyMGMtNjE1OGZkNzY2YWIzL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.",
+    "Director": "Adam Elliot",
+    "Writers": [
+        "Adam Elliot"
+    ],
+    "Stars": [
+        "Toni Collette",
+        "Philip Seymour Hoffman",
+        "Eric Bana"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMDgzYjQwMDMtNGUzYi00MTRmLWIyMGMtNjE1OGZkNzY2YWIzL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+},
+{
+    "Name": "Monsters, Inc.",
+    "Date": "2001",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, two monsters realize things may not be what they think.",
+    "Director": "Lee Unkrich",
+    "Writers": [
+        "Pete Docter",
+        "Jill Culton",
+        "Jeff Pidgeon"
+    ],
+    "Stars": [
+        "Billy Crystal",
+        "John Goodman",
+        "Mary Gibbs"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BZTA4M2FhMzctYWY1Yy00YmNkLTlhMGEtODY4NTg0NjgyMDAwXkEyXkFqcGdeQXVyOTgxMDMxNTc@._V1_.jpg"
+},
+{
+    "Name": "Jaws",
+    "Date": "1975",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "When a killer shark unleashes chaos on a beach community off Long Island, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.",
+    "Director": "Steven Spielberg",
+    "Writers": [
+        "Peter Benchley",
+        "Carl Gottlieb"
+    ],
+    "Stars": [
+        "Roy Scheider",
+        "Robert Shaw",
+        "Richard Dreyfuss"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg"
+},
+{
+    "Name": "La passion de Jeanne d'Arc",
+    "Date": "1928",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNjBjNDJiYTUtOWY0OS00OGVmLTg2YzctMTE0NzVhODM1ZWJmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "In 1431, Jeanne d'Arc is placed on trial on charges of heresy. The ecclesiastical jurists attempt to force Jeanne to recant her claims of holy visions.",
+    "Director": "Carl Theodor Dreyer",
+    "Writers": [
+        "Joseph Delteil",
+        "Carl Theodor Dreyer"
+    ],
+    "Stars": [
+        "Maria Falconetti",
+        "Eugene Silvain",
+        "Andr\u00e9 Berley"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNjBjNDJiYTUtOWY0OS00OGVmLTg2YzctMTE0NzVhODM1ZWJmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+},
+{
+    "Name": "Pather Panchali",
+    "Date": "1955",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMmFkNDY5OTktNzY3Yy00OTFlLThhNjktOTRhMmZjZmIxYjAxXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "Impoverished priest Harihar Ray, dreaming of a better life for himself and his family, leaves his rural Bengal village in search of work.",
+    "Director": "Satyajit Ray",
+    "Writers": [
+        "Bibhutibhushan Bandyopadhyay",
+        "Satyajit Ray"
+    ],
+    "Stars": [
+        "Kanu Bannerjee",
+        "Karuna Bannerjee",
+        "Subir Banerjee"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMmFkNDY5OTktNzY3Yy00OTFlLThhNjktOTRhMmZjZmIxYjAxXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg"
+},
+{
+    "Name": "Hotel Rwanda",
+    "Date": "2004",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BZGJjYmIzZmQtNWE4Yy00ZGVmLWJkZGEtMzUzNmQ4ZWFlMjRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "Paul Rusesabagina, a hotel manager, houses over a thousand Tutsi refugees during their struggle against the Hutu militia in Rwanda, Africa.",
+    "Director": "Terry George",
+    "Writers": [
+        "Keir Pearson",
+        "Terry George"
+    ],
+    "Stars": [
+        "Don Cheadle",
+        "Sophie Okonedo",
+        "Joaquin Phoenix"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BZGJjYmIzZmQtNWE4Yy00ZGVmLWJkZGEtMzUzNmQ4ZWFlMjRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+},
+{
+    "Name": "T\u00f4ky\u00f4 monogatari",
+    "Date": "1953",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BYWQ4ZTRiODktNjAzZC00Nzg1LTk1YWQtNDFmNDI0NmZiNGIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "An old couple visit their children and grandchildren in the city, but receive little attention.",
+    "Director": "Yasujir\u00f4 Ozu",
+    "Writers": [
+        "K\u00f4go Noda",
+        "Yasujir\u00f4 Ozu"
+    ],
+    "Stars": [
+        "Chish\u00fb Ry\u00fb",
+        "Chieko Higashiyama",
+        "S\u00f4 Yamamura"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BYWQ4ZTRiODktNjAzZC00Nzg1LTk1YWQtNDFmNDI0NmZiNGIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+},
+{
+    "Name": "Dead Poets Society",
+    "Date": "1989",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BOGYwYWNjMzgtNGU4ZC00NWQ2LWEwZjUtMzE1Zjc3NjY3YTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.1",
+    "Description": "Maverick teacher John Keating uses poetry to embolden his boarding school students to new heights of self-expression.",
+    "Director": "Peter Weir",
+    "Writers": [
+        "Tom Schulman"
+    ],
+    "Stars": [
+        "Robin Williams",
+        "Robert Sean Leonard",
+        "Ethan Hawke"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BYWU0ZDgyYjQtZDI0OS00NTI0LTlmYjMtYzZlZTg4MGNiMjdjXkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg"
+},
+{
+    "Name": "Platoon",
+    "Date": "1986",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMzRjZjdlMjQtODVkYS00N2YzLWJlYWYtMGVlN2E5MWEwMWQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "Chris Taylor, a neophyte recruit in Vietnam, finds himself caught in a battle of wills between two sergeants, one good and the other evil. A shrewd examination of the brutality of war and the duality of man in conflict.",
+    "Director": "Oliver Stone",
+    "Writers": [
+        "Oliver Stone"
+    ],
+    "Stars": [
+        "Charlie Sheen",
+        "Tom Berenger",
+        "Willem Dafoe"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMzRjZjdlMjQtODVkYS00N2YzLWJlYWYtMGVlN2E5MWEwMWQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+},
+{
+    "Name": "Rocky",
+    "Date": "1976",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNTBkMjg2MjYtYTZjOS00ODQ0LTg0MDEtM2FiNmJmOGU1NGEwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "A small-time Philadelphia boxer gets a supremely rare chance to fight the world heavyweight champion in a bout in which he strives to go the distance for his self-respect.",
+    "Director": "John G. Avildsen",
+    "Writers": [
+        "Sylvester Stallone"
+    ],
+    "Stars": [
+        "Sylvester Stallone",
+        "Talia Shire",
+        "Burt Young"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMjVkMDc1MzgtNGNlNS00NzI2LThlMGEtZGI0MjdiNjE3NTAxXkEyXkFqcGdeQXVyMjMyMzI4MzY@._V1_.jpg"
+},
+{
+    "Name": "Ford v Ferrari",
+    "Date": "2019",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BM2UwMDVmMDItM2I2Yi00NGZmLTk4ZTUtY2JjNTQ3OGQ5ZjM2XkEyXkFqcGdeQXVyMTA1OTYzOTUx._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966.",
+    "Director": "James Mangold",
+    "Writers": [
+        "Jez Butterworth",
+        "John-Henry Butterworth",
+        "Jason Keller"
+    ],
+    "Stars": [
+        "Matt Damon",
+        "Christian Bale",
+        "Jon Bernthal"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BZjM5M2MyMGEtODZiMi00MGVkLWI4ZjEtNWUwMzZmZTJhZDlkXkEyXkFqcGdeQXVyODMwNjE2OTM@._V1_.jpg"
+},
+{
+    "Name": "Stand by Me",
+    "Date": "1986",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BODJmY2Y2OGQtMDg2My00N2Q3LWJmZTUtYTc2ODBjZDVlNDlhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "After the death of one of his friends, a writer recounts a childhood journey with his friends to find the body of a missing boy.",
+    "Director": "Rob Reiner",
+    "Writers": [
+        "Stephen King",
+        "Raynold Gideon",
+        "Bruce A. Evans"
+    ],
+    "Stars": [
+        "Wil Wheaton",
+        "River Phoenix",
+        "Corey Feldman"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BODJmY2Y2OGQtMDg2My00N2Q3LWJmZTUtYTc2ODBjZDVlNDlhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+},
+{
+    "Name": "The Terminator",
+    "Date": "1984",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.",
+    "Director": "James Cameron",
+    "Writers": [
+        "James Cameron",
+        "Gale Anne Hurd",
+        "William Wisher"
+    ],
+    "Stars": [
+        "Arnold Schwarzenegger",
+        "Linda Hamilton",
+        "Michael Biehn"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+},
+{
+    "Name": "Rush",
+    "Date": "2013",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BOWEwODJmZDItYTNmZC00OGM4LThlNDktOTQzZjIzMGQxODA4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.",
+    "Director": "Ron Howard",
+    "Writers": [
+        "Peter Morgan"
+    ],
+    "Stars": [
+        "Daniel Br\u00fchl",
+        "Chris Hemsworth",
+        "Olivia Wilde"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BOWEwODJmZDItYTNmZC00OGM4LThlNDktOTQzZjIzMGQxODA4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+},
+{
+    "Name": "Spotlight",
+    "Date": "2015",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+    "Director": "Tom McCarthy",
+    "Writers": [
+        "Josh Singer",
+        "Tom McCarthy"
+    ],
+    "Stars": [
+        "Mark Ruffalo",
+        "Michael Keaton",
+        "Rachel McAdams"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_.jpg"
+},
+{
+    "Name": "Into the Wild",
+    "Date": "2007",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMTAwNDEyODU1MjheQTJeQWpwZ15BbWU2MDc3NDQwNw@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness. Along the way, Christopher encounters a series of characters that shape his life.",
+    "Director": "Sean Penn",
+    "Writers": [
+        "Sean Penn",
+        "Jon Krakauer"
+    ],
+    "Stars": [
+        "Emile Hirsch",
+        "Vince Vaughn",
+        "Catherine Keener"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMTAwNDEyODU1MjheQTJeQWpwZ15BbWU2MDc3NDQwNw@@._V1_.jpg"
+},
+{
+    "Name": "Network",
+    "Date": "1976",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BZGNjYjM2MzItZGQzZi00NmY3LTgxOGUtMTQ2MWQxNWQ2MmMwXkEyXkFqcGdeQXVyNzM0MTUwNTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "A television network cynically exploits a deranged former anchor's ravings and revelations about the news media for its own profit, but finds that his message may be difficult to control.",
+    "Director": "Sidney Lumet",
+    "Writers": [
+        "Paddy Chayefsky"
+    ],
+    "Stars": [
+        "Faye Dunaway",
+        "William Holden",
+        "Peter Finch"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BZGNjYjM2MzItZGQzZi00NmY3LTgxOGUtMTQ2MWQxNWQ2MmMwXkEyXkFqcGdeQXVyNzM0MTUwNTY@._V1_.jpg"
+},
+{
+    "Name": "The Wizard of Oz",
+    "Date": "1939",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNjUyMTc4MDExMV5BMl5BanBnXkFtZTgwNDg0NDIwMjE@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "Young Dorothy Gale and her dog are swept away by a tornado from their Kansas farm to the magical Land of Oz, and embark on a quest with three new friends to see the Wizard, who can return her to her home and fulfill the others' wishes.",
+    "Director": "Mervyn LeRoy",
+    "Writers": [
+        "Noel Langley",
+        "Florence Ryerson",
+        "Edgar Allan Woolf"
+    ],
+    "Stars": [
+        "Judy Garland",
+        "Frank Morgan",
+        "Ray Bolger"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNjUyMTc4MDExMV5BMl5BanBnXkFtZTgwNDg0NDIwMjE@._V1_.jpg"
+},
+{
+    "Name": "Logan",
+    "Date": "2017",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety.",
+    "Director": "James Mangold",
+    "Writers": [
+        "James Mangold",
+        "Scott Frank",
+        "Michael Green"
+    ],
+    "Stars": [
+        "Hugh Jackman",
+        "Patrick Stewart",
+        "Dafne Keen"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg"
+},
+{
+    "Name": "Groundhog Day",
+    "Date": "1993",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BZWIxNzM5YzQtY2FmMS00Yjc3LWI1ZjUtNGVjMjMzZTIxZTIxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "A self-centered Pittsburgh weatherman finds himself inexplicably trapped in a small town as he lives the same day over and over again.",
+    "Director": "Harold Ramis",
+    "Writers": [
+        "Danny Rubin",
+        "Harold Ramis"
+    ],
+    "Stars": [
+        "Bill Murray",
+        "Andie MacDowell",
+        "Chris Elliott"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BZWIxNzM5YzQtY2FmMS00Yjc3LWI1ZjUtNGVjMjMzZTIxZTIxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+},
+{
+    "Name": "Ratatouille",
+    "Date": "2007",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous Paris restaurant.",
+    "Director": "Jan Pinkava",
+    "Writers": [
+        "Brad Bird",
+        "Jan Pinkava",
+        "Jim Capobianco"
+    ],
+    "Stars": [
+        "Brad Garrett",
+        "Lou Romano",
+        "Patton Oswalt"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_.jpg"
+},
+{
+    "Name": "The Exorcist",
+    "Date": "1973",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BYWFlZGY2NDktY2ZjOS00ZWNkLTg0ZDAtZDY4MTM1ODU4ZjljXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "When a 12-year-old girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her.",
+    "Director": "William Friedkin",
+    "Writers": [
+        "William Peter Blatty"
+    ],
+    "Stars": [
+        "Ellen Burstyn",
+        "Max von Sydow",
+        "Linda Blair"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNmQxNjdjNDctNDA5OS00NDg5LWEzNTgtNzYyYTMyMzAxYzczXkEyXkFqcGdeQXVyODA0MDg5NTg@._V1_.jpg"
+},
+{
+    "Name": "Before Sunset",
+    "Date": "2004",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "Nine years after Jesse and Celine first met, they encounter each other again on the French leg of Jesse's book tour.",
+    "Director": "Richard Linklater",
+    "Writers": [
+        "Richard Linklater",
+        "Julie Delpy",
+        "Ethan Hawke"
+    ],
+    "Stars": [
+        "Ethan Hawke",
+        "Julie Delpy",
+        "Vernon Dobtcheff"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3._V1_.jpg"
+},
+{
+    "Name": "The Best Years of Our Lives",
+    "Date": "1946",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BY2RmNTRjYzctODI4Ni00MzQyLWEyNTAtNjU0N2JkMTNhNjJkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "Three World War II veterans, two of them traumatized or disabled, return home to the American midwest to discover that they and their families have been irreparably changed.",
+    "Director": "William Wyler",
+    "Writers": [
+        "Robert E. Sherwood",
+        "MacKinlay Kantor"
+    ],
+    "Stars": [
+        "Myrna Loy",
+        "Dana Andrews",
+        "Fredric March"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BY2RmNTRjYzctODI4Ni00MzQyLWEyNTAtNjU0N2JkMTNhNjJkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+},
+{
+    "Name": "The Incredibles",
+    "Date": "2004",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "While trying to lead a quiet suburban life, a family of undercover superheroes are forced into action to save the world.",
+    "Director": "Brad Bird",
+    "Writers": [
+        "Brad Bird"
+    ],
+    "Stars": [
+        "Craig T. Nelson",
+        "Samuel L. Jackson",
+        "Holly Hunter"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BZjgzNzdiZTQtODVhYi00ZTk4LTk2ZmEtYzFiYzdhYzliN2E3XkEyXkFqcGdeQXVyOTgxMDMxNTc@._V1_.jpg"
+},
+{
+    "Name": "To Be or Not to Be",
+    "Date": "1942",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BYTIwNDcyMjktMTczMy00NDM5LTlhNDEtMmE3NGVjOTM2YjQ3XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's efforts to track down a German spy.",
+    "Director": "Ernst Lubitsch",
+    "Writers": [
+        "Melchior Lengyel",
+        "Edwin Justus Mayer",
+        "Ernst Lubitsch"
+    ],
+    "Stars": [
+        "Carole Lombard",
+        "Jack Benny",
+        "Robert Stack"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BYTIwNDcyMjktMTczMy00NDM5LTlhNDEtMmE3NGVjOTM2YjQ3XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_.jpg"
+},
+{
+    "Name": "La battaglia di Algeri",
+    "Date": "1966",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BN2M4YTA4ZTEtN2EyNy00YTlmLWE4YzYtYjYyYjRkMWM4ZDM0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "In the 1950s, fear and violence escalate as the people of Algiers fight for independence from the French government.",
+    "Director": "Gillo Pontecorvo",
+    "Writers": [
+        "Franco Solinas",
+        "Gillo Pontecorvo"
+    ],
+    "Stars": [
+        "Brahim Hadjadj",
+        "Jean Martin",
+        "Yacef Saadi"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BN2M4YTA4ZTEtN2EyNy00YTlmLWE4YzYtYjYyYjRkMWM4ZDM0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
+},
+{
+    "Name": "Rebecca",
+    "Date": "1940",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BYTcxYWExOTMtMWFmYy00ZjgzLWI0YjktNWEzYzJkZTg0NDdmL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "A self-conscious woman juggles adjusting to her new role as an aristocrat's wife and avoiding being intimidated by his first wife's spectral presence.",
+    "Director": "Alfred Hitchcock",
+    "Writers": [
+        "Daphne Du Maurier",
+        "Robert E. Sherwood",
+        "Joan Harrison"
+    ],
+    "Stars": [
+        "Laurence Olivier",
+        "Joan Fontaine",
+        "George Sanders"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BYTcxYWExOTMtMWFmYy00ZjgzLWI0YjktNWEzYzJkZTg0NDdmL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg"
+},
+{
+    "Name": "The Grapes of Wrath",
+    "Date": "1940",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNzJiOGI2MjctYjUyMS00ZjkzLWE2ZmUtOTg4NTZkOTNhZDc1L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "An Oklahoma family driven off their farm by the poverty and hopelessness of the Dust Bowl joins the westward migration to California, suffering the misfortunes of the homeless in the Great Depression.",
+    "Director": "John Ford",
+    "Writers": [
+        "Nunnally Johnson",
+        "John Steinbeck"
+    ],
+    "Stars": [
+        "Henry Fonda",
+        "Jane Darwell",
+        "John Carradine"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNzJiOGI2MjctYjUyMS00ZjkzLWE2ZmUtOTg4NTZkOTNhZDc1L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg"
+},
+{
+    "Name": "Hachi: A Dog's Tale",
+    "Date": "2009",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNzE4NDg5OWMtMzg3NC00ZDRjLTllMDMtZTRjNWZmNjBmMGZlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "A college professor bonds with an abandoned dog he takes into his home.",
+    "Director": "Lasse Hallstr\u00f6m",
+    "Writers": [
+        "Stephen P. Lindsey",
+        "Kaneto Shind\u00f4"
+    ],
+    "Stars": [
+        "Richard Gere",
+        "Joan Allen",
+        "Cary-Hiroyuki Tagawa"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNzE4NDg5OWMtMzg3NC00ZDRjLTllMDMtZTRjNWZmNjBmMGZlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+},
+{
+    "Name": "Cool Hand Luke",
+    "Date": "1967",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNjcwNTQ3Y2EtMjdmZi00ODBhLWFhNzQtOTc3MWU5NTZlMDViXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "A laid back Southern man is sentenced to two years in a rural prison, but refuses to conform.",
+    "Director": "Stuart Rosenberg",
+    "Writers": [
+        "Donn Pearce",
+        "Frank Pierson",
+        "Hal Dresner"
+    ],
+    "Stars": [
+        "Paul Newman",
+        "George Kennedy",
+        "Strother Martin"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNjcwNTQ3Y2EtMjdmZi00ODBhLWFhNzQtOTc3MWU5NTZlMDViXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
+},
+{
+    "Name": "Amores perros",
+    "Date": "2000",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BZjUxNmEwOGItMTBmYi00MWQ1LWExY2MtNDUxMjI0OWM4M2NiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "A horrific car accident connects three stories, each involving characters dealing with loss, regret, and life's harsh realities, all in the name of love.",
+    "Director": "Alejandro G. I\u00f1\u00e1rritu",
+    "Writers": [
+        "Guillermo Arriaga"
+    ],
+    "Stars": [
+        "Emilio Echevarr\u00eda",
+        "Gael Garc\u00eda Bernal",
+        "Goya Toledo"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BZjUxNmEwOGItMTBmYi00MWQ1LWExY2MtNDUxMjI0OWM4M2NiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
+},
+{
+    "Name": "Dersu Uzala",
+    "Date": "1975",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BYWY0OWJlZTgtMWUzNy00MGJhLTk5YzQtNmY5MDEwOTIxNjMyXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "The Russian army sends an explorer on an expedition to the snowy Siberian wilderness where he makes friends with a seasoned local hunter.",
+    "Director": "Akira Kurosawa",
+    "Writers": [
+        "Akira Kurosawa",
+        "Yuriy Nagibin",
+        "Vladimir Arsenev"
+    ],
+    "Stars": [
+        "Maksim Munzuk",
+        "Yuriy Solomin",
+        "Mikhail Bychkov"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BYWY0OWJlZTgtMWUzNy00MGJhLTk5YzQtNmY5MDEwOTIxNjMyXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg"
+},
+{
+    "Name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "Date": "2003",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "Blacksmith Will Turner teams up with eccentric pirate \"Captain\" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.",
+    "Director": "Gore Verbinski",
+    "Writers": [
+        "Ted Elliott",
+        "Terry Rossio",
+        "Stuart Beattie"
+    ],
+    "Stars": [
+        "Johnny Depp",
+        "Geoffrey Rush",
+        "Orlando Bloom"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+},
+{
+    "Name": "Les quatre cents coups",
+    "Date": "1959",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BYTQ4MjA4NmYtYjRhNi00MTEwLTg0NjgtNjk3ODJlZGU4NjRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR2,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "A young boy, left without attention, delves into a life of petty crime.",
+    "Director": "Fran\u00e7ois Truffaut",
+    "Writers": [
+        "Fran\u00e7ois Truffaut",
+        "Marcel Moussy"
+    ],
+    "Stars": [
+        "Jean-Pierre L\u00e9aud",
+        "Albert R\u00e9my",
+        "Claire Maurier"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BYTQ4MjA4NmYtYjRhNi00MTEwLTg0NjgtNjk3ODJlZGU4NjRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+},
+{
+    "Name": "Persona",
+    "Date": "1966",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNjdhMGYyNTYtNTg5OC00MzY0LWE4YjctZWI3NDRkMzIyODBiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "A nurse is put in charge of a mute actress and finds that their personae are melding together.",
+    "Director": "Ingmar Bergman",
+    "Writers": [
+        "Ingmar Bergman"
+    ],
+    "Stars": [
+        "Bibi Andersson",
+        "Liv Ullmann",
+        "Margaretha Krook"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNjdhMGYyNTYtNTg5OC00MzY0LWE4YjctZWI3NDRkMzIyODBiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
+},
+{
+    "Name": "La haine",
+    "Date": "1995",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMjUzMjI2NGMtNmNhMy00YWZmLThhMjItNzZiYjJmOWFmZWEzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "24 hours in the lives of three young men in the French suburbs the day after a violent riot.",
+    "Director": "Mathieu Kassovitz",
+    "Writers": [
+        "Mathieu Kassovitz"
+    ],
+    "Stars": [
+        "Vincent Cassel",
+        "Hubert Kound\u00e9",
+        "Sa\u00efd Taghmaoui"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMjlhYTVlNWYtODY5Zi00NTk3LTlmZTEtZmE4OGRjOGViNzMyXkEyXkFqcGdeQXVyMTUyOTY1ODMw._V1_.jpg"
+},
+{
+    "Name": "Life of Brian",
+    "Date": "1979",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMDA1ZWI4ZDItOTRlYi00OTUxLWFlNWQtMzM5NDI0YjA4ZGI2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "Born on the original Christmas in the stable next door to Jesus Christ, Brian of Nazareth spends his life being mistaken for a messiah.",
+    "Director": "Terry Jones",
+    "Writers": [
+        "Graham Chapman",
+        "John Cleese",
+        "Terry Gilliam"
+    ],
+    "Stars": [
+        "Graham Chapman",
+        "John Cleese",
+        "Michael Palin"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMDA1ZWI4ZDItOTRlYi00OTUxLWFlNWQtMzM5NDI0YjA4ZGI2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg"
+},
+{
+    "Name": "The Sound of Music",
+    "Date": "1965",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BODIxNjhkYjEtYzUyMi00YTNjLWE1YjktNjAyY2I2MWNkNmNmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "A young novitiate is sent by her convent in 1930s Austria to become a governess to the seven children of a widowed naval officer.",
+    "Director": "Robert Wise",
+    "Writers": [
+        "Georg Hurdalek",
+        "Howard Lindsay",
+        "Russel Crouse"
+    ],
+    "Stars": [
+        "Julie Andrews",
+        "Christopher Plummer",
+        "Eleanor Parker"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BODIxNjhkYjEtYzUyMi00YTNjLWE1YjktNjAyY2I2MWNkNmNmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+},
+{
+    "Name": "It Happened One Night",
+    "Date": "1934",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BYzJmMWE5NjAtNWMyZS00NmFiLWIwMDgtZDE2NzczYWFhNzIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "A renegade reporter trailing a young runaway heiress for a big story joins her on a bus heading from Florida to New York, and they end up stuck with each other when the bus leaves them behind at one of the stops.",
+    "Director": "Frank Capra",
+    "Writers": [
+        "Robert Riskin",
+        "Samuel Hopkins Adams"
+    ],
+    "Stars": [
+        "Clark Gable",
+        "Claudette Colbert",
+        "Walter Connolly"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BYzJmMWE5NjAtNWMyZS00NmFiLWIwMDgtZDE2NzczYWFhNzIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg"
+},
+{
+    "Name": "Ah-ga-ssi",
+    "Date": "2016",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BNDJhYTk2MTctZmVmOS00OTViLTgxNjQtMzQxOTRiMDdmNGRjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR1,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "A woman is hired as a handmaiden to a Japanese heiress, but secretly she is involved in a plot to defraud her.",
+    "Director": "Park Chan-wook",
+    "Writers": [
+        "Sarah Waters",
+        "Seo-kyeong Jeong",
+        "Park Chan-wook"
+    ],
+    "Stars": [
+        "Kim Min-hee",
+        "Ha Jung-woo",
+        "Cho Jin-woong"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BNDJhYTk2MTctZmVmOS00OTViLTgxNjQtMzQxOTRiMDdmNGRjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+},
+{
+    "Name": "Aladdin",
+    "Date": "1992",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BY2Q2NDI1MjUtM2Q5ZS00MTFlLWJiYWEtNTZmNjQ3OGJkZDgxXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.",
+    "Director": "John Musker",
+    "Writers": [
+        "Ron Clements",
+        "John Musker",
+        "Ted Elliott"
+    ],
+    "Stars": [
+        "Scott Weinger",
+        "Robin Williams",
+        "Linda Larkin"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BY2Q2NDI1MjUtM2Q5ZS00MTFlLWJiYWEtNTZmNjQ3OGJkZDgxXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_.jpg"
+},
+{
+    "Name": "Gandhi",
+    "Date": "1982",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMzJiZDRmOWUtYjE2MS00Mjc1LTg1ZDYtNTQxYWJkZTg1OTM4XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "The life of the lawyer who became the famed leader of the Indian revolts against the British rule through his philosophy of nonviolent protest.",
+    "Director": "Richard Attenborough",
+    "Writers": [
+        "John Briley"
+    ],
+    "Stars": [
+        "Ben Kingsley",
+        "John Gielgud",
+        "Rohini Hattangadi"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMzJiZDRmOWUtYjE2MS00Mjc1LTg1ZDYtNTQxYWJkZTg1OTM4XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg"
+},
+{
+    "Name": "The Help",
+    "Date": "2011",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids' point of view on the white families for which they work, and the hardships they go through on a daily basis.",
+    "Director": "Tate Taylor",
+    "Writers": [
+        "Tate Taylor",
+        "Kathryn Stockett"
+    ],
+    "Stars": [
+        "Emma Stone",
+        "Viola Davis",
+        "Octavia Spencer"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1_.jpg"
+},
+{
+    "Name": "Beauty and the Beast",
+    "Date": "1991",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMzE5MDM1NDktY2I0OC00YWI5LTk2NzUtYjczNDczOWQxYjM0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "A prince cursed to spend his days as a hideous monster sets out to regain his humanity by earning a young woman's love.",
+    "Director": "Kirk Wise",
+    "Writers": [
+        "Linda Woolverton",
+        "Brenda Chapman",
+        "Chris Sanders"
+    ],
+    "Stars": [
+        "Paige O'Hara",
+        "Robby Benson",
+        "Jesse Corti"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMzE5MDM1NDktY2I0OC00YWI5LTk2NzUtYjczNDczOWQxYjM0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+},
+{
+    "Name": "Dances with Wolves",
+    "Date": "1990",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMTY3OTI5NDczN15BMl5BanBnXkFtZTcwNDA0NDY3Mw@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "Lieutenant John Dunbar, assigned to a remote western Civil War outpost, befriends wolves and Native Americans, making him an intolerable aberration in the military.",
+    "Director": "Kevin Costner",
+    "Writers": [
+        "Michael Blake"
+    ],
+    "Stars": [
+        "Kevin Costner",
+        "Mary McDonnell",
+        "Graham Greene"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMTY3OTI5NDczN15BMl5BanBnXkFtZTcwNDA0NDY3Mw@@._V1_.jpg"
+},
+{
+    "Name": "Jai Bhim",
+    "Date": "2021",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMGEzN2VkMmUtMGM1Zi00Y2U1LTlkMDktMTlhMTdmYzZmZDlhXkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_UX45_CR0,0,45,67_AL_.jpg",
+    "Rating": "8.0",
+    "Description": "When a tribal man is arrested for a case of alleged theft, his wife turns to a human-rights lawyer to help bring justice.",
+    "Director": "T.J. Gnanavel",
+    "Writers": [
+        "T.J. Gnanavel",
+        "Rajendra Sapre"
+    ],
+    "Stars": [
+        "Suriya",
+        "Lijo Mol Jose",
+        "Manikandan K."
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BN2QzNDhkN2YtYzRjNy00YjQyLWFmNzktNzljMmRiMDA1Y2IwXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_.jpg"
+}
+]
