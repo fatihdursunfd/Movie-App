@@ -1,9 +1,0 @@
-Movie Name
-Date
-Image-sm
-Rating
-Description
-Director
-Writers
-Stars
-Image-lg

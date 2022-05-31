@@ -97,23 +97,40 @@
 </div>
 
 
+<div class="txt-block" id="name-born-info">
+    <h4 class="inline">Born:</h4>
+    <time datetime="1959-1-28">
+        <a href="/search/name?birth_monthday=1-28&amp;refine=birth_monthday">January 28</a>, 
+        <a href="/search/name?birth_year=1959">1959</a>
+    </time>
+        in 
+        <a href="/search/name?birth_place=Montb%C3%A9liard,%20Doubs,%20France">Montbéliard, Doubs, France</a>
+</div>
+
+
+
 {
-    'Name': '      1.      The Shawshank Redemption(1994)', 
-    'Image-sm': 'https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg', 
-    'Rating': '9.2', 
-    'Description': 'Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.', 
-    'Director': 'Frank Darabont', 
-    'Writers': ['Stephen King', 'Frank Darabont'], 
-    'Stars': ['Tim Robbins', 'Morgan Freeman', 'Bob Gunton'], 
-    'Image-lg': 'https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg'
-},
-{
-    'Name': '      2.      The Godfather(1972)', 
-    'Image-sm': 'https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR1,0,45,67_AL_.jpg', 
-    'Rating': '9.2', 
-    'Description': 'The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.', 
-    'Director': 'Francis Ford Coppola', 
-    'Writers': ['Mario Puzo', 'Francis Ford Coppola'], 
-    'Stars': ['Marlon Brando', 'Al Pacino', 'James Caan'], 
-    'Image-lg': 'https://m.media-amazon.com/images/M/MV5BNjFiZjQ4ZTktMDllYS00M2UxLWJkY2MtOTk3NGZjZTg2MTlhXkEyXkFqcGdeQXVyOTU2NDAzNDE@._V1_.jpg'
+    "Name": "The Shawshank Redemption",
+    "Date": "1994",
+    "Image-sm": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+    "Rating": "9.2",
+    "Description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "Director": {
+        "Fullname": "Frank Darabont",
+        "BirthdayMonth": "January 28",
+        "BirthdayYear": "1959",
+        "BirthdayPlace": "Montb\u00e9liard, Doubs, France",
+        "ImageUrl": "https://m.media-amazon.com/images/M/MV5BNjk0MTkxNzQwOF5BMl5BanBnXkFtZTcwODM5OTMwNA@@._V1_UY317_CR20,0,214,317_AL_.jpg",
+        "Biography": "\n          Three-time Oscar nominee Frank Darabont was born in a refugee camp in 1959 in Montbeliard, France, the son of Hungarian parents who had fled Budapest during the failed 1956 Hungarian revolution. Brought to America as an infant, he settled with his family in Los Angeles and attended Hollywood High School. His first job in movies was as a production assistant on the 1981 low-budget film, Hell Night (1981), starring Linda Blair. He spent the next six years working in the art department as a set dresser and in set construction while struggling to establish himself as a writer. His first produced writing credit (shared) was on the 1987 film, A Nightmare on Elm Street 3: Dream Warriors (1987), directed by Chuck Russell. Darabont is one of only six filmmakers in history with the unique distinction of having his first two feature films receive nominations for the Best Picture Academy Award: 1994's The Shawshank Redemption (1994) (with a total of seven nominations) and 1999's The Green Mile (1999) (four nominations). Darabont himself collected Oscar nominations for Best Adapted Screenplay for each film (both based on works by Stephen King), as well as nominations for both films from the Director's Guild of America, and a nomination from the Writers Guild of America for The Shawshank Redemption (1994). He won the Humanitas Prize, the PEN Center USA West Award, and the Scriptor Award for his screenplay of \"The Shawshank Redemption\". For \"The Green Mile\", he won the Broadcast Film Critics prize for his screenplay adaptation, and two People's Choice Awards in the Best Dramatic Film and Best Picture categories. The Majestic (2001), starring Jim Carrey, was released in December 2001. He executive-produced the thriller, Collateral (2004), for DreamWorks, with Michael Mann directing and Tom Cruise starring. Future produced-by projects include \"Way of the Rat\" at DreamWorks with Chuck Russell adapting and directing the CrossGen comic book series and \"Back Roads\", a Tawni O'Dell novel, also at DreamWorks, with Todd Field attached to direct. Darabont and his production company, \"Darkwoods Productions\", have an overall deal with Paramount Pictures.\n"
+    },
+    "Writers": [
+        "Stephen King",
+        "Frank Darabont"
+    ],
+    "Stars": [
+        "Tim Robbins",
+        "Morgan Freeman",
+        "Bob Gunton"
+    ],
+    "Image-lg": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
 }
