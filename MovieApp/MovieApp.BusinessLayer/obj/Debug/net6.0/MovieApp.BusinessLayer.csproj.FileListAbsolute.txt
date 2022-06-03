@@ -1,0 +1,12 @@
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.BusinessLayer\bin\Debug\net6.0\MovieApp.BusinessLayer.deps.json
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.BusinessLayer\bin\Debug\net6.0\MovieApp.BusinessLayer.dll
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.BusinessLayer\bin\Debug\net6.0\MovieApp.BusinessLayer.pdb
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.BusinessLayer\obj\Debug\net6.0\MovieApp.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.BusinessLayer\obj\Debug\net6.0\MovieApp.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.BusinessLayer\obj\Debug\net6.0\MovieApp.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.BusinessLayer\obj\Debug\net6.0\MovieApp.BusinessLayer.AssemblyInfo.cs
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.BusinessLayer\obj\Debug\net6.0\MovieApp.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.BusinessLayer\obj\Debug\net6.0\MovieApp.BusinessLayer.dll
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.BusinessLayer\obj\Debug\net6.0\refint\MovieApp.BusinessLayer.dll
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.BusinessLayer\obj\Debug\net6.0\MovieApp.BusinessLayer.pdb
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.BusinessLayer\obj\Debug\net6.0\ref\MovieApp.BusinessLayer.dll
