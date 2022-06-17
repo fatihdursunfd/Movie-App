@@ -12,9 +12,9 @@
           "Microsoft.EntityFrameworkCore.Design": "6.0.5",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.5",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.5",
-          "MovieApp.BusinessLayer": "1.0.0",
-          "MovieApp.DataAccessLayer": "1.0.0",
+          "MovieApp.Data": "1.0.0",
           "MovieApp.EntityLayer": "1.0.0",
+          "MovieApp.Service": "1.0.0",
           "Newtonsoft.Json": "13.0.1",
           "Swashbuckle.AspNetCore": "6.2.3"
         },
@@ -494,24 +494,28 @@
           }
         }
       },
-      "MovieApp.BusinessLayer/1.0.0": {
-        "runtime": {
-          "MovieApp.BusinessLayer.dll": {}
-        }
-      },
-      "MovieApp.DataAccessLayer/1.0.0": {
+      "MovieApp.Data/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "6.0.5",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.5",
           "MovieApp.EntityLayer": "1.0.0"
         },
         "runtime": {
-          "MovieApp.DataAccessLayer.dll": {}
+          "MovieApp.Data.dll": {}
         }
       },
       "MovieApp.EntityLayer/1.0.0": {
         "runtime": {
           "MovieApp.EntityLayer.dll": {}
+        }
+      },
+      "MovieApp.Service/1.0.0": {
+        "dependencies": {
+          "MovieApp.Data": "1.0.0",
+          "MovieApp.EntityLayer": "1.0.0"
+        },
+        "runtime": {
+          "MovieApp.Service.dll": {}
         }
       }
     }
@@ -872,17 +876,17 @@
       "path": "system.windows.extensions/4.7.0",
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
     },
-    "MovieApp.BusinessLayer/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "MovieApp.DataAccessLayer/1.0.0": {
+    "MovieApp.Data/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
     "MovieApp.EntityLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MovieApp.Service/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

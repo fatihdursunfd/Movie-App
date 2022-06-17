@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieApp.API", "MovieApp.AP
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieApp.EntityLayer", "MovieApp.EntityLayer\MovieApp.EntityLayer.csproj", "{430344A8-E319-43A5-A384-FE03F40D7DB5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieApp.DataAccessLayer", "MovieApp.DataAccessLayer\MovieApp.DataAccessLayer.csproj", "{1401312A-D499-4E3A-89F9-1C7BC661B428}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieApp.Data", "MovieApp.DataAccessLayer\MovieApp.Data.csproj", "{1401312A-D499-4E3A-89F9-1C7BC661B428}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieApp.BusinessLayer", "MovieApp.BusinessLayer\MovieApp.BusinessLayer.csproj", "{484CD0FC-A563-412D-BB7F-0E80138BAF50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieApp.Service", "MovieApp.BusinessLayer\MovieApp.Service.csproj", "{484CD0FC-A563-412D-BB7F-0E80138BAF50}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

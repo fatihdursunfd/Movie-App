@@ -712,17 +712,7 @@
           }
         }
       },
-      "MovieApp.BusinessLayer/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/MovieApp.BusinessLayer.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MovieApp.BusinessLayer.dll": {}
-        }
-      },
-      "MovieApp.DataAccessLayer/1.0.0": {
+      "MovieApp.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -731,10 +721,10 @@
           "MovieApp.EntityLayer": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/MovieApp.DataAccessLayer.dll": {}
+          "bin/placeholder/MovieApp.Data.dll": {}
         },
         "runtime": {
-          "bin/placeholder/MovieApp.DataAccessLayer.dll": {}
+          "bin/placeholder/MovieApp.Data.dll": {}
         }
       },
       "MovieApp.EntityLayer/1.0.0": {
@@ -745,6 +735,20 @@
         },
         "runtime": {
           "bin/placeholder/MovieApp.EntityLayer.dll": {}
+        }
+      },
+      "MovieApp.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "MovieApp.Data": "1.0.0",
+          "MovieApp.EntityLayer": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MovieApp.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MovieApp.Service.dll": {}
         }
       }
     }
@@ -2118,20 +2122,20 @@
         "version.txt"
       ]
     },
-    "MovieApp.BusinessLayer/1.0.0": {
+    "MovieApp.Data/1.0.0": {
       "type": "project",
-      "path": "../MovieApp.BusinessLayer/MovieApp.BusinessLayer.csproj",
-      "msbuildProject": "../MovieApp.BusinessLayer/MovieApp.BusinessLayer.csproj"
-    },
-    "MovieApp.DataAccessLayer/1.0.0": {
-      "type": "project",
-      "path": "../MovieApp.DataAccessLayer/MovieApp.DataAccessLayer.csproj",
-      "msbuildProject": "../MovieApp.DataAccessLayer/MovieApp.DataAccessLayer.csproj"
+      "path": "../MovieApp.DataAccessLayer/MovieApp.Data.csproj",
+      "msbuildProject": "../MovieApp.DataAccessLayer/MovieApp.Data.csproj"
     },
     "MovieApp.EntityLayer/1.0.0": {
       "type": "project",
       "path": "../MovieApp.EntityLayer/MovieApp.EntityLayer.csproj",
       "msbuildProject": "../MovieApp.EntityLayer/MovieApp.EntityLayer.csproj"
+    },
+    "MovieApp.Service/1.0.0": {
+      "type": "project",
+      "path": "../MovieApp.BusinessLayer/MovieApp.Service.csproj",
+      "msbuildProject": "../MovieApp.BusinessLayer/MovieApp.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2140,9 +2144,9 @@
       "Microsoft.EntityFrameworkCore.Design >= 6.0.5",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.5",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.5",
-      "MovieApp.BusinessLayer >= 1.0.0",
-      "MovieApp.DataAccessLayer >= 1.0.0",
+      "MovieApp.Data >= 1.0.0",
       "MovieApp.EntityLayer >= 1.0.0",
+      "MovieApp.Service >= 1.0.0",
       "Newtonsoft.Json >= 13.0.1",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
@@ -2174,11 +2178,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.BusinessLayer\\MovieApp.BusinessLayer.csproj": {
-              "projectPath": "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.BusinessLayer\\MovieApp.BusinessLayer.csproj"
+            "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.BusinessLayer\\MovieApp.Service.csproj": {
+              "projectPath": "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.BusinessLayer\\MovieApp.Service.csproj"
             },
-            "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.DataAccessLayer\\MovieApp.DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.DataAccessLayer\\MovieApp.DataAccessLayer.csproj"
+            "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.DataAccessLayer\\MovieApp.Data.csproj": {
+              "projectPath": "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.DataAccessLayer\\MovieApp.Data.csproj"
             },
             "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.EntityLayer\\MovieApp.EntityLayer.csproj": {
               "projectPath": "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.EntityLayer\\MovieApp.EntityLayer.csproj"

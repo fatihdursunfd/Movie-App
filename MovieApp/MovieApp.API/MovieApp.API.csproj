@@ -22,8 +22,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MovieApp.BusinessLayer\MovieApp.BusinessLayer.csproj" />
-    <ProjectReference Include="..\MovieApp.DataAccessLayer\MovieApp.DataAccessLayer.csproj" />
+    <ProjectReference Include="..\MovieApp.BusinessLayer\MovieApp.Service.csproj" />
+    <ProjectReference Include="..\MovieApp.DataAccessLayer\MovieApp.Data.csproj" />
     <ProjectReference Include="..\MovieApp.EntityLayer\MovieApp.EntityLayer.csproj" />
   </ItemGroup>
 

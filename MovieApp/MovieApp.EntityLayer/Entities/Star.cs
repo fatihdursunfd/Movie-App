@@ -9,9 +9,7 @@ namespace MovieApp.EntityLayer.Entities
     public class Star
     {
         public int StarID { get; set; }
-
         public string Name { get; set; }
-
         public List<Movie> Movies { get; set; }
     }
 }

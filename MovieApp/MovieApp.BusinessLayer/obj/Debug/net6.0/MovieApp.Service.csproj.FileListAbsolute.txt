@@ -1,0 +1,17 @@
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.BusinessLayer\bin\Debug\net6.0\MovieApp.Service.deps.json
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.BusinessLayer\bin\Debug\net6.0\MovieApp.Service.dll
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.BusinessLayer\bin\Debug\net6.0\MovieApp.Service.pdb
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.BusinessLayer\bin\Debug\net6.0\MovieApp.Data.dll
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.BusinessLayer\bin\Debug\net6.0\MovieApp.EntityLayer.dll
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.BusinessLayer\bin\Debug\net6.0\MovieApp.Data.pdb
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.BusinessLayer\bin\Debug\net6.0\MovieApp.EntityLayer.pdb
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.BusinessLayer\obj\Debug\net6.0\MovieApp.Service.csproj.AssemblyReference.cache
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.BusinessLayer\obj\Debug\net6.0\MovieApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.BusinessLayer\obj\Debug\net6.0\MovieApp.Service.AssemblyInfoInputs.cache
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.BusinessLayer\obj\Debug\net6.0\MovieApp.Service.AssemblyInfo.cs
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.BusinessLayer\obj\Debug\net6.0\MovieApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.BusinessLayer\obj\Debug\net6.0\MovieApp.Service.csproj.CopyComplete
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.BusinessLayer\obj\Debug\net6.0\MovieApp.Service.dll
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.BusinessLayer\obj\Debug\net6.0\refint\MovieApp.Service.dll
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.BusinessLayer\obj\Debug\net6.0\MovieApp.Service.pdb
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.BusinessLayer\obj\Debug\net6.0\ref\MovieApp.Service.dll

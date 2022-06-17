@@ -125,8 +125,6 @@ namespace MovieApp.API.Controllers
 
             }
             return Ok();
-
-
         }
     }
 }

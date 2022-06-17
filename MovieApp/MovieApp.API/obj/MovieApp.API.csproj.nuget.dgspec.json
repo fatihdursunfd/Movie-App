@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.BusinessLayer\\MovieApp.BusinessLayer.csproj": {
-                "projectPath": "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.BusinessLayer\\MovieApp.BusinessLayer.csproj"
+              "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.BusinessLayer\\MovieApp.Service.csproj": {
+                "projectPath": "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.BusinessLayer\\MovieApp.Service.csproj"
               },
-              "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.DataAccessLayer\\MovieApp.DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.DataAccessLayer\\MovieApp.DataAccessLayer.csproj"
+              "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.DataAccessLayer\\MovieApp.Data.csproj": {
+                "projectPath": "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.DataAccessLayer\\MovieApp.Data.csproj"
               },
               "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.EntityLayer\\MovieApp.EntityLayer.csproj": {
                 "projectPath": "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.EntityLayer\\MovieApp.EntityLayer.csproj"
@@ -101,12 +101,12 @@
         }
       }
     },
-    "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.BusinessLayer\\MovieApp.BusinessLayer.csproj": {
+    "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.BusinessLayer\\MovieApp.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.BusinessLayer\\MovieApp.BusinessLayer.csproj",
-        "projectName": "MovieApp.BusinessLayer",
-        "projectPath": "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.BusinessLayer\\MovieApp.BusinessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.BusinessLayer\\MovieApp.Service.csproj",
+        "projectName": "MovieApp.Service",
+        "projectPath": "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.BusinessLayer\\MovieApp.Service.csproj",
         "packagesPath": "C:\\Users\\fatih\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
@@ -124,7 +124,14 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.DataAccessLayer\\MovieApp.Data.csproj": {
+                "projectPath": "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.DataAccessLayer\\MovieApp.Data.csproj"
+              },
+              "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.EntityLayer\\MovieApp.EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.EntityLayer\\MovieApp.EntityLayer.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -155,12 +162,12 @@
         }
       }
     },
-    "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.DataAccessLayer\\MovieApp.DataAccessLayer.csproj": {
+    "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.DataAccessLayer\\MovieApp.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.DataAccessLayer\\MovieApp.DataAccessLayer.csproj",
-        "projectName": "MovieApp.DataAccessLayer",
-        "projectPath": "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.DataAccessLayer\\MovieApp.DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.DataAccessLayer\\MovieApp.Data.csproj",
+        "projectName": "MovieApp.Data",
+        "projectPath": "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.DataAccessLayer\\MovieApp.Data.csproj",
         "packagesPath": "C:\\Users\\fatih\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",

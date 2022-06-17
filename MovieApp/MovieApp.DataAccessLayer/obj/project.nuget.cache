@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sbJfX4Ha7izeEdHT4r7JoPTy+rWV7KQXMAFuyfSE+Br++TR4qSYdmCUHyTJ7SHchzp7AoPz5ilYkG15BIVD3hw==",
+  "dgSpecHash": "kMAkTK/g7NsWUeuxZNxFcBifp1+XAtXfd9XQxhD6Zj5flJ+623BgiAbCXuTHAxn3OyrIr+LiTl7lQEhoaH8w/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.DataAccessLayer\\MovieApp.DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.DataAccessLayer\\MovieApp.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fatih\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\fatih\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
