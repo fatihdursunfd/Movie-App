@@ -17,6 +17,8 @@ namespace MovieApp.Data.Interfaces
 
         Task AddAsync(T entity);
 
+        Task AddRangeAsync(IEnumerable<T> entities);
+
         void Remove(T entity);
 
         T Update(T entity);

@@ -26,6 +26,7 @@ namespace MovieApp.API.Extensions
 
             // Services
             services.AddScoped<ICategoryService, CategoryService>();
+            services.AddScoped<IDataService, DataService>();
 
         }
     }

@@ -62,8 +62,8 @@ C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.API\obj\Debug\net
 C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.API\bin\Debug\net6.0\MovieApp.EntityLayer.dll
 C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.API\bin\Debug\net6.0\MovieApp.EntityLayer.pdb
 C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.API\bin\Debug\net6.0\Newtonsoft.Json.dll
-C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.API\bin\Debug\net6.0\ReadData\data.json
 C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.API\bin\Debug\net6.0\MovieApp.Data.dll
 C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.API\bin\Debug\net6.0\MovieApp.Service.dll
 C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.API\bin\Debug\net6.0\MovieApp.Service.pdb
 C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.API\bin\Debug\net6.0\MovieApp.Data.pdb
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.API\bin\Debug\net6.0\Data\data.json

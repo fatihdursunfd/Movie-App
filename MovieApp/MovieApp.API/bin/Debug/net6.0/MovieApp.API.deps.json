@@ -512,7 +512,8 @@
       "MovieApp.Service/1.0.0": {
         "dependencies": {
           "MovieApp.Data": "1.0.0",
-          "MovieApp.EntityLayer": "1.0.0"
+          "MovieApp.EntityLayer": "1.0.0",
+          "Newtonsoft.Json": "13.0.1"
         },
         "runtime": {
           "MovieApp.Service.dll": {}
