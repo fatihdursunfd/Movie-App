@@ -1,5 +1,4 @@
 import React , { useEffect , useState } from 'react'
-import Box from '@mui/material/Box';
 import BottomNavigation from '@mui/material/BottomNavigation';
 import BottomNavigationAction from '@mui/material/BottomNavigationAction';
 import SearchTwoToneIcon from '@mui/icons-material/SearchTwoTone';
@@ -7,6 +6,25 @@ import TrendingUpOutlinedIcon from '@mui/icons-material/TrendingUpOutlined';
 import MovieFilterSharpIcon from '@mui/icons-material/MovieFilterSharp';
 import LiveTvSharpIcon from '@mui/icons-material/LiveTvSharp';
 import {useNavigate} from 'react-router-dom'
+import { Box ,ThemeProvider, createTheme } from '@mui/system';
+
+const theme = createTheme({
+    palette: {
+      background: {
+        paper: '#D3EBCD',
+      },
+      text: {
+        primary: '#173A5E',
+        secondary: '#46505A',
+      },
+      action: {
+        active: '#001E3C',
+      },
+      success: {
+        dark: '#009688',
+      },
+    },
+});
 
 const MainNav = () => {
     const [value, setValue] = useState(0);
@@ -29,17 +47,17 @@ const MainNav = () => {
       }, [value]); 
       
     return (
-        <Box sx={{ width: 500 }} style = {{width:"100%" , position:"fixed" , bottom:0 , zIndex:100 }}>
+        <Box style = {{width:"100%" , position:"fixed" , bottom:0 , zIndex:100 }}>
             <BottomNavigation
                 showLabels
                 value={value}
                 onChange={(event, newValue) => {
                     setValue(newValue);
                 }}>
-                <BottomNavigationAction style={{ color: "#151D3B" }} label="Trendings" icon={<TrendingUpOutlinedIcon />} />
-                <BottomNavigationAction style={{ color: "#151D3B" }} label="Moives" icon={<MovieFilterSharpIcon />} /> 
-                <BottomNavigationAction style={{ color: "#151D3B" }} label="Series" icon={<LiveTvSharpIcon />} />
-                <BottomNavigationAction style={{ color: "#151D3B" }} label="Search" icon={<SearchTwoToneIcon />} />
+                <BottomNavigationAction label="Trendings" icon={<TrendingUpOutlinedIcon />} />
+                <BottomNavigationAction label="Movies" icon={<MovieFilterSharpIcon />} /> 
+                <BottomNavigationAction label="Series" icon={<LiveTvSharpIcon />} />
+                <BottomNavigationAction label="Search" icon={<SearchTwoToneIcon />} />
             </BottomNavigation>
         </Box>
     )

@@ -1,9 +1,9 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
 
 .paperModal {
   width: "70%";
   height: "60%";
-  background-color:#39445a ;
+  background-color:#222831 ;
   border: "1px solid #282c34";
   border-radius: 10;
   color: "white";
@@ -51,7 +51,8 @@
   height: 90%;
   display: flex;
   flex-direction: column;
-  font-family: "Roboto", sans-serif;
+  font-family: 'Rubik', sans-serif;
+
   justify-content: space-evenly;
   font-weight: 300;
 }

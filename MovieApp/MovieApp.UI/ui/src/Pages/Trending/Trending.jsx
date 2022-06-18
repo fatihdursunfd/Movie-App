@@ -20,7 +20,7 @@ const Trending = () => {
 
   return (
     <div>
-        <span className='pageTitle' >Trending </span>
+        <span className='pageTitle' > Trending </span>
         <div className='trending'>
             {content.map( (c) => 
                 < Single 
