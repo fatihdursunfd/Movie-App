@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MovieApp.EntityLayer.Entities;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,7 +14,7 @@ namespace MovieApp.Service.Dtos
         public string Image_sm { get; set; }
         public string Rating { get; set; }
         public string Description { get; set; }
-        public DirectorDto Director { get; set; }
+        public Director Director { get; set; }
         public List<string> Categories { get; set; }
         public List<string> Writers { get; set; }
         public List<string> Stars { get; set; }

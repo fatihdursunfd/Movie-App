@@ -22,5 +22,6 @@ namespace MovieApp.Data.Interfaces
         void Remove(T entity);
 
         T Update(T entity);
+
     }
 }

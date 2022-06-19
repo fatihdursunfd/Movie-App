@@ -15,7 +15,6 @@ const MovieDetail = () => {
     const params = useParams()
     const id = params.id
     const media_type = params.mediaType
-
     const [content, setContent] = useState([]);
     const [video, setVideo] = useState();
 
@@ -57,23 +56,18 @@ const MovieDetail = () => {
                   {content.tagline && (
                     <i className="tagline">{content.tagline}</i>
                   )}
-
-                  <span className="ContentModal__description">
-                    {content.overview}
-                  </span>
-
+                  <span className="ContentModal__description"> {content.overview} </span>
                   <div>
                     <Carousel id={id} media_type={media_type} /> 
                   </div>
-
                   <Button
                     variant="contained"
                     startIcon={<YouTubeIcon />}
                     color="secondary"
                     target="__blank"
                     href={`https://www.youtube.com/watch?v=${video}`}
-                  >
-                    Watch the Trailer
+                  > 
+                      Watch the Trailer
                   </Button>
                 </div>
               </div>

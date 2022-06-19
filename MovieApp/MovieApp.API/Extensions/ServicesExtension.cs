@@ -4,6 +4,7 @@ using MovieApp.Data.Repositories;
 using MovieApp.DataAccessLayer.Contexts;
 using MovieApp.Service.Interfaces;
 using MovieApp.Service.Services;
+using System.Text.Json.Serialization;
 
 namespace MovieApp.API.Extensions
 {
@@ -17,6 +18,7 @@ namespace MovieApp.API.Extensions
 
             // Default services
             services.AddControllers();
+
             services.AddEndpointsApiExplorer();
             services.AddSwaggerGen();
 
@@ -27,6 +29,7 @@ namespace MovieApp.API.Extensions
             // Services
             services.AddScoped<ICategoryService, CategoryService>();
             services.AddScoped<IDataService, DataService>();
+            services.AddScoped<IMovieService, MovieService>();
 
         }
     }
