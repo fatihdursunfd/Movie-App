@@ -9,6 +9,7 @@ namespace MovieApp.Service.Dtos
     public interface StarDto
     {
         public string Name { get; set; }
+        public string ImageUrl { get; set; }
 
     }
 }

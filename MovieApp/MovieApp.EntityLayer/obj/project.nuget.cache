@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v7ErXSaJial+2isDmsMhT1Uq+PDAzZ0i81i4gDZ+JpVcXUszRTL7MJ6BCMmUB6i6gCWoJlQCnXKQjkgyyGk/Pg==",
+  "dgSpecHash": "IJJA0ktSS7tKENK+ceReVW6ZC6PFf3GPUXGQZsA2akbOB8fgNhft2w8z1E6wpc6jIrDk1MJs/oUf2osv6XQLBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.EntityLayer\\MovieApp.EntityLayer.csproj",
+  "projectFilePath": "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.EntityLayer\\MovieApp.Entity.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

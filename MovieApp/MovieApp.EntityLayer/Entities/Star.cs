@@ -10,6 +10,7 @@ namespace MovieApp.EntityLayer.Entities
     {
         public int StarID { get; set; }
         public string Name { get; set; }
+        public string ImageUrl { get; set; }
         public List<Movie> Movies { get; set; }
     }
 }

@@ -12,7 +12,7 @@ namespace MovieApp.Service.Dtos
         public string Name { get; set; }
         public string Date { get; set; }
         public string Image_sm { get; set; }
-        public string Rating { get; set; }
+        public float Rating { get; set; }
         public string Description { get; set; }
         public Director Director { get; set; }
         public List<string> Categories { get; set; }

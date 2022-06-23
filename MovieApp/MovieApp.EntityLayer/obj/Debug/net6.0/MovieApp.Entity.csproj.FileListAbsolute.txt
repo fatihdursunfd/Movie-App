@@ -1,0 +1,12 @@
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.EntityLayer\bin\Debug\net6.0\MovieApp.Entity.deps.json
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.EntityLayer\bin\Debug\net6.0\MovieApp.Entity.dll
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.EntityLayer\bin\Debug\net6.0\MovieApp.Entity.pdb
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.EntityLayer\obj\Debug\net6.0\MovieApp.Entity.csproj.AssemblyReference.cache
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.EntityLayer\obj\Debug\net6.0\MovieApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.EntityLayer\obj\Debug\net6.0\MovieApp.Entity.AssemblyInfoInputs.cache
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.EntityLayer\obj\Debug\net6.0\MovieApp.Entity.AssemblyInfo.cs
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.EntityLayer\obj\Debug\net6.0\MovieApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.EntityLayer\obj\Debug\net6.0\MovieApp.Entity.dll
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.EntityLayer\obj\Debug\net6.0\refint\MovieApp.Entity.dll
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.EntityLayer\obj\Debug\net6.0\MovieApp.Entity.pdb
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.EntityLayer\obj\Debug\net6.0\ref\MovieApp.Entity.dll

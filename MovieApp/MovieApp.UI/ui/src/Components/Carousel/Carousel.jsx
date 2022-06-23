@@ -43,7 +43,6 @@ const Gallery = ({ id, media_type }) => {
 
   useEffect(() => {
     fetchCredits();
-    // eslint-disable-next-line
   }, []);
 
   return (

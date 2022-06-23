@@ -1,10 +1,18 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="Data\series.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Data\series.json" />
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.5" />
@@ -18,13 +26,14 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="6.0.1" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\MovieApp.BusinessLayer\MovieApp.Service.csproj" />
     <ProjectReference Include="..\MovieApp.DataAccessLayer\MovieApp.Data.csproj" />
-    <ProjectReference Include="..\MovieApp.EntityLayer\MovieApp.EntityLayer.csproj" />
+    <ProjectReference Include="..\MovieApp.EntityLayer\MovieApp.Entity.csproj" />
   </ItemGroup>
 
 </Project>

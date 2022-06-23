@@ -7,6 +7,7 @@ import MovieFilterSharpIcon from '@mui/icons-material/MovieFilterSharp';
 import LiveTvSharpIcon from '@mui/icons-material/LiveTvSharp';
 import {useNavigate} from 'react-router-dom'
 import { Box ,ThemeProvider, createTheme } from '@mui/system';
+import {Link} from "react-router-dom";
 
 const theme = createTheme({
     palette: {
@@ -54,10 +55,19 @@ const MainNav = () => {
                 onChange={(event, newValue) => {
                     setValue(newValue);
                 }}>
-                <BottomNavigationAction label="Trendings" icon={<TrendingUpOutlinedIcon />} />
-                <BottomNavigationAction label="Movies" icon={<MovieFilterSharpIcon />} /> 
-                <BottomNavigationAction label="Series" icon={<LiveTvSharpIcon />} />
-                <BottomNavigationAction label="Search" icon={<SearchTwoToneIcon />} />
+                <Link to="/">
+                    <BottomNavigationAction label="Trendings" icon={<TrendingUpOutlinedIcon />} />
+                </Link>
+                <Link to="/movies">
+                    <BottomNavigationAction label="Movies" icon={<MovieFilterSharpIcon />} /> 
+                </Link>
+                <Link to="/series">
+                    <BottomNavigationAction label="Series" icon={<LiveTvSharpIcon />} />
+                </Link>
+                <Link to="/search">
+                    <BottomNavigationAction label="Search" icon={<SearchTwoToneIcon />} />
+                </Link>
+
             </BottomNavigation>
         </Box>
     )

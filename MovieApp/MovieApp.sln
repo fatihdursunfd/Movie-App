@@ -5,7 +5,7 @@ VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieApp.API", "MovieApp.API\MovieApp.API.csproj", "{059C59DF-D68E-4226-BF5F-BB3A79B25449}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieApp.EntityLayer", "MovieApp.EntityLayer\MovieApp.EntityLayer.csproj", "{430344A8-E319-43A5-A384-FE03F40D7DB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieApp.Entity", "MovieApp.EntityLayer\MovieApp.Entity.csproj", "{430344A8-E319-43A5-A384-FE03F40D7DB5}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieApp.Data", "MovieApp.DataAccessLayer\MovieApp.Data.csproj", "{1401312A-D499-4E3A-89F9-1C7BC661B428}"
 EndProject

@@ -1,83 +1,82 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace MovieApp.DataAccessLayer.Migrations
+namespace MovieApp.Data.Migrations
 {
     public partial class InitialCreate : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
+            migrationBuilder.AlterDatabase()
+                .Annotation("MySql:CharSet", "utf8mb4");
+
             migrationBuilder.CreateTable(
                 name: "Categories",
                 columns: table => new
                 {
                     CategoryID = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    Name = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                        .Annotation("MySql:ValueGenerationStrategy", MySqlValueGenerationStrategy.IdentityColumn),
+                    Name = table.Column<string>(type: "longtext", nullable: false)
+                        .Annotation("MySql:CharSet", "utf8mb4")
                 },
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Categories", x => x.CategoryID);
-                });
+                })
+                .Annotation("MySql:CharSet", "utf8mb4");
 
             migrationBuilder.CreateTable(
                 name: "Directors",
                 columns: table => new
                 {
                     DirectorID = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    Fullname = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Biography = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    ImageUrl = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    BirthdayMonth = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    BirthdayYear = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    BirthdayPlace = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                        .Annotation("MySql:ValueGenerationStrategy", MySqlValueGenerationStrategy.IdentityColumn),
+                    Fullname = table.Column<string>(type: "longtext", nullable: false)
+                        .Annotation("MySql:CharSet", "utf8mb4")
                 },
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Directors", x => x.DirectorID);
-                });
+                })
+                .Annotation("MySql:CharSet", "utf8mb4");
 
             migrationBuilder.CreateTable(
                 name: "Stars",
                 columns: table => new
                 {
                     StarID = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    Name = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                        .Annotation("MySql:ValueGenerationStrategy", MySqlValueGenerationStrategy.IdentityColumn),
+                    Name = table.Column<string>(type: "longtext", nullable: false)
+                        .Annotation("MySql:CharSet", "utf8mb4"),
+                    ImageUrl = table.Column<string>(type: "longtext", nullable: false)
+                        .Annotation("MySql:CharSet", "utf8mb4")
                 },
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Stars", x => x.StarID);
-                });
-
-            migrationBuilder.CreateTable(
-                name: "Writers",
-                columns: table => new
-                {
-                    WriterID = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    Name = table.Column<string>(type: "nvarchar(max)", nullable: false)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_Writers", x => x.WriterID);
-                });
+                })
+                .Annotation("MySql:CharSet", "utf8mb4");
 
             migrationBuilder.CreateTable(
                 name: "Movies",
                 columns: table => new
                 {
                     MovieID = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    Name = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Date = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    Description = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Rating = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    ImageSmUrl = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    ImageLgUrl = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                        .Annotation("MySql:ValueGenerationStrategy", MySqlValueGenerationStrategy.IdentityColumn),
+                    Name = table.Column<string>(type: "longtext", nullable: false)
+                        .Annotation("MySql:CharSet", "utf8mb4"),
+                    Date = table.Column<string>(type: "longtext", nullable: false)
+                        .Annotation("MySql:CharSet", "utf8mb4"),
+                    Description = table.Column<string>(type: "longtext", nullable: false)
+                        .Annotation("MySql:CharSet", "utf8mb4"),
+                    Rating = table.Column<string>(type: "longtext", nullable: false)
+                        .Annotation("MySql:CharSet", "utf8mb4"),
+                    ImageSmUrl = table.Column<string>(type: "longtext", nullable: false)
+                        .Annotation("MySql:CharSet", "utf8mb4"),
+                    ImageLgUrl = table.Column<string>(type: "longtext", nullable: false)
+                        .Annotation("MySql:CharSet", "utf8mb4"),
                     DirectorID = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
@@ -89,7 +88,8 @@ namespace MovieApp.DataAccessLayer.Migrations
                         principalTable: "Directors",
                         principalColumn: "DirectorID",
                         onDelete: ReferentialAction.Cascade);
-                });
+                })
+                .Annotation("MySql:CharSet", "utf8mb4");
 
             migrationBuilder.CreateTable(
                 name: "CategoryMovie",
@@ -113,7 +113,8 @@ namespace MovieApp.DataAccessLayer.Migrations
                         principalTable: "Movies",
                         principalColumn: "MovieID",
                         onDelete: ReferentialAction.Cascade);
-                });
+                })
+                .Annotation("MySql:CharSet", "utf8mb4");
 
             migrationBuilder.CreateTable(
                 name: "MovieStar",
@@ -137,31 +138,8 @@ namespace MovieApp.DataAccessLayer.Migrations
                         principalTable: "Stars",
                         principalColumn: "StarID",
                         onDelete: ReferentialAction.Cascade);
-                });
-
-            migrationBuilder.CreateTable(
-                name: "MovieWriter",
-                columns: table => new
-                {
-                    MoviesMovieID = table.Column<int>(type: "int", nullable: false),
-                    WritersWriterID = table.Column<int>(type: "int", nullable: false)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_MovieWriter", x => new { x.MoviesMovieID, x.WritersWriterID });
-                    table.ForeignKey(
-                        name: "FK_MovieWriter_Movies_MoviesMovieID",
-                        column: x => x.MoviesMovieID,
-                        principalTable: "Movies",
-                        principalColumn: "MovieID",
-                        onDelete: ReferentialAction.Cascade);
-                    table.ForeignKey(
-                        name: "FK_MovieWriter_Writers_WritersWriterID",
-                        column: x => x.WritersWriterID,
-                        principalTable: "Writers",
-                        principalColumn: "WriterID",
-                        onDelete: ReferentialAction.Cascade);
-                });
+                })
+                .Annotation("MySql:CharSet", "utf8mb4");
 
             migrationBuilder.CreateIndex(
                 name: "IX_CategoryMovie_MoviesMovieID",
@@ -177,11 +155,6 @@ namespace MovieApp.DataAccessLayer.Migrations
                 name: "IX_MovieStar_StarsStarID",
                 table: "MovieStar",
                 column: "StarsStarID");
-
-            migrationBuilder.CreateIndex(
-                name: "IX_MovieWriter_WritersWriterID",
-                table: "MovieWriter",
-                column: "WritersWriterID");
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)
@@ -193,19 +166,13 @@ namespace MovieApp.DataAccessLayer.Migrations
                 name: "MovieStar");
 
             migrationBuilder.DropTable(
-                name: "MovieWriter");
-
-            migrationBuilder.DropTable(
                 name: "Categories");
-
-            migrationBuilder.DropTable(
-                name: "Stars");
 
             migrationBuilder.DropTable(
                 name: "Movies");
 
             migrationBuilder.DropTable(
-                name: "Writers");
+                name: "Stars");
 
             migrationBuilder.DropTable(
                 name: "Directors");

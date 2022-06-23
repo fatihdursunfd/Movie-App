@@ -13,8 +13,14 @@ namespace MovieApp.Service.Interfaces
     {
         Task<Response<IEnumerable<Movie>>> GetAllMovies();
 
-        Task<Response<IEnumerable<Movie>>> GetMoviesByCategory(string name);
+        Task<Response<IEnumerable<Movie>>> GetMoviesByCategory(string categoryName);
 
         Task<Response<IEnumerable<MovieDto>>> GetMoviesWithFeatures();
+
+        Task<Response<IEnumerable<MovieDto>>> GetTrendingMovies();
+
+        Task<Response<IEnumerable<MovieDto>>> GetMoviesByName(string title);
+
+        Task<Response<MovieDto>> GetMovieById(int movieId);
     }
 }

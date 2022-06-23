@@ -11,7 +11,6 @@ namespace MovieApp.Data.Repositories
     public class UnitOfWork : IUnitOfWork
     {
         private readonly MovieContext context;
-
         public UnitOfWork(MovieContext context)
         {
             this.context = context;

@@ -35,14 +35,14 @@ namespace MovieApp.Service.Services
             this.unitOfWork = unitOfWork;
         }
 
-        public List<MovieDto> ReadDataFromJson()
+        public List<JsonDto> ReadDataFromJson()
         {
-            List<MovieDto> movies = new List<MovieDto>();
+            List<JsonDto> movies = new List<JsonDto>();
 
-            using (StreamReader r = new StreamReader("../Data/data.json"))
+            using (StreamReader r = new StreamReader(@"./Data/movies.json"))
             {
                 string json = r.ReadToEnd();
-                movies = JsonConvert.DeserializeObject<List<MovieDto>>(json);
+                movies = JsonConvert.DeserializeObject<List<JsonDto>>(json);
             }
             return movies;
         }
@@ -53,18 +53,20 @@ namespace MovieApp.Service.Services
 
             foreach (var m in movies)
             {
+                var mv = movieRepo.Where(x => x.Name == m.Title).FirstOrDefault();
+
+                if (mv is not null)
+                    continue;
+
                 Director director = new Director();
                 Movie movie = new Movie();
 
                 List<Star> stars = new List<Star>();
                 List<Star> starsA = new List<Star>();
-                List<Writer> writers = new List<Writer>();
-                List<Writer> writersA = new List<Writer>();
                 List<Category> categories = new List<Category>();
                 List<Category> categoriesA = new List<Category>();
 
                 Star star;
-                Writer writer;
                 Category category;
 
                 foreach (var s in m.Stars)
@@ -74,6 +76,7 @@ namespace MovieApp.Service.Services
                     {
                         star = new Star();
                         star.Name = s;
+                        star.ImageUrl = "";
                         stars.Add(star);
                         starsA.Add(star);
                     }
@@ -84,24 +87,9 @@ namespace MovieApp.Service.Services
                 await starRepo.AddRangeAsync(stars);
                 unitOfWork.Commit();
 
-                foreach (var w in m.Writers)
-                {
-                    var wr = writerRepo.Where(x => x.Name == w).FirstOrDefault();
-                    if (wr is null)
-                    {
-                        writer = new Writer();
-                        writer.Name = w;
-                        writers.Add(writer);
-                        writersA.Add(writer);
-                    }
-                    else
-                        writersA.Add(wr);
-                }
 
-                await writerRepo.AddRangeAsync(writers);
-                unitOfWork.Commit();
 
-                foreach (var w in m.Categories)
+                foreach (var w in m.Genres)
                 {
                     var c = categoryRepo.Where(x => x.Name == w).FirstOrDefault();
                     if (c is null)
@@ -119,34 +107,27 @@ namespace MovieApp.Service.Services
                 await categoryRepo.AddRangeAsync(categories);
                 unitOfWork.Commit();
 
-                var dr = directorRepo.Where(x => x.Fullname == m.Director.Fullname).FirstOrDefault();
+                var dr = directorRepo.Where(x => x.Fullname == m.Director).FirstOrDefault();
 
                 if (dr is null)
-                {
-                    director.BirthdayMonth = m.Director.BirthdayMonth;
-                    director.BirthdayPlace = m.Director.BirthdayPlace;
-                    director.BirthdayYear = m.Director.BirthdayYear;
-                    director.Fullname = m.Director.Fullname;
-                    director.ImageUrl = m.Director.ImageUrl;
-                    director.Biography = m.Director.Biography;
-                }
+                    director.Fullname = m.Director;
                 else
                     director = dr;
 
-                movie.Name = m.Name;
-                movie.Date = m.Date;
-                movie.ImageSmUrl = m.Image_sm;
+                movie.Name = m.Title;
+                movie.Date = m.ReleaseDate;
+                movie.ImageSmUrl = m.ImageSm;
                 movie.Rating = m.Rating;
                 movie.Description = m.Description;
-                movie.ImageLgUrl = m.Image_lg;
-
+                movie.ImageLgUrl = m.ImageLg;
+                movie.Minute = m.Minute;
                 movie.Director = director;
                 movie.Stars = starsA;
-                movie.Writers = writersA;
                 movie.Categories = categoriesA;
 
                 await movieRepo.AddAsync(movie);
                 unitOfWork.Commit();
+
             }
         }
     }

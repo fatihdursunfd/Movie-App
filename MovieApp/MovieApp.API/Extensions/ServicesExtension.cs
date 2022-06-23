@@ -13,8 +13,14 @@ namespace MovieApp.API.Extensions
         public static void AddServiceAndRepository(this IServiceCollection services, IConfiguration configuration)
         {
             // Db Context
-            services.AddDbContext<MovieContext>(opt =>
-                opt.UseSqlServer(configuration.GetConnectionString("MovieDbConnString")));
+
+            //services.AddDbContext<MovieContext>(opt =>
+            //    opt.UseSqlServer(configuration.GetConnectionString("MovieDbConnString")));
+
+            services.AddDbContext<MovieContext>(options =>
+                  options.UseMySql(connectionString:configuration.GetConnectionString("MovieDbMysqlConnString"),
+                  new MySqlServerVersion(new Version(10, 4, 17))
+           ));
 
             // Default services
             services.AddControllers();

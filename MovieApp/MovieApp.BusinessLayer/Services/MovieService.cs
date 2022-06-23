@@ -34,12 +34,29 @@ namespace MovieApp.Service.Services
 
         }
 
-        public async Task<Response<IEnumerable<Movie>>> GetMoviesByCategory(string name)
+        public async Task<Response<MovieDto>> GetMovieById(int movieId)
         {
-            //var category = await categoryRepo.Where(x => x.Name == name)
-            //                           .Include(x => x.Movies).FirstOrDefaultAsync();
+            var movie = await movieRepo.GetByIdAsync(movieId);
+            if(movie == null)
+                return new Response<MovieDto>() { Data = null, Error = "Movies not found", StatusCode = 404 };
 
-            var category = await categoryRepo.Where(x => x.Name.ToLower().Contains(name))
+            var movieDto = new MovieDto()
+            {
+                Name = movie.Name,
+                Date = movie.Date,
+                Image_sm = movie.ImageSmUrl,
+                Image_lg = movie.ImageLgUrl,
+                //Rating = movie.Rating,
+                Description = movie.Description,
+            };
+
+            return new Response<MovieDto>() { Data = movieDto, Error = null, StatusCode = 200 };
+
+        }
+
+        public async Task<Response<IEnumerable<Movie>>> GetMoviesByCategory(string categoryName)
+        {
+            var category = await categoryRepo.Where(x => x.Name.ToLower().Contains(categoryName))
                                        .Select(x => new
                                        {
                                            x.CategoryID,
@@ -64,10 +81,32 @@ namespace MovieApp.Service.Services
 
         }
 
+        public async Task<Response<IEnumerable<MovieDto>>> GetMoviesByName(string title)
+        {
+            var movies = await movieRepo.Where(x => x.Name.ToLower()
+                                                             .Contains(title.ToLower()))
+                                                             .ToListAsync();
+
+            if (movies == null)
+                return new Response<IEnumerable<MovieDto>>() { Data = null, Error = "Movies not found", StatusCode = 404 };
+
+            var moviesDto = movies.Select(x => new MovieDto()
+            {
+                Name = x.Name,
+                Rating = x.Rating,
+                Date = x.Date,
+                Image_lg = x.ImageLgUrl,
+                Image_sm = x.ImageSmUrl,
+                Description = x.Description,
+            }).ToList();
+
+            return new Response<IEnumerable<MovieDto>>() { Data = moviesDto, Error = null, StatusCode = 200 };
+
+        }
+
         public async Task<Response<IEnumerable<MovieDto>>> GetMoviesWithFeatures()
         {
             var movies = await movieRepo.Where(x => x.MovieID > 0)
-                                  .Include(x => x.Writers)
                                   .Include(x => x.Stars)
                                   .Include(x => x.Categories)
                                   .Include(x => x.Director)
@@ -84,7 +123,27 @@ namespace MovieApp.Service.Services
                 Director = x.Director,
                 Stars = x.Stars.Select(y => y.Name).ToList(),
                 Categories = x.Categories.Select(y => y.Name).ToList(),
-                Writers = x.Writers.Select(y => y.Name).ToList()
+            }).ToList();
+
+            return new Response<IEnumerable<MovieDto>>() { Data = moviesDto, Error = null, StatusCode = 200 };
+
+        }
+
+        public async Task<Response<IEnumerable<MovieDto>>> GetTrendingMovies()
+        {
+            var movies = await movieRepo.Where(x => x.MovieID > 0)
+                                        .OrderByDescending(x => x.Rating)
+                                        .Take(20)
+                                        .ToListAsync();
+
+            var moviesDto = movies.Select(x => new MovieDto()
+            {
+                Name = x.Name,
+                Rating = x.Rating,
+                Date = x.Date,
+                Image_lg = x.ImageLgUrl,
+                Image_sm = x.ImageSmUrl,
+                Description = x.Description,
             }).ToList();
 
             return new Response<IEnumerable<MovieDto>>() { Data = moviesDto, Error = null, StatusCode = 200 };

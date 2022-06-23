@@ -17,9 +17,9 @@ namespace MovieApp.API.Controllers
         }
 
         [HttpPost]
-        public IActionResult SaveDataToDb()
+        public async Task<IActionResult> SaveDataToDb()
         {
-            dataService.SaveDataToDb();
+            await dataService.SaveDataToDb();
             return Ok();
         }
     }}

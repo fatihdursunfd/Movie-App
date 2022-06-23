@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "kMAkTK/g7NsWUeuxZNxFcBifp1+XAtXfd9XQxhD6Zj5flJ+623BgiAbCXuTHAxn3OyrIr+LiTl7lQEhoaH8w/Q==",
+  "dgSpecHash": "qtl99ZSpYUtiIXJAjKnki5+TXJOU53JtusmDRpPh7U8R+fZ/bpq3K7yn7fD2ijxbUMLaqQGge7mKOBD7/HNPfg==",
   "success": true,
   "projectFilePath": "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.DataAccessLayer\\MovieApp.Data.csproj",
   "expectedPackageFiles": [
@@ -33,6 +33,8 @@
     "C:\\Users\\fatih\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\fatih\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\fatih\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\fatih\\.nuget\\packages\\mysqlconnector\\2.1.2\\mysqlconnector.2.1.2.nupkg.sha512",
+    "C:\\Users\\fatih\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\6.0.1\\pomelo.entityframeworkcore.mysql.6.0.1.nupkg.sha512",
     "C:\\Users\\fatih\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\fatih\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
     "C:\\Users\\fatih\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",

@@ -9,7 +9,6 @@ namespace MovieApp.Data.Interfaces
     public interface IUnitOfWork
     {
         Task CommmitAsync();
-
         void Commit();
     }
 }

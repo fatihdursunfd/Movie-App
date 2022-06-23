@@ -9,7 +9,7 @@ namespace MovieApp.Service.Interfaces
 {
     public interface IDataService
     {
-        List<MovieDto> ReadDataFromJson();
+        List<JsonDto> ReadDataFromJson();
 
         Task SaveDataToDb();
     }

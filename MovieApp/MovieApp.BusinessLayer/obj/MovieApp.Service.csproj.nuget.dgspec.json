@@ -31,8 +31,8 @@
               "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.DataAccessLayer\\MovieApp.Data.csproj": {
                 "projectPath": "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.DataAccessLayer\\MovieApp.Data.csproj"
               },
-              "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.EntityLayer\\MovieApp.EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.EntityLayer\\MovieApp.EntityLayer.csproj"
+              "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.EntityLayer\\MovieApp.Entity.csproj": {
+                "projectPath": "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.EntityLayer\\MovieApp.Entity.csproj"
               }
             }
           }
@@ -95,8 +95,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.EntityLayer\\MovieApp.EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.EntityLayer\\MovieApp.EntityLayer.csproj"
+              "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.EntityLayer\\MovieApp.Entity.csproj": {
+                "projectPath": "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.EntityLayer\\MovieApp.Entity.csproj"
               }
             }
           }
@@ -130,6 +130,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.5, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.1, )"
             }
           },
           "imports": [
@@ -151,12 +155,12 @@
         }
       }
     },
-    "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.EntityLayer\\MovieApp.EntityLayer.csproj": {
+    "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.EntityLayer\\MovieApp.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.EntityLayer\\MovieApp.EntityLayer.csproj",
-        "projectName": "MovieApp.EntityLayer",
-        "projectPath": "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.EntityLayer\\MovieApp.EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.EntityLayer\\MovieApp.Entity.csproj",
+        "projectName": "MovieApp.Entity",
+        "projectPath": "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.EntityLayer\\MovieApp.Entity.csproj",
         "packagesPath": "C:\\Users\\fatih\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\fatih\\OneDrive\\Masaüstü\\Movie App\\MovieApp\\MovieApp.EntityLayer\\obj\\",
         "projectStyle": "PackageReference",

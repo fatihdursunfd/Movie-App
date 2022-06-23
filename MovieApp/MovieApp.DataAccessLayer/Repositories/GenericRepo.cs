@@ -54,7 +54,7 @@ namespace MovieApp.Data.Repositories
             return entity;
         }
 
-        public IQueryable<T> Where(System.Linq.Expressions.Expression<Func<T, bool>> predicate)
+        public IQueryable<T> Where(Expression<Func<T, bool>> predicate)
         {
             return _dbSet.Where(predicate);
         }

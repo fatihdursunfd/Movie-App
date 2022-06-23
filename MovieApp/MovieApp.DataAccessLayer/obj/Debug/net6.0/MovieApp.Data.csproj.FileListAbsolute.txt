@@ -2,8 +2,6 @@ C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.DataAccessLayer\b
 C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.DataAccessLayer\bin\Debug\net6.0\MovieApp.Data.runtimeconfig.json
 C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.DataAccessLayer\bin\Debug\net6.0\MovieApp.Data.dll
 C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.DataAccessLayer\bin\Debug\net6.0\MovieApp.Data.pdb
-C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.DataAccessLayer\bin\Debug\net6.0\MovieApp.EntityLayer.dll
-C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.DataAccessLayer\bin\Debug\net6.0\MovieApp.EntityLayer.pdb
 C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.DataAccessLayer\obj\Debug\net6.0\MovieApp.Data.csproj.AssemblyReference.cache
 C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.DataAccessLayer\obj\Debug\net6.0\MovieApp.Data.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.DataAccessLayer\obj\Debug\net6.0\MovieApp.Data.AssemblyInfoInputs.cache
@@ -15,3 +13,5 @@ C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.DataAccessLayer\o
 C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.DataAccessLayer\obj\Debug\net6.0\MovieApp.Data.pdb
 C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.DataAccessLayer\obj\Debug\net6.0\MovieApp.Data.genruntimeconfig.cache
 C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.DataAccessLayer\obj\Debug\net6.0\ref\MovieApp.Data.dll
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.DataAccessLayer\bin\Debug\net6.0\MovieApp.Entity.dll
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.DataAccessLayer\bin\Debug\net6.0\MovieApp.Entity.pdb

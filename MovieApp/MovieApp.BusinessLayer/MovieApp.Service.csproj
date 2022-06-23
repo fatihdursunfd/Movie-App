@@ -7,24 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="Data\data.json" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Content Include="Data\data.json">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-    </Content>
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\MovieApp.DataAccessLayer\MovieApp.Data.csproj" />
-    <ProjectReference Include="..\MovieApp.EntityLayer\MovieApp.EntityLayer.csproj" />
+    <ProjectReference Include="..\MovieApp.EntityLayer\MovieApp.Entity.csproj" />
   </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties data_4movies_1json__JsonSchema="https://appsemble.app/api.json" /></VisualStudio></ProjectExtensions>
 
 </Project>
