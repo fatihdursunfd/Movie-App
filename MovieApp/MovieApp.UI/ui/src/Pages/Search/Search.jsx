@@ -9,13 +9,16 @@ import axios from "axios";
 import CustomPagination from "../../Components/Pagination/CustomPagination";
 import Single from "../../Components/Single/Single";
 import SearchIcon from '@mui/icons-material/Search';
-  
+import Constants from '../../Utilities/Constants';
+import "./Search.css"
+import "../Trending/Trending.css"
+
 const Search = () => {
   const [type, setType] = useState(0);
   const [searchText, setSearchText] = useState("");
   const [page, setPage] = useState(1);
-  const [content, setContent] = useState([]);
   const [numOfPages, setNumOfPages] = useState();
+  const [movies , setMovies] = useState([])
 
   const darkTheme = createTheme({
     palette: {
@@ -26,13 +29,15 @@ const Search = () => {
   });
 
   const fetchSearch = async () => {
-    try {
-        const url = `https://api.themoviedb.org/3/search/${type ? "tv" : "movie"}?api_key=44f4b50a7a7b8ece939348ff65ba06f3&language=en-US&query=${searchText}&page=${page}&include_adult=false`
-        const { data } = await axios.get();
-        setContent(data.results);
-        setNumOfPages(data.total_pages);
-    } 
-    catch (error) { console.error(error); }
+      if( searchText !== "" && searchText !== null) {
+        const url = Constants.API_URL_GET_MOVIE_BY_NAME + searchText
+        await axios.get(url)
+                    .then((response) => {
+                      if(response.data.error ===  null){
+                          setMovies(response.data.data)
+                    }
+                  })
+      }
   };
 
   useEffect(() => {
@@ -72,19 +77,19 @@ const Search = () => {
       </ThemeProvider>
 
       <div className="trending"> {
-          content && content.map((c) => (
+          movies && movies.map((c) => (
             <Single
-              key={c.id}
-              id={c.id}
-              poster={c.poster_path}
-              title={c.title || c.name}
-              date={c.first_air_date || c.release_date}
-              media_type={type ? "tv" : "movie"}
-              vote_average={c.vote_average}
+                key={c.id}
+                id={c.id}
+                poster={c.image_lg}
+                title={c.name}
+                date={c.date }
+                media_type={"tv"}
+                vote_average={c.rating}
             /> 
           ))}
           {
-              searchText && !content && (type ? <h2>No Series Found</h2> : <h2>No Movies Found</h2>)
+              searchText && !movies && (type ? <h2>No Series Found</h2> : <h2>No Movies Found</h2>)
           }
       </div>
       {

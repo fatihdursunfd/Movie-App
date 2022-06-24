@@ -28,6 +28,9 @@ namespace MovieApp.API.Extensions
             services.AddEndpointsApiExplorer();
             services.AddSwaggerGen();
 
+            // AutoMapper
+            services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+
             // Repos
             services.AddScoped(typeof(IGenericRepo<>), typeof(GenericRepo<>));
             services.AddScoped<IUnitOfWork, UnitOfWork>();
@@ -36,6 +39,7 @@ namespace MovieApp.API.Extensions
             services.AddScoped<ICategoryService, CategoryService>();
             services.AddScoped<IDataService, DataService>();
             services.AddScoped<IMovieService, MovieService>();
+            services.AddScoped<IStarService, StarService>();
 
         }
     }

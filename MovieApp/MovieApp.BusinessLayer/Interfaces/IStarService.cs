@@ -8,8 +8,8 @@ using System.Threading.Tasks;
 
 namespace MovieApp.Service.Interfaces
 {
-    public interface ICategoryService
+    public interface IStarService
     {
-        Task<Response<IEnumerable<CategoryDto>>> GetCategoriesAsync();
+        Task<Response<IEnumerable<StarDto>>> GetStarsByMovieId(int movieId);
     }
 }

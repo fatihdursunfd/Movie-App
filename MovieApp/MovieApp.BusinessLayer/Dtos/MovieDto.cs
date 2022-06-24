@@ -9,6 +9,7 @@ namespace MovieApp.Service.Dtos
 {
     public class MovieDto
     {
+        public int Id { get; set; }
         public string Name { get; set; }
         public string Date { get; set; }
         public string Image_sm { get; set; }
@@ -16,7 +17,6 @@ namespace MovieApp.Service.Dtos
         public string Description { get; set; }
         public Director Director { get; set; }
         public List<string> Categories { get; set; }
-        public List<string> Writers { get; set; }
         public List<string> Stars { get; set; }
         public string Image_lg { get; set; }
     }

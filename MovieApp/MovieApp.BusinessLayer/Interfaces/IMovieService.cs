@@ -11,7 +11,7 @@ namespace MovieApp.Service.Interfaces
 {
     public interface IMovieService
     {
-        Task<Response<IEnumerable<Movie>>> GetAllMovies();
+        Task<Response<IEnumerable<Movie>>> GetAllMovies(int page);
 
         Task<Response<IEnumerable<Movie>>> GetMoviesByCategory(string categoryName);
 

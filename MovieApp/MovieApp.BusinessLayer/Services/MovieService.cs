@@ -23,9 +23,12 @@ namespace MovieApp.Service.Services
             this.categoryRepo = categoryRepo;
         }
 
-        public async Task<Response<IEnumerable<Movie>>> GetAllMovies()
+        public async Task<Response<IEnumerable<Movie>>> GetAllMovies(int page)
         {
-            var movies = await movieRepo.GetAllAsync();
+            var movies = await movieRepo.Where(x => x.MovieID > 0)
+                                        .Skip((page - 1) * 20)
+                                        .Take(20)
+                                        .ToListAsync();
             
             if (movies == null)
                 return new Response<IEnumerable<Movie>>() { Data = null, Error = "Movies not found", StatusCode = 404 };
@@ -138,6 +141,7 @@ namespace MovieApp.Service.Services
 
             var moviesDto = movies.Select(x => new MovieDto()
             {
+                Id = x.MovieID,
                 Name = x.Name,
                 Rating = x.Rating,
                 Date = x.Date,
@@ -149,5 +153,6 @@ namespace MovieApp.Service.Services
             return new Response<IEnumerable<MovieDto>>() { Data = moviesDto, Error = null, StatusCode = 200 };
 
         }
+    
     }
 }

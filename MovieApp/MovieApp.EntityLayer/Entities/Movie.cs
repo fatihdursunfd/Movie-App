@@ -11,7 +11,6 @@ namespace MovieApp.EntityLayer.Entities
         public int MovieID { get; set; }
         public string Name { get; set; }
         public string Date { get; set; }
-
         public string Minute { get; set; }
         public string Description { get; set; }
         public float Rating { get; set; }

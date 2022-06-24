@@ -69,3 +69,6 @@ C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.API\bin\Debug\net
 C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.API\bin\Debug\net6.0\MySqlConnector.dll
 C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.API\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.API\bin\Debug\net6.0\Data\movies.json
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\fatih\OneDrive\Masaüstü\Movie App\MovieApp\MovieApp.API\obj\Debug\net6.0\MovieApp.API.MvcApplicationPartsAssemblyInfo.cs

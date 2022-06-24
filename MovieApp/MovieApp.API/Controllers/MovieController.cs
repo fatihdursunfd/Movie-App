@@ -26,9 +26,9 @@ namespace MovieApp.API.Controllers
 
 
         [HttpGet("GetAllMovies")]
-        public async Task<IActionResult> GetAllMovies()
+        public async Task<IActionResult> GetAllMovies(int page)
         {
-            var movies = await movieService.GetMoviesWithFeatures();
+            var movies = await movieService.GetAllMovies(page);
             return Ok(movies);
         }
 

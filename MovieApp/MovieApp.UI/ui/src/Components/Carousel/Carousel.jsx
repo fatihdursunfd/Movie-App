@@ -4,17 +4,21 @@ import AliceCarousel from "react-alice-carousel";
 import "react-alice-carousel/lib/alice-carousel.css";
 import { img_300, noPicture } from "../../config/config";
 import "./Carousel.css";
+import Constants from "../../Utilities/Constants";
 
 const handleDragStart = (e) => e.preventDefault();
 
-const Gallery = ({ id, media_type }) => {
-  const [credits, setCredits] = useState([]);
+const Gallery = ({ id }) => {
 
-  const items = credits.map((c) => (
+  const [credits, setCredits] = useState([]);
+  const [stars, setStars] = useState([]);
+
+  const items = stars.map((c) => (
     <div className="carouselItem">
       <img
-        src={c.profile_path ? `${img_300}/${c.profile_path}` : noPicture}
-        alt={c?.name}
+        //src={c.imageUrl ? `${c.imageUrl}` : noPicture}
+        src = {noPicture}
+        alt={c.name}
         onDragStart={handleDragStart}
         className="carouselItem__img"
       />
@@ -35,10 +39,14 @@ const Gallery = ({ id, media_type }) => {
   };
 
   const fetchCredits = async () => {
-    const { data } = await axios.get(
-      `https://api.themoviedb.org/3/${media_type}/${id}/credits?api_key=44f4b50a7a7b8ece939348ff65ba06f3&language=en-US`
-    );
-    setCredits(data.cast);
+    const url = Constants.API_URL_GET_STARS_BY_MOVIE_ID + id
+      await axios.get(url)
+                  .then((response) => {
+                      if(response.data.error ===  null){
+                          console.log(response.data.data);
+                          setStars(response.data.data)
+                    }
+                  })
   };
 
   useEffect(() => {
@@ -46,6 +54,7 @@ const Gallery = ({ id, media_type }) => {
   }, []);
 
   return (
+    
     <AliceCarousel
       mouseTracking
       infinite
