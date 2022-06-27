@@ -39,7 +39,7 @@ namespace MovieApp.Service.Services
         {
             List<JsonDto> movies = new List<JsonDto>();
 
-            using (StreamReader r = new StreamReader(@"./Data/movies.json"))
+            using (StreamReader r = new StreamReader(@"./Data/moviesnew.json"))
             {
                 string json = r.ReadToEnd();
                 movies = JsonConvert.DeserializeObject<List<JsonDto>>(json);
@@ -71,12 +71,12 @@ namespace MovieApp.Service.Services
 
                 foreach (var s in m.Stars)
                 {
-                    var st = starRepo.Where(x => x.Name == s).FirstOrDefault();
+                    var st = starRepo.Where(x => x.Name == s.Name).FirstOrDefault();
                     if (st is null)
                     {
                         star = new Star();
-                        star.Name = s;
-                        star.ImageUrl = "";
+                        star.Name = s.Name;
+                        star.ImageUrl = s.ImageUrl;
                         stars.Add(star);
                         starsA.Add(star);
                     }
@@ -117,7 +117,7 @@ namespace MovieApp.Service.Services
                 movie.Name = m.Title;
                 movie.Date = m.ReleaseDate;
                 movie.ImageSmUrl = m.ImageSm;
-                movie.Rating = m.Rating;
+                movie.Rating = Convert.ToDouble(m.Rating);
                 movie.Description = m.Description;
                 movie.ImageLgUrl = m.ImageLg;
                 movie.Minute = m.Minute;

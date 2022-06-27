@@ -26,8 +26,8 @@ namespace MovieApp.Service.Services
         public async Task<Response<IEnumerable<StarDto>>> GetStarsByMovieId(int movieId)
         {
             var movie = await movieRepo.Where(x => x.MovieID == movieId)
-                                  .Include(x => x.Stars)
-                                  .FirstOrDefaultAsync();
+                                       .Include(x => x.Stars)
+                                       .FirstOrDefaultAsync();
 
             if (movie is null)
                 return new Response<IEnumerable<StarDto>>() { Data = null, Error = "Movie not found", StatusCode = 404 };
@@ -38,10 +38,12 @@ namespace MovieApp.Service.Services
                 ImageUrl = x.ImageUrl
             }).ToList();
 
+
             if(stars is null)
                 return new Response<IEnumerable<StarDto>>() { Data = null, Error = "Stars not found", StatusCode = 404 };
 
             return new Response<IEnumerable<StarDto>>() { Data = stars , Error = null , StatusCode = 200};
+
         }
     }
 }

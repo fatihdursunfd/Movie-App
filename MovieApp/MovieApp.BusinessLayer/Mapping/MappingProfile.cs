@@ -14,6 +14,10 @@ namespace MovieApp.Service.Mapping
         public MappingProfile()
         {
             CreateMap<Category, CategoryDto>();
+
+            CreateMap<Movie, MovieDto>();
+
+            CreateMap<Star, StarDto>();
         }
     }
 }

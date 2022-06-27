@@ -17,14 +17,6 @@ namespace MovieApp.API.Controllers
             this.movieService = movieService;
         }
 
-        [HttpGet("GetMoviesByCategory")]
-        public async Task<IActionResult> GetMoviesByCategory(string categoryName)
-        {
-            var movies = await movieService.GetMoviesByCategory(categoryName);
-            return Ok(movies);
-        }
-
-
         [HttpGet("GetAllMovies")]
         public async Task<IActionResult> GetAllMovies(int page)
         {
@@ -32,6 +24,15 @@ namespace MovieApp.API.Controllers
             return Ok(movies);
         }
 
+
+        [HttpGet("GetMoviesByCategory")]
+        public async Task<IActionResult> GetMoviesByCategory(string categoryName, int page)
+        {
+            var movies = await movieService.GetMoviesByCategory(categoryName, page);
+            return Ok(movies);
+        }
+
+        
 
         [HttpGet("GetMovieById")]
         public async Task<IActionResult> GetMovieById(int movieId)
@@ -47,6 +48,7 @@ namespace MovieApp.API.Controllers
             var movies = await movieService.GetMoviesByName(name);
             return Ok(movies);
         }
+
 
         [HttpGet("GetTrendingMovies")]
         public async Task<IActionResult> GetTrendingMovies()
