@@ -16,8 +16,7 @@ const Gallery = ({ id }) => {
   const items = stars.map((c) => (
     <div className="carouselItem">
       <img
-        //src={c.imageUrl ? `${c.imageUrl}` : noPicture}
-        src = {noPicture}
+        src={c.imageUrl ? `${c.imageUrl}` : noPicture}
         alt={c.name}
         onDragStart={handleDragStart}
         className="carouselItem__img"
@@ -43,7 +42,6 @@ const Gallery = ({ id }) => {
       await axios.get(url)
                   .then((response) => {
                       if(response.data.error ===  null){
-                          console.log(response.data.data);
                           setStars(response.data.data)
                     }
                   })

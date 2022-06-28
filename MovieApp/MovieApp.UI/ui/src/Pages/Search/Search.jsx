@@ -79,9 +79,9 @@ const Search = () => {
       <div className="trending"> {
           movies && movies.map((c) => (
             <Single
-                key={c.id}
-                id={c.id}
-                poster={c.image_lg}
+                key={c.movieID}
+                id={c.movieID}
+                poster={c.imageLgUrl}
                 title={c.name}
                 date={c.date }
                 media_type={"tv"}

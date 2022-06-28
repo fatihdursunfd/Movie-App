@@ -4,50 +4,56 @@ import Single from "../../Components/Single/Single"
 import CustomPagination from "../../Components/Pagination/CustomPagination"
 import Genres from '../../Components/Genres/Genres'
 import useGenre from "../../hooks/useGenre"
+import Constants from '../../Utilities/Constants'
 
 const Movies = () => {
 
   const [page, setPage] = useState(1);
-  const [content, setContent] = useState([]);
+  const [movies, setMovies] = useState([]);
   const [numOfPages, setNumOfPages] = useState();
   const [genres, setGenres] = useState([]);
-  const [selectedGenres, setSelectedGenres] = useState([]);
-  const genreforURL = useGenre(selectedGenres);
+  const [selectedGenre, setSelectedGenre] = useState();
 
   const fetchMovies = async () => {
-    const url = `https://api.themoviedb.org/3/discover/movie?api_key=44f4b50a7a7b8ece939348ff65ba06f3&language=en-US&sort_by=popularity.desc&include_adult=false&include_video=false&page=${page}&with_watch_monetization_types=flatrate&with_genres=${genreforURL}`
-    const {data} = await axios.get(url)
-    setContent(data.results)
-    setNumOfPages(data.total_pages)
+      
+      const url = Constants.API_URL_GET_MOVIES + page
+        await axios.get(url)
+              .then((response) => {
+                  if(response.data.error ===  null){
+                    setMovies(response.data.data)
+                    setNumOfPages(108)
+                }
+              })
   }
   
   useEffect(() => {
       window.scroll(0, 0);
+      selectedGenre && console.log(selectedGenre.name)
       fetchMovies();
-  }, [page , genreforURL]);
+  }, [page, selectedGenre]);
 
   return (
     <div>
       <span className='pageTitle' >Movies </span>
       <Genres
         type="movie"
-        selectedGenres={selectedGenres}
-        setSelectedGenres={setSelectedGenres}
+        selectedGenre={selectedGenre}
+        setSelectedGenre={setSelectedGenre}
         genres={genres}
         setGenres={setGenres}
         setPage={setPage}
       />
       <div className='trending'>
-        {content &&
-            content.map((c) => (
+        { movies &&
+            movies.map((c) => (
               <Single
-                key={c.id}
-                id={c.id}
-                poster={c.poster_path}
-                title={c.title || c.name}
-                date={c.first_air_date || c.release_date}
+                key={c.movieID}
+                id={c.movieID}
+                poster={c.imageLgUrl}
+                title={c.name}
+                date={c.date}
                 media_type="movie"
-                vote_average={c.vote_average}
+                vote_average={c.rating}
               />
         ))}
       </div>

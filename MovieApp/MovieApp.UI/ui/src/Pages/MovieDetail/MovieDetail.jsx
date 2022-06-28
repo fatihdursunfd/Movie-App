@@ -40,12 +40,15 @@ const MovieDetail = () => {
           {movies && (
             <div className="paperModal">
               <div className="ContentModal">
-                <img src={ movies.image_lg ? `${movies.image_lg}` : unavailable } alt={movies.name} className="ContentModal__portrait" />
+                <img src={ movies.imageLgUrl ? `${movies.imageLgUrl}` : unavailable } alt={movies.name} className="ContentModal__portrait" />
                 <div className="ContentModal__about">
                   <span className="ContentModal__title">
                     {`${movies.name} (${movies.date})`} 
                   </span>
-
+                  {
+                      movies.director && 
+                      <i className="tagline">by {movies.director.fullname}</i>
+                  }
                   <span className="ContentModal__description"> {movies.description} </span>
                   <div>
                     <Carousel id={id}  /> 
@@ -55,7 +58,7 @@ const MovieDetail = () => {
                     startIcon={<YouTubeIcon />}
                     color="secondary"
                     target="__blank"
-                    href={`https://www.youtube.com/results?search_query=${movies.name}`}
+                    href={`https://www.youtube.com/results?search_query=${movies.name} trailer`}
                   > 
                       Watch the Trailer
                   </Button>
