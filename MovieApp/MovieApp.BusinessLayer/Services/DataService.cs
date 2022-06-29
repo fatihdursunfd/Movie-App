@@ -39,7 +39,7 @@ namespace MovieApp.Service.Services
         {
             List<JsonDto> movies = new List<JsonDto>();
 
-            using (StreamReader r = new StreamReader(@"./Data/moviesnew.json"))
+            using (StreamReader r = new StreamReader(@"./Data/movies.json"))
             {
                 string json = r.ReadToEnd();
                 movies = JsonConvert.DeserializeObject<List<JsonDto>>(json);

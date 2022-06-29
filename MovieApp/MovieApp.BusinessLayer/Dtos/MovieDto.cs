@@ -14,7 +14,7 @@ namespace MovieApp.Service.Dtos
         public string Date { get; set; }
         public string Minute { get; set; }
         public string Description { get; set; }
-        public float Rating { get; set; }
+        public double Rating { get; set; }
         public string ImageSmUrl { get; set; }
         public string ImageLgUrl { get; set; }
         public Director Director { get; set; }

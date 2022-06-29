@@ -16,7 +16,7 @@ const MovieDetail = () => {
     const params = useParams()
     const id = params.id
     const media_type = params.mediaType
-    const [movies , setMovies] = useState([])
+    const [movie , setMovie] = useState([])
     const [video, setVideo] = useState();
 
     const fetchData = async () => {
@@ -25,7 +25,7 @@ const MovieDetail = () => {
       await axios.get(url)
                   .then((response) => {
                       if(response.data.error ===  null){
-                          setMovies(response.data.data)
+                          setMovie(response.data.data)
                     }
                   })
     };
@@ -37,19 +37,23 @@ const MovieDetail = () => {
 
     return (
         <div>
-          {movies && (
+          {movie && (
             <div className="paperModal">
               <div className="ContentModal">
-                <img src={ movies.imageLgUrl ? `${movies.imageLgUrl}` : unavailable } alt={movies.name} className="ContentModal__portrait" />
+                <img src={ movie.imageLgUrl ? `${movie.imageLgUrl}` : unavailable } alt={movie.name} className="ContentModal__portrait" />
                 <div className="ContentModal__about">
                   <span className="ContentModal__title">
-                    {`${movies.name} (${movies.date})`} 
+                    {`${movie.name} (${movie.date})`} 
                   </span>
                   {
-                      movies.director && 
-                      <i className="tagline">by {movies.director.fullname}</i>
+                      movie.director && 
+                      <i className="tagline">by {movie.director.fullname}</i>
                   }
-                  <span className="ContentModal__description"> {movies.description} </span>
+                  {
+                      movie.minute && 
+                      <i className="tagline">{movie.minute }</i>
+                  }
+                  <span className="ContentModal__description"> {movie.description} </span>
                   <div>
                     <Carousel id={id}  /> 
                   </div>
@@ -58,7 +62,7 @@ const MovieDetail = () => {
                     startIcon={<YouTubeIcon />}
                     color="secondary"
                     target="__blank"
-                    href={`https://www.youtube.com/results?search_query=${movies.name} trailer`}
+                    href={`https://www.youtube.com/results?search_query=${movie.name} trailer`}
                   > 
                       Watch the Trailer
                   </Button>

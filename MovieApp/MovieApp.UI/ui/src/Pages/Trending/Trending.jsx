@@ -26,7 +26,7 @@ const Trending = () => {
 
   return (
     <div>
-        <span className='pageTitle' > Trending </span>
+        <span className='pageTitle' > Top Rated 20 Movies </span>
         <div className='trending'>
             {movies.map( (c) => 
                 < Single 
@@ -40,7 +40,6 @@ const Trending = () => {
                 />
           )}
         </div>
-        <CustomPagination setPage={setPage} />
     </div>
   )
 }

@@ -33,7 +33,10 @@ namespace MovieApp.Service.Services
 
         public async Task<Response<IEnumerable<Movie>>> GetAllMovies(int page)
         {
+            var totalPageCount = movieRepo.Where(x => x.MovieID > 0).ToList().Count / 20 + 1;
+
             var movies = await movieRepo.Where(x => x.MovieID > 0)
+                                        .OrderByDescending(x => x.Rating)      
                                         .Skip((page - 1) * 20)
                                         .Take(20)
                                         .ToListAsync();
@@ -41,7 +44,8 @@ namespace MovieApp.Service.Services
             if (movies == null)
                 return new Response<IEnumerable<Movie>>() { Data = null, Error = "Movies not found", StatusCode = 404 };
 
-            return new Response<IEnumerable<Movie>>() { Data = movies, Error = null, StatusCode = 200 };
+
+            return new Response<IEnumerable<Movie>>() { Data = movies, Error = null, StatusCode = 200 , TotalPageCount = totalPageCount };
 
         }
 
@@ -59,21 +63,20 @@ namespace MovieApp.Service.Services
 
         }
 
-        public async Task<Response<IEnumerable<Movie>>> GetMoviesByCategory(string categoryName , int page)
+        public async Task<Response<IEnumerable<MovieDto>>> GetMoviesByCategory(string categoryName , int page)
         {
             var category = await categoryRepo.Where(x => x.Name.ToLower().Contains(categoryName))
-                                             .Skip((page - 1) * 20)
-                                             .Take(20)
                                              .Select(x => new
                                              {
                                                 x.CategoryID,
                                                 x.Name,
-                                                Movies = x.Movies.Select(e => new Movie()
+                                                Movies = x.Movies.Select(e => new MovieDto()
                                                 {
                                                     MovieID =  e.MovieID,
                                                     Rating = e.Rating,
                                                     Name = e.Name,
                                                     Date = e.Date,
+                                                    Minute = e.Minute,
                                                     Description = e.Description,
                                                     Director = e.Director,
                                                     ImageLgUrl = e.ImageLgUrl,
@@ -83,9 +86,16 @@ namespace MovieApp.Service.Services
                                              .ToListAsync();
 
             if (category == null)
-                return new Response<IEnumerable<Movie>>() { Data = null, Error = "Movies not found", StatusCode = 404 };
+                return new Response<IEnumerable<MovieDto>>() { Data = null, Error = "Movies not found", StatusCode = 404 };
 
-            return new Response<IEnumerable<Movie>>() { Data = category[0].Movies , Error = null, StatusCode = 200 };
+            var movies = category[0].Movies.OrderByDescending(x => x.Rating)
+                                                 .Skip((page - 1 ) * 20)
+                                                 .Take(20)
+                                                 .ToList();
+
+            var totalPageCount = category[0].Movies.Count / 20 + 1;
+
+            return new Response<IEnumerable<MovieDto>>() { Data = movies, Error = null, StatusCode = 200 , TotalPageCount = totalPageCount };
 
         }
 

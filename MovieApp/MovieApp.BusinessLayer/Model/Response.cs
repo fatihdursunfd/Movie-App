@@ -11,6 +11,7 @@ namespace MovieApp.Service.Model
         public T Data { get; set; }
         public int StatusCode { get; set; }
         public string Error { get; set; }
+        public int TotalPageCount { get; set; } = 0;
 
     }
 }

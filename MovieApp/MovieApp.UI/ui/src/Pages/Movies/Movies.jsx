@@ -15,20 +15,32 @@ const Movies = () => {
   const [selectedGenre, setSelectedGenre] = useState();
 
   const fetchMovies = async () => {
-      
-      const url = Constants.API_URL_GET_MOVIES + page
-        await axios.get(url)
+
+      if(selectedGenre){
+          const url = Constants.API_URL_GET_MOVIE_BY_GENRE + selectedGenre.name + "&page=" + page
+          await axios.get(url)
+                .then((response) => {
+                    if(response.data.error ===  null){
+                      setMovies(response.data.data)
+                      setNumOfPages(response.data.totalPageCount)
+                  }
+                })
+      }
+      else{
+          const url = Constants.API_URL_GET_MOVIES + page
+          await axios.get(url)
               .then((response) => {
                   if(response.data.error ===  null){
                     setMovies(response.data.data)
-                    setNumOfPages(108)
+                    setNumOfPages(response.data.totalPageCount)
                 }
               })
+      }
+
   }
   
   useEffect(() => {
       window.scroll(0, 0);
-      selectedGenre && console.log(selectedGenre.name)
       fetchMovies();
   }, [page, selectedGenre]);
 
