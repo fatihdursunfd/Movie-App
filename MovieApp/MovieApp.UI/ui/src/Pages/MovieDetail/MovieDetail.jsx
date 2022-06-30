@@ -1,4 +1,4 @@
-import React , {useEffect , useState} from 'react'
+import React , {useEffect , useState, useContext} from 'react'
 import { useParams } from 'react-router-dom';
 import axios from 'axios';
 import Button from '@mui/material/Button';
@@ -11,13 +11,18 @@ import {
   } from "../../config/config";
 import YouTubeIcon from '@mui/icons-material/YouTube';
 import Constants from '../../Utilities/Constants'
+import Rate from '../../Components/Rate/Rate';
+import { Context } from '../../Context/Context';
 
 const MovieDetail = () => {
+
+    const { user } = useContext(Context);
+
     const params = useParams()
     const id = params.id
     const media_type = params.mediaType
     const [movie , setMovie] = useState([])
-    const [video, setVideo] = useState();
+    const [rating, setRating] = useState(0);
 
     const fetchData = async () => {
 
@@ -66,6 +71,16 @@ const MovieDetail = () => {
                   > 
                       Watch the Trailer
                   </Button>
+                  {
+                    user &&
+                      <>
+                        <span className='ContentModal__rate'> Rate This Movie</span>
+                        <div className='ContentModal__rating'>
+                            < Rate rating={rating} onRating={(rate) => setRating(rate)}/>
+                        </div>
+                      </>
+                  }
+                  
                 </div>
               </div>
             </div>

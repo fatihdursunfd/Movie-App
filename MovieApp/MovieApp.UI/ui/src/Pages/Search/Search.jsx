@@ -11,7 +11,7 @@ import Single from "../../Components/Single/Single";
 import SearchIcon from '@mui/icons-material/Search';
 import Constants from '../../Utilities/Constants';
 import "./Search.css"
-import "../Trending/Trending.css"
+import "../TopRated/TopRated.css"
 
 const Search = () => {
   const [type, setType] = useState(0);

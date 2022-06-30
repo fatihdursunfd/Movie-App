@@ -1,11 +1,11 @@
 import React , { useEffect, useState } from 'react'
 import axios from "axios"
 import Single from "../../Components/Single/Single"
-import "./Trending.css"
+import "./TopRated.css"
 import CustomPagination from "../../Components/Pagination/CustomPagination" 
 import Constants from '../../Utilities/Constants'
 
-const Trending = () => {
+const TopRated = () => {
 
   const [page, setPage] = useState(1);
   const [movies , setMovies] = useState([])
@@ -44,4 +44,4 @@ const Trending = () => {
   )
 }
 
-export default Trending
+export default TopRated

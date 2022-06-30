@@ -37,7 +37,7 @@ const Gallery = ({ id }) => {
     },
   };
 
-  const fetchCredits = async () => {
+  const fetchStars = async () => {
     const url = Constants.API_URL_GET_STARS_BY_MOVIE_ID + id
       await axios.get(url)
                   .then((response) => {
@@ -48,7 +48,7 @@ const Gallery = ({ id }) => {
   };
 
   useEffect(() => {
-    fetchCredits();
+    fetchStars();
   }, []);
 
   return (

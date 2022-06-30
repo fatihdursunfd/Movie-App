@@ -33,7 +33,6 @@ namespace MovieApp.Service.Services
 
         public async Task<Response<IEnumerable<Movie>>> GetAllMovies(int page)
         {
-            var totalPageCount = movieRepo.Where(x => x.MovieID > 0).ToList().Count / 20 + 1;
 
             var movies = await movieRepo.Where(x => x.MovieID > 0)
                                         .OrderByDescending(x => x.Rating)      
@@ -44,7 +43,7 @@ namespace MovieApp.Service.Services
             if (movies == null)
                 return new Response<IEnumerable<Movie>>() { Data = null, Error = "Movies not found", StatusCode = 404 };
 
-
+            var totalPageCount = movieRepo.Where(x => x.MovieID > 0).ToList().Count / 20 + 1;
             return new Response<IEnumerable<Movie>>() { Data = movies, Error = null, StatusCode = 200 , TotalPageCount = totalPageCount };
 
         }
