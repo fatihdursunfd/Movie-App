@@ -1,5 +1,5 @@
-const API_BASE_URL_DEVELOPMENT = 'https://localhost:7128/api'
-const API_BASE_URL_PRODUCTION = 'https://aspnetcorewithreact.azurewebsites.net'
+const API_BASE_URL_DEVELOPMENT = 'https://moviappapi.herokuapp.com/api'
+const API_BASE_URL_PRODUCTION = 'https://moviappapi.herokuapp.com/api'
 
 const ENDPOINTS = {
     GET_TRENDING : "Movie/GetTrendingMovies",
